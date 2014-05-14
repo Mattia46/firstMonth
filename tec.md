@@ -27,7 +27,7 @@ We expect everyone to complete the projects and challenges, but we want to reinf
 
 ## The Third Agreement: Compassion
 
-We also expect every person to be compassionate to one another. Compassion does not mean **nice** they are actually not the same thing. Being compassionate does mean being friendly, generous, and considerate, but it does not preclude giving constructive, truthful feedback as long as it is **A** ctionable, **S** pecific, and **K** ind (_ASK_).
+We also expect every person to be compassionate to one another. Compassion does not mean **nice**, they are actually not the same thing. Being compassionate does mean being friendly, generous, and considerate, but it does not preclude giving constructive, truthful feedback as long as it is **A** ctionable, **S** pecific, and **K** ind (_ASK_).
 
 We expect all of you and coaches to show compassion by providing feedback and code reviews to one another, informing one another when someone has fallen out of integrity, and by bringing ourselves 100% into each challenge every day. We also show compassion through showing respect to others and our space.
 
