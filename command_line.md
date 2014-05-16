@@ -6,7 +6,8 @@ We start with learning the command line, also known as the terminal, because it'
 
 You're not required to know everything about the command line by the end of this lesson, it's merely meant as a brief introduction to give you a basic understanding and to show you where to look for future reference.
 
-Make sure you go through these online courses:
+You can read more about the command line here:
 
+- :pill: [command line](https://github.com/makersacademy/pre_course/blob/master/pills/command_line.md)
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
