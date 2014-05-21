@@ -4,7 +4,7 @@ In this week we are aiming to get you ready with a lot of basic concepts and pra
 
 Each week we will be working on a project that will solidify your understanding of the techniques and practices you'll be learning day by day; this week we are going to build a simple terminal based student directory.
 
-Make sure that you go through the **[knowledge pills](https://github.com/makersacademy/course/blob/master/pills.md) (:pill:)** when you struggle.
+Make sure that you go through the **[knowledge pills](/pills.md) (:pill:)** when you struggle.
 
 ## Overview
 
@@ -27,9 +27,9 @@ The script will be invoked from the command-line and it will only use pure Ruby,
 
 ## Version 0: Setting up your environment
 
-First, open the terminal and navigate to your project directory. Then create a new directory called "student-directory" (:pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md)), change into it and initialise it as an empty git repository (:pill: [Version Control with Git](https://github.com/makersacademy/course/blob/master/pills/git.md)).
+First, open the terminal and navigate to your project directory. Then create a new directory called "student-directory" (:pill: [The command line](/pills/command_line.md)), change into it and initialise it as an empty git repository (:pill: [Version Control with Git](/pills/git.md)).
 
-![terminal](https://github.com/makersacademy/course/raw/master/student_directory/images/term.png)
+![terminal](/student_directory/images/term.png)
 
 It makes sense to keep all projects you'll be working on in a designated project directory (and not on desktop, for example).
 
@@ -37,13 +37,13 @@ We always begin a new project (unless it's a throwaway code that will not live u
 
 **Now let's create a repository on Github!**
 
-![new repo](https://github.com/makersacademy/course/raw/master/student_directory/images/new_github_repo.png)
+![new repo](/student_directory/images/new_github_repo.png)
 
 Make it public, name it "student-directory" (it's usually a good idea to use the same name for Github repos and local folders) but don't initialise it with a README – we'll do it manually. This is what your repo will look like right after it's created.
 
-![new repo created](https://github.com/makersacademy/course/raw/master/student_directory/images/new_github_repo_created.png)
+![new repo created](/student_directory/images/new_github_repo_created.png)
 
-Let's now initialise the repo with a README file and create a local remote ( :pill: [Version Control with Git](https://github.com/makersacademy/course/blob/master/pills/git.md)). Github gives you steps required to do it:
+Let's now initialise the repo with a README file and create a local remote ( :pill: [Version Control with Git](/pills/git.md)). Github gives you steps required to do it:
 
 ````
 touch README.md
@@ -58,33 +58,33 @@ git push -u origin master
 
 Typing everything in also forces you to think about what exactly is going on. For example, what about the `git init` command? Is it really necessary here, given that we've already initialised the repo? Maybe not.
 
-![git push](https://github.com/makersacademy/course/raw/master/student_directory/images/git_push.png)
+![git push](/student_directory/images/git_push.png)
 
 Once you do it, refresh the Github page. It should show an empty repo (with the README.md file only).
 
-![new repo readme](https://github.com/makersacademy/course/raw/master/student_directory/images/new_github_repo_readme.png)
+![new repo readme](/student_directory/images/new_github_repo_readme.png)
 
 Good, now we have an empty repo with a remote called "master" pointing to Github. This is the basic groundwork you need to do before creating any new project.
 
 Note how Github displays the contents of the `README.md` file on your project page (it's empty now but you can still see it below the file list). This is because the file is named README, it's the default name for the file that has information about the project. The "md" extension means that the format of this file is [markdown](http://daringfireball.net/projects/markdown/basics). We'll write some [markdown](http://daringfireball.net/projects/markdown/basics) soon.
 
-Let's start SublimeText now. You should be able to do this by running `subl .` in the project directory (note there's a space between `subl` and the dot). The dot stands for the current directory (:pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md)) and `subl` is the shortcut that the developers often create for SublimeText. If you don't have it ( _that is, if you get an error message when trying to run the command_), you probably don't have this shortcut set up (:pill: [Sublime Text](https://github.com/makersacademy/course/blob/master/pills/sublime_text.md)).
+Let's start SublimeText now. You should be able to do this by running `subl .` in the project directory (note there's a space between `subl` and the dot). The dot stands for the current directory (:pill: [The command line](/pills/command_line.md)) and `subl` is the shortcut that the developers often create for SublimeText. If you don't have it ( _that is, if you get an error message when trying to run the command_), you probably don't have this shortcut set up (:pill: [Sublime Text](/pills/sublime_text.md)).
 
 After you launch SublimeText, it should look like this.
 
-![sublime](https://github.com/makersacademy/course/raw/master/student_directory/images/sublime.png)
+![sublime](/student_directory/images/sublime.png)
 
 If you don't see the list of files and folders on the left, select View → Sidebar → Show Open Files.
 
 Let's now write a description for the project. This is a good idea because it will let other developers to quickly see what the codebase does. Every good project on Github has a good `README` file.
 
-![readme](https://github.com/makersacademy/course/raw/master/student_directory/images/readme.png)
+![readme](/student_directory/images/readme.png)
 
 This README file is written using [Github-flavoured markdown](https://help.github.com/articles/github-flavored-markdown). Take a look the both the [markdown reference](http://daringfireball.net/projects/markdown/basics) and the [Github-flavoured markdown](https://help.github.com/articles/github-flavored-markdown) reference so that you know what's possible.
 
 Then, write your README file (you don't have to use the same we used), commit the changes and push to Github to see what it looks like there.
 
-![gitconfig](https://github.com/makersacademy/course/raw/master/student_directory/images/git_config.png)
+![gitconfig](/student_directory/images/git_config.png)
 
 If you get the **"push.default is unset"** warning, like in the screenshot above, just choose the `simple` mode as the default.
 
@@ -96,7 +96,7 @@ There's an [explanation on StackOverflow](http://stackoverflow.com/questions/118
 
 After we push the README file, we'll see it on Github.
 
-![studentreadme](https://github.com/makersacademy/course/raw/master/student_directory/images/student_directory_readme.png)
+![studentreadme](/student_directory/images/student_directory_readme.png)
 
 Now we have a local and and a remote repo with a README file that describes the project we're about to create.
 
@@ -104,13 +104,13 @@ Throughout this and future tutorials we will be giving links to specific commits
 
 ## Version 1: Printing the list of students
 
-Let's now write some Ruby code. First, create a file called directory.rb in the project directory by using the "touch" command (:pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md)). Don't forget the extension (".rb") and don't put any spaces in the filename.
+Let's now write some Ruby code. First, create a file called directory.rb in the project directory by using the "touch" command (:pill: [The command line](/pills/command_line.md)). Don't forget the extension (".rb") and don't put any spaces in the filename.
 
-![touch](https://github.com/makersacademy/course/raw/master/student_directory/images/touch.png)
+![touch](/student_directory/images/touch.png)
 
 Now you should see the empty file in SublimeText.
 
-![directoryrb](https://github.com/makersacademy/course/raw/master/student_directory/images/directoryrb.png)
+![directoryrb](/student_directory/images/directoryrb.png)
 
 Find out the names of the students in your cohort (great excuse to say hello to everyone again and have a little chat!) and print them all. I'll just use fictional names here. 
 
@@ -132,7 +132,7 @@ puts "The Joker"
 
 Now save the file and run it by passing the filename as an argument to ruby.
 
-![directoryexec](https://github.com/makersacademy/course/raw/master/student_directory/images/directoryexec.png)
+![directoryexec](/student_directory/images/directoryexec.png)
 
 You should see all names printed on the screen. If you get an error, it may look like this.
 
@@ -150,11 +150,11 @@ We need to commit the change because we've just done a small but meaningful piec
 
 It's a good idea to commit code once a specific change was introduced to the codebase and this change is finished. For example, we've just put a list of students in the codebase. We are happy with the codebase as it is right now because it works. A bad time to commit the code would be when the code is broken (it throws an error) or half-finished (you haven't double-checked the spelling yet, for example).
 
-![git push2](https://github.com/makersacademy/course/raw/master/student_directory/images/git_push_2.png)
+![git push2](/student_directory/images/git_push_2.png)
 
-Now, what does the code do? Every puts statement prints a line of text in the terminal. More precisely, it prints it to the standard output (:pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md)).
+Now, what does the code do? Every puts statement prints a line of text in the terminal. More precisely, it prints it to the standard output (:pill: [The command line](/pills/command_line.md)).
 
-`puts` itself is a method provided by Ruby. The string after every `puts` is an argument. In Ruby we can use parentheses around arguments but it's not mandatory (:pill: [methods](https://github.com/makersacademy/course/blob/master/pills/methods.md)). So, another way of writing the same code would be
+`puts` itself is a method provided by Ruby. The string after every `puts` is an argument. In Ruby we can use parentheses around arguments but it's not mandatory (:pill: [methods](/pills/methods.md)). So, another way of writing the same code would be
 
 ````ruby
 puts("The students of my cohort at Makers Academy")
@@ -206,7 +206,7 @@ The "\n" is an escape sequence (_[There are many more of them](http://en.wikiboo
 
 So, now that we added the student count, let's commit it again.
 
-![git push3](https://github.com/makersacademy/course/raw/master/student_directory/images/git_push_3.png)
+![git push3](/student_directory/images/git_push_3.png)
 
 If you would like to see what the code looks like at this stage of the tutorial, [follow this link](https://github.com/makersacademy/student-directory/tree/eff34bdc6aa33810178b6dac18bbe7e917523fef).
 
@@ -275,7 +275,7 @@ Now your code looks like this.
 		puts " great students"
 ````
 
-Now line 17 clearly communicates what it does. Let's reduce the line count by two by using interpolation (:pill: [String interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md) ). Replace the last three lines with this.
+Now line 17 clearly communicates what it does. Let's reduce the line count by two by using interpolation (:pill: [String interpolation](/pills/string_interpolation.md) ). Replace the last three lines with this.
 
 ````ruby
  # finally, we print the total
@@ -292,7 +292,7 @@ Our code works but it's not perfect. There are two problems here. Firstly, it's 
 
 Secondly, the data (student names) is tightly coupled with what we do with this data (printing it). What if we wanted to change the way the students are printed, for example putting a number in front of the name? That'd mean updating every single line that prints a student name. What if we wanted to print the list twice: first in alphabetical order, then in reverse order? You can see how quickly it can all go wrong.
 
-Arrays (:pill: [Arrays](https://github.com/makersacademy/course/blob/master/pills/arrays.md) ) will help us avoid both of these problems. Let's start by putting the students into an array. Remember, don't copy-paste, type everything in yourself, it's important. Make sure you understand every line here: _if you don't, talk to other students or the coaches_.
+Arrays (:pill: [Arrays](/pills/arrays.md) ) will help us avoid both of these problems. Let's start by putting the students into an array. Remember, don't copy-paste, type everything in yourself, it's important. Make sure you understand every line here: _if you don't, talk to other students or the coaches_.
 
 ````ruby
 		student_count = 9
@@ -383,7 +383,7 @@ If you would like to see what the code looks like at this stage of the tutorial,
 
 ## Version 4: Methods
 
-Remember we discussed methods (:pill: [methods](https://github.com/makersacademy/course/blob/master/pills/methods.md) )? Let's create a few methods to make our program easier to read.
+Remember we discussed methods (:pill: [methods](/pills/methods.md) )? Let's create a few methods to make our program easier to read.
 
 ````ruby
 #let's put all students into an array
@@ -483,7 +483,7 @@ puts "#{student[0]} (#{student[1]} cohort)"
 
 If you guess that it doesn't communicate its intent well enough, you're right. If you read this line in isolation, you can see that it's printing some information about a student but you don't know anything else. Is `student[0]` a name? A first name? A last name? An average grade? Even though you can answer these questions by reading the entire program, you should strive to write code that's easy to understand as it is. 
 
-Let's fix this problem. Let's store the student data not in arrays but in hashes (:pill:  [hashes](https://github.com/makersacademy/course/blob/master/pills/hashes.md) )
+Let's fix this problem. Let's store the student data not in arrays but in hashes (:pill:  [hashes](/pills/hashes.md) )
 
 ````ruby
 students = [
@@ -517,7 +517,7 @@ If you would like to see what the code looks like at this stage of the tutorial,
 
 ## Version 6: Asking for user input
 
-Let's ask the user for the list of students instead of hardcoding them into the script. So we'll create an empty array of students and then ask the user for the first name and put it into the array. Then we'll ask for the second name and put it into the array. Then we'll ask for the third name and so on, until the user enters an empty name, at which point we'll just show the list of students. Sounds easy, right?  (:pill: [user interaction](https://github.com/makersacademy/course/blob/master/pills/user_interaction.md) )
+Let's ask the user for the list of students instead of hardcoding them into the script. So we'll create an empty array of students and then ask the user for the first name and put it into the array. Then we'll ask for the second name and put it into the array. Then we'll ask for the third name and so on, until the user enters an empty name, at which point we'll just show the list of students. Sounds easy, right?  (:pill: [user interaction](/pills/user_interaction.md) )
 
 The method we're about to write (**no copy and pasting, as usual**) is going to be the most complex yet but don't worry, we'll break it down line by line.
 
@@ -601,7 +601,7 @@ Some of them are easy and some are more challenging. If you find yourself strugg
 9. Once you complete the previous exercise, change the way the users are displayed: print them grouped by cohorts. To do this, you'll need to get a list of all existing cohorts (the map() method may be useful but it's not the only option), iterate over it and only print the students from that cohort.
 10. Right now if we have only one student, the user will see a message "Now we have 1 students", whereas it should be "Now we have 1 student". How can you fix it so that it used singular form when appropriate and plural form otherwise?
 11. We've been using the chomp() method to get rid of the last return character. Find another method among those provided by the String class that could be used for the same purpose (although it will require passing some arguments).
-12. Once you have completed the "Asking for user input" section, open [this file](https://raw.github.com/makersacademy/student-directory/b1820c858409e93166ac86cb1aa6b54fee2e1d7a/directory.rb). It's Ruby code but it has some typos. Copy it to a local file and open it in SublimeText without syntax highlighting. To do this, select "Plain Text" in the lower right corner of the window. It should look like this: ![rubysyntaxhighlighting](https://github.com/makersacademy/course/raw/master/student_directory/images/SelectingRubySyntaxHighlighting.png)
+12. Once you have completed the "Asking for user input" section, open [this file](https://raw.github.com/makersacademy/student-directory/b1820c858409e93166ac86cb1aa6b54fee2e1d7a/directory.rb). It's Ruby code but it has some typos. Copy it to a local file and open it in SublimeText without syntax highlighting. To do this, select "Plain Text" in the lower right corner of the window. It should look like this: ![rubysyntaxhighlighting](/student_directory/images/SelectingRubySyntaxHighlighting.png)
  Now, find all typos in that file and correct them. Use your experience, online documentation, etc. to find all mistakes. Run the script in the terminal from time to time to make sure it works as it should. Google the errors Ruby will give you, think about what they could mean, try different things but don't look the answer up :)
 13. What happens if the user doesn't enter any students? It will try to print an empty list. How can you use an "if" statement (see Ruby 2) to only print the list if there is at least one student in there?
 
@@ -630,7 +630,7 @@ end
 
 You learned how to perform all those actions in last week's project. Let's convert them into real Ruby code. Instead of starting with the first action, though, let's start with the last one: repeating the code from line 1, so that the user could make multiple selections.
 
-If we need to repeat a certain action a number of times, we need a loop. In this program, we need to keep asking for the user input indefinitely (until the program terminates), so a simple loop is a good choice (:pill: [control flow](https://github.com/makersacademy/course/blob/master/pills/control_flow.md) ) ).
+If we need to repeat a certain action a number of times, we need a loop. In this program, we need to keep asking for the user input indefinitely (until the program terminates), so a simple loop is a good choice (:pill: [control flow](/pills/control_flow.md) ) ).
 
 ````ruby
 def interactive_menu
@@ -658,7 +658,7 @@ You also know how to save the input into a variable:
 selection = gets.chomp
 ````
 
-Finally, we need to do some action based on what the user has asked us to do. A switch statement might be helpful in this case… (:pill:  [control flow](https://github.com/makersacademy/course/blob/master/pills/control_flow.md) )
+Finally, we need to do some action based on what the user has asked us to do. A switch statement might be helpful in this case… (:pill:  [control flow](/pills/control_flow.md) )
 
 ````ruby
 #3. do what the user has asked
@@ -864,7 +864,7 @@ We've just used a few new methods that you are not familiar with yet. Google the
 
 Allow me to digress from writing files for a second. As a developer, you need to be able to solve unknown problems on a daily basis, read and understand code written by other people, learn new languages and methods, etc. The main goal of this section is not to show that when you need to write something to a file, you need to call the method open() of the class File and then combine the data using the method join() from the class Array. These are insignificant details. Instead, you need to read the piece of code above, understand it, google the methods used and remember that the files must be opened and closed (how exactly to do it doesn't matter, you can always google it in a second). Also, you need to remember that if you need to write an array of data, you would normally iterate over this array and write a piece of data on every iteration. Don't worry about how exactly to do it: it's easy to look up. Overall, strive to understand things conceptually and learn how to find answers instead of memorising them.
 
-So, back to writing files. Why did we use the method puts() to write to a file. Actually, this is a Ruby method that can be used in various situations. When we call it on its own, without any file reference, Ruby assumes that we want to write to standard output ( :pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md) ). So, these two lines are equivalent:
+So, back to writing files. Why did we use the method puts() to write to a file. Actually, this is a Ruby method that can be used in various situations. When we call it on its own, without any file reference, Ruby assumes that we want to write to standard output ( :pill: [The command line](/pills/command_line.md) ). So, these two lines are equivalent:
 
 ````ruby
 puts "Hello"
@@ -955,9 +955,9 @@ So, we open the file (this time for reading), then we read all lines into an arr
 
 There are a couple of new things happening here. First, we're doing a parallel assignment on line 4. This means that we are assigning two variables at the same time. If the assigned value is an array, then the first variable will get the first value of the array, the second variable – the second value and so on.
 
-In our file every line has one comma, so if split the line at this comma, we'll get an array with two values. The first one will become the name and the second one will become the cohort ( :pill: [parallel assignment](https://github.com/makersacademy/course/blob/master/pills/parallel_assignment.md) ).
+In our file every line has one comma, so if split the line at this comma, we'll get an array with two values. The first one will become the name and the second one will become the cohort ( :pill: [parallel assignment](/pills/parallel_assignment.md) ).
 
-On the next line we create a new hash and put it in the array of students using the shovel operator ( :pill: [shovel operator](https://github.com/makersacademy/course/blob/master/pills/shovel_operator.md) ). The only thing that's different from the input_students() method that does the same operation is that here we're converting a string that we read from the file to a symbol (`cohort.to_sym`). We do it for consistency: if we have decided to store the cohort as a symbol, so let's not change the format.
+On the next line we create a new hash and put it in the array of students using the shovel operator ( :pill: [shovel operator](/pills/shovel_operator.md) ). The only thing that's different from the input_students() method that does the same operation is that here we're converting a string that we read from the file to a symbol (`cohort.to_sym`). We do it for consistency: if we have decided to store the cohort as a symbol, so let's not change the format.
 
 If you now update the print_menu() and process() methods, your program should be able to load the students from file.
 
