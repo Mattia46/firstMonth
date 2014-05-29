@@ -54,4 +54,4 @@ This line takes the string "hello, world", then takes five characters starting w
 
 This technique of calling the methods directly on the return value of the previous method call is called method chaining. It can allow you to do fairly powerful data transformations in just one line.
 
-All methods used above are part of the class String, so you can read about them in the documentation (do you remember how to find Ruby classes documentation by googling?).
+All methods used above are part of the class String, so you can read about them in the documentation ([Ruby String documentation](http://www.ruby-doc.org/core-2.1.2/String.html)).

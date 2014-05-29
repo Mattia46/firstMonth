@@ -373,9 +373,9 @@ Now our program is much shorter.
 		puts "Overall, we have #{students.length} great students"
 ````
 
-By doing this we have solved two problems. Firstly, we separated the data (the array) from the operation on this array (line 17). This means that if we want to print this array again, it's very easy to do. It also means that if we want to add one more student, we won't have to do anything other than adding one more name to the array. On top of that, we could get rid of the `student_count` variable.
+By doing this we have solved two problems. Firstly, we separated the data (the array) from the operation on this array. This means that if we want to print this array again, it's very easy to do. It also means that if we want to add one more student, we won't have to do anything other than adding one more name to the array. On top of that, we could get rid of the `student_count` variable.
 
-Secondly, we got rid of the repetition. This means that if we want to change the way this array is printed, there's only one line to update, line 17.
+Secondly, we got rid of the repetition. This means that if we want to change the way this array is printed, there's only one line to update, `puts student`.
 
 It's certainly a good time to commit the code.
 
