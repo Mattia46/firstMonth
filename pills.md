@@ -9,8 +9,6 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Installing XCode](/pills/installing_xcode.md)
 
-## Git
-:pill: [Version Control with Git](/pills/git.md)
 
 ## Ruby
 
