@@ -27,7 +27,7 @@ The script will be invoked from the command-line and it will only use pure Ruby,
 
 ## Version 0: Setting up your environment
 
-First, open the terminal and navigate to your project directory. Then create a new directory called "student-directory" (:pill: [The command line](/pills/command_line.md)), change into it and initialise it as an empty git repository (:pill: [Version Control with Git](/pills/git.md)).
+First, open the terminal and navigate to your project directory. Then create a new directory called "student-directory" (:pill: [The command line](/pills/command_line.md)), change into it and initialise it as an empty git repository (:pill: [Version Control with Git](/version_control.md)).
 
 ![terminal](/student_directory/images/term.png)
 
@@ -43,7 +43,7 @@ Make it public, name it "student-directory" (it's usually a good idea to use the
 
 ![new repo created](/student_directory/images/new_github_repo_created.png)
 
-Let's now initialise the repo with a README file and create a local remote ( :pill: [Version Control with Git](/pills/git.md)). Github gives you steps required to do it:
+Let's now initialise the repo with a README file and create a local remote ( :pill: [Version Control with Git](/version_control.md)). Github gives you steps required to do it:
 
 ````
 touch README.md
