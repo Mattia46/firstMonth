@@ -26,6 +26,8 @@ Make sure you go through these tutorial before you begin the course at [Makers A
 - [Try git](https://try.github.io/levels/1/challenges/1)
 - [Git Immersion](http://gitimmersion.com)
 - [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
+- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
+- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
 ## Books and other Resources
 
