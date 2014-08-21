@@ -12,3 +12,5 @@ You can read more about the command line here:
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
+- [Makers Academy's Command Line Course on Memrise](http://www.memrise.com/course/372930/command-line-basics-by-makers-academy/)
+
