@@ -17,6 +17,8 @@ Before you start at Makers Academy you should go through the following tutorials
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Ruby Koans](http://rubykoans.com)
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
+- [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
+- [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
 
 ## Books and other Resources
 
