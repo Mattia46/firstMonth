@@ -8,7 +8,7 @@ You're not required to know everything about the command line by the end of this
 
 You can read more about the command line here:
 
-- :pill: [command line](https://github.com/makersacademy/pre_course/blob/master/pills/command_line.md)
+- :pill:&nbsp;[command line](https://github.com/makersacademy/pre_course/blob/master/pills/command_line.md)
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 - [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
