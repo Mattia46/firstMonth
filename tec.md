@@ -12,7 +12,7 @@ We expect you to be transparent in:
 - showing up on time (_in the mornings as well as to the lectures_)
 - working through the projects and challenges you are given each week/day
 - communicating when you are struggling
-- pairing with others
+- pair programming with others
 - asking for help
 - submitting feedback
 - going the steps outlined in each project/challenge
