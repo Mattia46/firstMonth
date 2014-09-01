@@ -8,7 +8,7 @@
 - Are considerate of your fellow students
 - Ask questions when you don’t understand something
 - Discuss various options with your fellow students as well as pros and cons
-- Demonstrate your ability to research (_methods, use IRB, etc._)
+- Demonstrate your ability to research (_e.g. experimenting with methods in the interactive ruby environment - IRB, etc._)
 - Let your fellow students know when you need thinking time instead of going silent
 - Experiment with the code and cultivate a spirit of play
 - Use the knowledge you’ve gained to solve the challenges
