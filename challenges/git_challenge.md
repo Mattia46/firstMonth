@@ -2,7 +2,7 @@
 
 
 - *Create a directory where you'll be keeping all your projects (~/Projects, ~/dev, ~/coding or something like this)*
-- *Create a directory "command-line" in your projects folder
+- *Create a directory "command-line" in your projects folder*
 - *Initialise a git repository inside it*
 - *Create a README file with the following content: "This is a list of some of the most useful shell commands"*
 - *Add it to the repo and commit it*
