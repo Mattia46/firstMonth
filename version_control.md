@@ -40,3 +40,5 @@ Make sure you go through these tutorials before you begin the course at [Makers 
 - [Github cheat sheets](https://training.github.com/kit/)
 - [Github training videos](https://www.youtube.com/user/GitHubGuides)
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/resources)
+- [Git-It Tutorial](https://github.com/jlord/git-it)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
