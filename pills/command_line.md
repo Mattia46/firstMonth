@@ -848,7 +848,7 @@ Finally, to exit the shell, just type "exit" :)
 
 ## Challenges
 
-Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](/command_line_challenges.md).
+Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](/challenges/command_line_challenges.md).
 
 
 
