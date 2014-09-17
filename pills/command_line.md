@@ -60,6 +60,7 @@ Going back to the directory discussion from earlier, we see that we're in the "D
 `ls`
 
 This stands for "list." This command will show everything in the "Desktop" directory:
+
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901340878_Screen%20Shot%202013-10-04%20at%2016.42.01.png "ls")
 
 #### Printing working directory
