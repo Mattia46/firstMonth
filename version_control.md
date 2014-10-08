@@ -21,9 +21,12 @@ git version 1.7.12.4 (Apple Git-37)
 
 ## Tutorials
 
-Make sure you go through these tutorials before you begin the course at [Makers Academy](http://makersacademy.com):
+Make sure that you complete the following git tutorial (or pill) before you begin the course at Makers Academy:
 
 - :pill:&nbsp;[git](/pills/git.md)
+
+Here are some other tutorials you may find helpful:
+
 - [Try git](https://try.github.io/levels/1/challenges/1)
 - [Git Immersion](http://gitimmersion.com)
 - [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
