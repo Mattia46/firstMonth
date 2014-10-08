@@ -848,7 +848,7 @@ Finally, to exit the shell, just type "exit" :)
 
 ## Exercises
 
-Before moving on to the next lesson, make sure that you're able to do each of the these [exercises](/challenges/command_line_challenges.md).  In particular being able to complete these exercises will be very helpful for completing the command line weekly challenge.
+Before moving on to the next lesson, make sure that you're able to do each of the these [exercises](/challenges/command_line_challenges.md).  Being able to complete these exercises will be very helpful for completing the command line weekly challenge, codename 'Unixoid'.
 
 
 
