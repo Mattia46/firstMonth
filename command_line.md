@@ -17,7 +17,7 @@ Here are some other resources related to the command line that you might find he
 - [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
 - [Makers Academy's Command Line Course on Memrise](http://www.memrise.com/course/372930/command-line-basics-by-makers-academy/)
 
-BTW, there are lots of different knowledge pills&nbsp;:pill:&nbsp;in this course. Here is a list of of all the different knowledge pills:
+Note that there are lots of different knowledge pills&nbsp;:pill:&nbsp;in this course. Here is a list of of all the different knowledge pills:
 
 - [Knowledge Pills](pills.md)
 
