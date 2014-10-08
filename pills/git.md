@@ -634,8 +634,8 @@ There is no point in repeating what's already out there. The point of this tutor
 - [Generating SSH keys](https://help.github.com/articles/generating-ssh-keys) – you'll need to do this before connecting to Github from the command line
 
 
-### Challenges 
+### Exercises 
 
-Before moving on to the next lesson, complete each of the following [tasks](/challenges/git_challenge.md).
+Before moving on please complete each of the following [exercises](/challenges/git_challenge.md).  Being able to complete these exercises will be very helpful for completing the version control weekly challenge, codename 'Octocat'.
 
 
