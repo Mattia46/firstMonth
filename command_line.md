@@ -8,7 +8,7 @@ You're not required to know everything about the command line by the end of this
 
 Make sure that you complete the following command line tutorial (or pill) before you begin the course at Makers Academy:
 
-- :pill:&nbsp;[command line](pills/command_line.md)
+- :pill:&nbsp;[Command Line](pills/command_line.md)
 
 Here are some other resources related to the command line that you might find helpful:
 
