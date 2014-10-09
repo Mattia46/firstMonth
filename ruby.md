@@ -15,7 +15,7 @@ So Ruby is an all purpose programming language, in short a language that lets yo
 Before you start at Makers Academy you should go through the following tutorials to get yourself ready:
 
 - [Try Ruby](http://tryruby.org)
-- [CodeAcademy Ruby Track](http://www.codecademy.com/tracks/ruby)
+- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
 
