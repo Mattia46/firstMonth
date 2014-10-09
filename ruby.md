@@ -14,20 +14,21 @@ So Ruby is an all purpose programming language, in short a language that lets yo
 
 Before you start at Makers Academy you should go through the following tutorials to get yourself ready:
 
+- [Try Ruby](http://tryruby.org)
+- [CodeAcademy Ruby Track](http://www.codecademy.com/tracks/ruby)
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [Ruby Koans](http://rubykoans.com)
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
-- [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
-- [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
 
-## Books and other Resources
+## Other Useful Resources
 
 There are some other resources that will help you understand more about the Ruby programming language. You should include these in your daily reading material!
 
+- [Ruby Koans](http://rubykoans.com)
+- [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
+- [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
 - [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/)
 - [Learn to Program](https://pine.fm/LearnToProgram/)
 - [Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby)
 - [Ruby Monk](https://rubymonk.com)
-- [Try Ruby](http://tryruby.org)
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
