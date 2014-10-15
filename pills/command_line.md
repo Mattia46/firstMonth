@@ -717,7 +717,7 @@ On my system, "ls" will be found in "/bin/ls".
 
 Remember when we had to type "./hello.rb" to execute the file, instead of just "hello.rb"? This is because if we hadn't explicitely specified that the program was in the current directory, the shell would look in all PATH directories and wouldn't find it there. Every program that you can run from your command line without specifying where they are (ls, chmod, date, pwd, etc) are somewhere on the PATH.
 
-You must have tried switching ruby versions on your machine by now. How does it work? When you type
+You may have tried switching ruby versions on your machine using rvm.  If not, you soon will be :-) How does it work? When you type
 
 `rvm use 1.9.3`
 
