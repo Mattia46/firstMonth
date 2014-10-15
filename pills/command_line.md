@@ -218,7 +218,7 @@ Other times you don't care about protection and want to just force remove files.
 
 This will remove any file even if it's "write protected", so please be extra careful with this command!
 
-Copying and moving files
+#### Copying and moving files
 
 Copying directories is quite straight-forward. Let's create a new directory, change into it and create an empty file:
 
