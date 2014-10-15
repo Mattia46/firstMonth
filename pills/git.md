@@ -378,7 +378,7 @@ The key feature of git is its ability to copy code between repositories. If you 
 
 First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys).
 
-Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). 
+Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'. 
 
 ![Step 16](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335055212_Screen%20Shot%202013-10-09%20at%2017.10.44.png)
 
