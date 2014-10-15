@@ -229,7 +229,7 @@ The "git commit" command again commits everything in staging with a short commen
 
 ![Step five](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381247257500_Screen%20Shot%202013-10-08%20at%2016.47.19.png)
 
-It's a good idea to check the status often, especially if you suspect something is going wrong. Run `git status` every now and then, if only to confirm that the repo is in the state you expect it to be.
+It's a good idea to develop the habit of checking git status before you add anything to staging or commit any changes, especially if you suspect something is going wrong. Make sure to run `git status` before you commit, if only to confirm that the repo is in the state you expect it to be.
 
 
 ### Viewing the log (history) of the changes
@@ -333,7 +333,7 @@ git checkout master
 
 ![Step 14](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249491294_Screen%20Shot%202013-10-08%20at%2017.24.42.png)
 
-By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features in week 2.
+By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features later in the course.
 
 
 ### Github 
@@ -347,7 +347,7 @@ Github does three things. Firstly, it displays git repos in a visual way, so you
 ### You Are Your Github Profile
 
 
-As a developer, you are your Github profile. When hiring developers, most technology companies will make Github their first stop. If you haven't already signed up, please do so immediately and treat it the same way you would a CV. (i.e. Add a picture, use your real name, etc.) In addition, start using git and Github for all of the code you write from here forward, including simple exercises. Every. Project. Every. Time.
+As a developer, you are your Github profile. When hiring developers, most technology companies will make Github their first stop. If you haven't already signed up, please do so immediately and treat it the same way you would a CV. (i.e. Add a picture, use your real name, etc.) In addition, start using git and Github for all of the code you write from here forward, including simple exercises. Every project. Every time.
 
 The reason for this is that Github shows what you've been doing as a developer. If you're claiming you're a developer and you have little to show on Github, other developers won't take you seriously unless you have an impressive history of projects you worked on. If you're a junior developer, having a decent Github profile helps a lot. For example, this is a real email we received from one of our hiring partners some time ago:
 
