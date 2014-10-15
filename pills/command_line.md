@@ -247,7 +247,7 @@ If we now change directories to the parent and list the contents, we'll see the 
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380902147077_Screen%20Shot%202013-10-04%20at%2016.55.28.png "mv")
 
-Did you notice how I had to confirm the name "newFile" when declaring the destination as well? This means that we can actually use the "mv" command to rename files without even moving them.
+Did you notice how I specified the name "newFile" when declaring the destination as well? This means that we can actually use the "mv" command to rename files without even moving them.
 
 Let's go back into our "SomeDir" directory to bring newFile back over and I'll show you what I mean:
 
