@@ -8,8 +8,8 @@ Please google the name of the software to find where it should be installed from
 You will need these tools to complete the PreCourse. Take care to install them in the prescribed order.
 
 1. Update the operating system to the latest version by installing all updates.
-2. **[XCode command-line tools](pills/installing_xcode.md)**&nbsp;:pill:&nbsp;(Necessary on Mac only).
-3. **[RVM](pills/installing_rvm.md)**&nbsp;:pill:&nbsp;It stands for Ruby Version Manager and it helps you to install and manage different Ruby versions.
+2. **[XCode command-line tools](installing_xcode.md)**&nbsp;:pill:&nbsp;(Necessary on Mac only).
+3. **[RVM](installing_rvm.md)**&nbsp;:pill:&nbsp;It stands for Ruby Version Manager and it helps you to install and manage different Ruby versions.
 4. **Ruby.** Please install the latest stable version using RVM, not directly. Pay special attention to install it with openssl support (this may be tricky, if you fail, we'll help you during the PreCourse).
 5. **Heroku Toolbelt** (this includes Git). This is the set of tools that we'll be using for development and deployment.
 
