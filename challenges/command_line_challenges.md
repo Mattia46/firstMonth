@@ -11,7 +11,7 @@ First download this [challenge file](https://dl.dropboxusercontent.com/u/1319685
 - *Change into the "Text Files" directory.*
 - *Change into the current directory (pointless in real life, only as an exercise).*
 - *Change into a directory one level above (the parent directory).*
-- *Create a hierarchy of directories at /Foo/Bar/folders in one command (read the man page on mkdir to find out how).*
+- *Create a hierarchy of directories at Foo/Bar/folders in one command (read the man page on mkdir to find out how).*
 - *List a directory in a short format.*
 - *List a directory in a short format.*
 - *List a directory in a long format.*
