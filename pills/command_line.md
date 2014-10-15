@@ -19,7 +19,7 @@ If you don't have access to either a Mac or Linux machine you may find it easier
 
 ### What is the command line?
 
-So what is the command line exactly? The command line is how we interact directly with the underlying code of our computer. Every computer has some way of accessing the command line. In fact, the command line is the primary interface that your computer uses. The graphical user interface (all the beautiful windows you can open) is just a more accessible way of using your computer that is often but not always available. Servers, for example, often don't have graphical interface at all, so command line is the only way to work with them.
+So what is the command line exactly? The command line is how we interact directly with the underlying code of our computer. Every computer has some way of accessing the command line. In fact, the command line is the primary interface that your computer uses. The graphical user interface (all the beautiful windows you can open) is just a more accessible way of using your computer that is often but not always available. For example, servers (computers in a data center that host websites etc.) often don't have graphical interface at all, so command line is the only way to work with them.
 
 Using the command line on a Mac is done through the "Terminal" application. You can find it using Spotlight (the built-in search functionality in OSX). Press this combination:
 
@@ -29,9 +29,13 @@ This will open Spotlight in the upper-right corner of the screen. Search for "Te
 
 The terminal application will open and you'll see something like this:
 
-![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380900937026_Screen%20Shot%202013-10-04%20at%2016.35.09.png "Bash image")
+![Bash command line Image](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380900937026_Screen%20Shot%202013-10-04%20at%2016.35.09.png "Bash image")
 
 As you can see, it will show you the name of your computer ("Makers Academy laptop") and what directory you're currently in ("Desktop"), followed by the name of the currently logged in user. At the end of the prompt, you'll see a dollar sign ($). This just represents the end of the prompt so if you ever see it used as an example, it doesn't need to be typed in. 
+
+Note: you can get something similar at the bottom of the Nitrous Web IDE:
+
+![Nitrous command line](https://www.dropbox.com/s/qdvp81om2571pn7/Screenshot%202014-10-15%2010.45.09.png?dl=1 "Nitrous command line")
 
 Directories in the command line are just a different way to access the directories you already have on your computer. So, for example, you can see in the screenshot that I'm currently in the "Desktop" directory. If I were to delete a file that's in that directory from the command line, it will delete it from the user-interface that you're used to using as well.
 
