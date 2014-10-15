@@ -5,6 +5,8 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 ## Unix
 :pill: [The command line](/pills/command_line.md)
 
+:pill: [Installation instructions](/pills/installation_instructions.md)
+
 :pill: [Installing RVM](/pills/installing_rvm.md)
 
 :pill: [Installing XCode](/pills/installing_xcode.md)
