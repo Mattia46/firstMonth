@@ -177,7 +177,7 @@ Here "rmdir" stands for "remove directory" with the parameter "Example" - tellin
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901863587_Screen%20Shot%202013-10-04%20at%2016.50.52.png "rmdir")
 
-If, instead of a directory, we wanted to remove a file. We would simply use "rm" and the file name. We created an empty file using the "touch" command a while back, let's remove it now.
+If, instead of a directory, we wanted to remove a file. We would simply use "rm" and the file name. We created an empty file using the "touch" command a while back, let's remove it now. Although please note that it is [difficult to recover files](http://superuser.com/questions/751756/is-rm-reversible) that have been deleted with `rm` so please be careful using this command:
 
 ` rm worksheet`
 
