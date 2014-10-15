@@ -6,6 +6,7 @@ Please google the name of the software to find where it should be installed from
 ## Essential tools
 
 You will need these tools to complete the PreCourse. Take care to install them in the prescribed order.
+
 1. Update the operating system to the latest version by installing all updates.
 2. *XCode command-line tools* (Necessary on Mac only). XCode is a set of programs that enable you to develop for OSX and iOS. In particular, XCode includes command-line tools, which we will need to install Ruby and some gems. Note that the command-line tools are only a minor part (150Mb) of XCode (1.6Gb). You don't have to install the entire XCode; download the command-line tools only. You'll need to create an Apple ID to do this.
 3. *RVM.* It stands for Ruby Version Manager and it helps you to install and manage different Ruby versions.
