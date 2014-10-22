@@ -41,6 +41,6 @@ Here are some other tutorials you may find helpful:
 - [GitHub Guides](https://guides.github.com)
 - [Github cheat sheets](https://training.github.com/kit/)
 - [Github training videos](https://www.youtube.com/user/GitHubGuides)
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/resources)
+- [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git-It Tutorial](https://github.com/jlord/git-it)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
