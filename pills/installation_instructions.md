@@ -16,7 +16,7 @@ You will need these tools to complete the PreCourse. Take care to install them i
 ## Useful tools you may like to have
 
 1. **Homebrew.** This is a package manager that will be useful to install other software.
-2. **Sublime Text.** We'll give you a license key to register it on your first day of classes.
+2. **[Sublime Text](installing_sublime.md).**&nbsp;:pill:&nbsp;The pill contains a licence key for use during the course.
 3. **Google Chrome.** The best web browser when it comes to web development.
 
 Good luck! Again - this is supposed to be hard! If it were easy, everyone would be doing it! If you give it an honest try and fail, we'll help you during the PreCourse.
