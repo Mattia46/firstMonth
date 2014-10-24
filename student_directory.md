@@ -68,7 +68,7 @@ Good, now we have an empty repo with a remote called "master" pointing to Github
 
 Note how Github displays the contents of the `README.md` file on your project page (it's empty now but you can still see it below the file list). This is because the file is named README, it's the default name for the file that has information about the project. The "md" extension means that the format of this file is [markdown](http://daringfireball.net/projects/markdown/basics). We'll write some [markdown](http://daringfireball.net/projects/markdown/basics) soon.
 
-Let's start SublimeText now. You should be able to do this by running `subl .` in the project directory (note there's a space between `subl` and the dot). The dot stands for the current directory (:pill: [The command line](/pills/command_line.md)) and `subl` is the shortcut that the developers often create for SublimeText. If you don't have it ( _that is, if you get an error message when trying to run the command_), you probably don't have this shortcut set up (:pill: [Sublime Text](/pills/sublime_text.md)).
+Let's start SublimeText now (:pill: [Sublime Text](/pills/installing_sublime.md). You should be able to do this by running `subl .` in the project directory (note there's a space between `subl` and the dot). The dot stands for the current directory (:pill: [The command line](/pills/command_line.md)) and `subl` is the shortcut that the developers often create for SublimeText. If you don't have it ( _that is, if you get an error message when trying to run the command_), you probably don't have this shortcut set up ).
 
 After you launch SublimeText, it should look like this.
 
