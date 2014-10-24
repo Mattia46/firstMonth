@@ -1,4 +1,4 @@
-# Installing RVM
+# Installing Sublime
 
 Sublime is a popular text editor that enables the use of shortcuts and plug-ins to speed up the process of writing code. We recommend it to our students because it is powerful yet easy to use and has a good community of users.
 
