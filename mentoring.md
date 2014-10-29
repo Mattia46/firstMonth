@@ -18,3 +18,5 @@ As we say to our students time and again - the best way to learn is to try expla
 When you have passed the PreCourse, you will be given the opportunity to become a mentor yourself - so can really discover the benefits of learning through coaching in a pair programming environment.
 
 If you have any additional questions about mentoring, pair programming or online pairing, please don't hesitate to create a [PreCourse Issue](https://github.com/makersacademy/pre_course/issues) and include the term @tansaku to flag the attention of Sam Joseph, Makers Head of Online Education and self-styled remote pair programming evangelist! :-)
+
+For contacting your mentor, please do prefer creating issues in the github precourse repo and flagging your mentor by adding their github username with the @ symbol pre-pended.  This will have the huge advantage that if your mentor is indisposed then others can potentially help too; and also that others can benefit from seeing how the technical challenge or issue can be solved.
