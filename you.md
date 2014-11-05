@@ -8,7 +8,7 @@ These are a few points that we look for in every student that has decided to be 
 - Curiosity (how things fit in together and work)
 - Exposing your ignorance. Speak up if you don’t know!
 - You strike a good balance between listening and speaking
-- Engage the coaches when you are stuck
+- Engage your peers, mentor or the coaches when you are stuck
 
 ## Technically
 - Identify concepts that are confusing and ask for help
