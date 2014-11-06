@@ -2,7 +2,7 @@
 
 First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip). 
 
-If you're on Nitrous use the following commands:
+If you're on Nitrous (or just want to work purely from the command line) use the following commands:
 
 ```
 curl https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip > Challenge01.zip
