@@ -1,0 +1,76 @@
+{
+   "segments":[
+      {
+         "name":"Introduction",
+         "url":"/introduction.md"
+      },
+      {
+         "name":"Expectations",
+         "url":"/you.md"
+      },
+      {
+         "name":"Will I make it through the course?",
+         "url":"/success.md"
+      },
+      {
+         "name":"TEC: Transparency, Effort and Compassion",
+         "url":"/tec.md"
+      },
+      {
+         "name":"Command Line",
+         "url":"/command_line.md",
+         "walkthroughs":{
+            "segments":[
+               {
+                  "name":"Command Line Walkthrough",
+                  "url":"/pills/command_line.md"
+               }
+            ]
+         },
+         "exercises":{
+            "segments":[
+               {
+                  "name":"Command Line Exercises",
+                  "url":"/exercises/command_line_exercises.md"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Version Control",
+         "url":"/version_control.md",
+         "walkthroughs":{
+            "tasks":[
+               {
+                  "name":"playing-with-git",
+                  "path":"/pills/git.md",
+                  "minimum_commits":4
+               }
+            ]
+         },
+         "exercises":{
+            "segments":[
+               {
+                  "name":"git-challenge",
+                  "path":"/exercises/git_exercises.md",
+                  "default_repo":"command-line",
+                  "minimum_commits":9
+               }
+            ]
+         }
+      },
+      {
+         "name":"Ruby",
+         "url":"/ruby.md",
+         "walkthroughs":{
+            "tasks":[
+               {
+                  "name":"student-directory",
+                  "path":"/student_directory.md",
+                  "minimum_commits":14
+               }
+            ]
+         }
+      }
+   ]
+}
