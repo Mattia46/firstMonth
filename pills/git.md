@@ -88,7 +88,7 @@ A repository is a directory with files that are "under version control". When yo
 
 Take special care to not to initialise a top-level directory (e.g. Desktop, your home directory or a directory where you keep several projects) as a git repository. This wouldn't make sense to git and could lead to problems later. You should run `git init` inside the directory where the files for the project you're placing under version control are.
 
-In general, you want to have a directory (and a repo) for every project you're working on: a website, a library, a set of exercises or even a single large exercise. For example, if you're doing a FizzBuzz challenge, it should be in a separate directory (e.g. ~/projects/FizzBuzz) under version control.
+In general, you want to have a directory (and a repo) for every project you're working on: a website, a library, a set of exercises or even a single large exercise. For example, if you're doing a FizzBuzz exercise, it should be in a separate directory (e.g. ~/projects/FizzBuzz) under version control.
 
 If you accidentally initialise a git repo in a folder that shouldn't be under version control, e.g. by running `git init` in ~/Desktop, you can revert the change by removing the hidden .git folder:
 
@@ -636,6 +636,6 @@ There is no point in repeating what's already out there. The point of this tutor
 
 ### Exercises 
 
-Before moving on please complete each of the following [exercises](/challenges/git_challenge.md).  Being able to complete these exercises will be very helpful for completing the version control weekly challenge, codename 'Octocat'.
+Before moving on to the next lesson, complete each of the following [exercises](/exercises/git_exercises.md).  Being able to complete these exercises will be very helpful for completing the version control weekly challenge, codename 'Octocat'.
 
 
