@@ -1,6 +1,15 @@
 # Command-line Exercises
 
-First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip). Make sure that you're able to do each of the following tasks:
+First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip). 
+
+If you're on Nitrous use the following command:
+
+```
+curl https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip > Challenge01.zip
+unzip Challenge01.zip
+```
+
+Make sure that you're able to do each of the following tasks:
 
 - *Show the name of your home directory.* 
 - *Navigate to the "Challenge 1" folder.*
