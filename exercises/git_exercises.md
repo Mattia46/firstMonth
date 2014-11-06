@@ -1,6 +1,5 @@
 # Git Exercises
 
-
 - *Create a directory where you'll be keeping all your projects (~/Projects, ~/dev, ~/coding or something like this)*
 - *Create a directory "command-line" in your projects folder*
 - *Initialise a git repository inside it*

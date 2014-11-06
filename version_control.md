@@ -21,24 +21,26 @@ git version 1.7.12.4 (Apple Git-37)
 
 ## Tutorials
 
-Make sure you go through these tutorials before you begin the course at [Makers Academy](http://makersacademy.com):
+Make sure that you complete the following git tutorial (or pill) before you begin the course at Makers Academy:
 
 - :pill:&nbsp;[git](/pills/git.md)
-- [Try git](https://try.github.io/levels/1/challenges/1)
+
+Here are some other tutorials you may find helpful:
+
 - [Git Immersion](http://gitimmersion.com)
 - [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
-- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
-- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
-## Books and other Resources
+## Other Useful Resources
 
+- [Pro Git](http://git-scm.com/book)
 - [Official Git Site](http://git-scm.com)
 - [Official Git Documentation](http://git-scm.com/doc)
+- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
+- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 - [Git reference](http://gitref.org)
-- [Pro Git](http://git-scm.com/book)
 - [GitHub Guides](https://guides.github.com)
 - [Github cheat sheets](https://training.github.com/kit/)
 - [Github training videos](https://www.youtube.com/user/GitHubGuides)
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/resources)
+- [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git-It Tutorial](https://github.com/jlord/git-it)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)

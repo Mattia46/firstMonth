@@ -8,7 +8,7 @@
 - Are considerate of your fellow students
 - Ask questions when you don’t understand something
 - Discuss various options with your fellow students as well as pros and cons
-- Demonstrate your ability to research (_e.g. experimenting with methods in the interactive ruby environment - IRB, etc._)
+- Demonstrate your ability to research (_e.g. experimenting with methods in the Interactive RuBy environment (IRB), google around, find relevant books etc._)
 - Let your fellow students know when you need thinking time instead of going silent
 - Experiment with the code and cultivate a spirit of play
 - Use the knowledge you’ve gained to solve the challenges
@@ -16,8 +16,8 @@
 
 **You will not be successful if you:**
 
-- Let your fellow students take over completely and “coast” through the sessions/course.
-- Act like you understand something when you don’t
+- Let your fellow students take over completely and "coast" through the sessions/course.
+- Act like you understand something when you don't
 - Do not contribute to the code
 - Do not ask questions
 - Expect yourself to be perfect

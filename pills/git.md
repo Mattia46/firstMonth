@@ -8,7 +8,7 @@ Additionally, version control allows multiple versions to be built simultaneousl
 
 ## What would version control in real world look like
 
-If our lives were version controller, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
+If our lives were version controlled, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
 
 If you ever make a mistake that you later regret, you can "rollback" the time to before mistake and avoid making it this time.
 
@@ -229,7 +229,7 @@ The "git commit" command again commits everything in staging with a short commen
 
 ![Step five](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381247257500_Screen%20Shot%202013-10-08%20at%2016.47.19.png)
 
-It's a good idea to check the status often, especially if you suspect something is going wrong. Run `git status` every now and then, if only to confirm that the repo is in the state you expect it to be.
+It's a good idea to develop the habit of checking git status before you add anything to staging or commit any changes, especially if you suspect something is going wrong. Make sure to run `git status` before you commit, if only to confirm that the repo is in the state you expect it to be.
 
 
 ### Viewing the log (history) of the changes
@@ -333,7 +333,7 @@ git checkout master
 
 ![Step 14](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249491294_Screen%20Shot%202013-10-08%20at%2017.24.42.png)
 
-By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features in week 2.
+By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features later in the course.
 
 
 ### Github 
@@ -347,11 +347,11 @@ Github does three things. Firstly, it displays git repos in a visual way, so you
 ### You Are Your Github Profile
 
 
-As a developer, you are your Github profile. When hiring developers, most technology companies will make Github their first stop. If you haven't already signed up, please do so immediately and treat it the same way you would a CV. (i.e. Add a picture, use your real name, etc.) In addition, start using git and Github for all of the code you write from here forward, including simple exercises. Every. Project. Every. Time.
+As a developer, you are your Github profile. When hiring developers, most technology companies will make Github their first stop. If you haven't already signed up, please do so immediately and treat it the same way you would a CV. (i.e. Add a picture, use your real name, etc.) In addition, start using git and Github for all of the code you write from here forward, including simple exercises. Every project. Every time.
 
 The reason for this is that Github shows what you've been doing as a developer. If you're claiming you're a developer and you have little to show on Github, other developers won't take you seriously unless you have an impressive history of projects you worked on. If you're a junior developer, having a decent Github profile helps a lot. For example, this is a real email we received from one of our hiring partners some time ago:
 
-Evgheny S.:
+Evgeny S.:
 > So, two of your graduates applied for a job with us and we had a good look through their github. To say we're impressed is an understatement.
 
 The first thing that this guy did was to look at everything our graduates created at Github during their time at Makers Academy. Because these students kept their Github profiles in a really good state, they managed to impress him even before coming for an interview.
@@ -376,9 +376,9 @@ The key feature of git is its ability to copy code between repositories. If you 
 ### Using Github
 
 
-First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys).
+First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys). Note that if you are using nitrous.io, step 3 will involve printing the contents of id_rsa.pub file to the screen using cat or less and copying the key to your computer's clipboard - you cannot use xclip or pbcopy as nitrous does not include those commands.
 
-Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). 
+Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'. 
 
 ![Step 16](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335055212_Screen%20Shot%202013-10-09%20at%2017.10.44.png)
 
@@ -636,6 +636,6 @@ There is no point in repeating what's already out there. The point of this tutor
 
 ### Exercises 
 
-Before moving on to the next lesson, complete each of the following [exercises](/exercises/git_exercises.md).
+Before moving on to the next lesson, complete each of the following [exercises](/exercises/git_exercises.md).  Being able to complete these exercises will be very helpful for completing the version control weekly challenge, codename 'Octocat'.
 
 

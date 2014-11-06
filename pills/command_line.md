@@ -15,9 +15,11 @@ You're not required to know everything about the command line by the end of this
 
 Before we dive into using the command line, it's important to discuss the distinction between using a UNIX-based computer (Mac, any Linux including Ubuntu, etc.) or a PC running Windows. In these lessons, we're assuming you're using a Mac as it's the most common platform among web developers. With the technologies we cover at Makers – a Mac is the tool of choice. If absolutely required, you can use Ubuntu, but you may encounter minor problems along the way that we won't usually cover at Makers. This does not imply that Mac is somehow superior to Linux when it comes to web development. It is simply different, so the instructions provided for a Mac may not always work on a different system.
 
+If you don't have access to either a Mac or Linux machine you may find it easier to work with a cloud hosted solution such as [Nitrous](https://www.nitrous.io/).  This might run a little slower, but the Nitrous terminal is a good substitute and can be used from PCs and even Chromebooks.
+
 ### What is the command line?
 
-So what is the command line exactly? The command line is how we interact directly with the underlying code of our computer. Every computer has some way of accessing the command line. In fact, the command line is the primary interface that your computer uses. The graphical user interface (all the beautiful windows you can open) is just a more accessible way of using your computer that is often but not always available. Servers, for example, often don't have graphical interface at all, so command line is the only way to work with them.
+So what is the command line exactly? The command line is how we interact directly with the underlying code of our computer. Every computer has some way of accessing the command line. In fact, the command line is the primary interface that your computer uses. The graphical user interface (all the beautiful windows you can open) is just a more accessible way of using your computer that is often but not always available. For example, servers (computers in a data center that host websites etc.) often don't have graphical interface at all, so command line is the only way to work with them.
 
 Using the command line on a Mac is done through the "Terminal" application. You can find it using Spotlight (the built-in search functionality in OSX). Press this combination:
 
@@ -27,17 +29,23 @@ This will open Spotlight in the upper-right corner of the screen. Search for "Te
 
 The terminal application will open and you'll see something like this:
 
-![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380900937026_Screen%20Shot%202013-10-04%20at%2016.35.09.png "Bash image")
+![Bash command line Image](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380900937026_Screen%20Shot%202013-10-04%20at%2016.35.09.png "Bash image")
 
 As you can see, it will show you the name of your computer ("Makers Academy laptop") and what directory you're currently in ("Desktop"), followed by the name of the currently logged in user. At the end of the prompt, you'll see a dollar sign ($). This just represents the end of the prompt so if you ever see it used as an example, it doesn't need to be typed in. 
 
-Directories in the command line are just a different way to access the directories you already have on your computer. So, for example, you can see in the screenshot that I'm currently in the "Desktop" directory. If I were to delete a file that's in that directory from the command line, it will delete it from the user-interface that you're used to using as well.
+Note: you can get something similar at the bottom of the Nitrous Web IDE:
+
+
+![Nitrous command line](https://www.dropbox.com/s/qdvp81om2571pn7/Screenshot%202014-10-15%2010.45.09.png?dl=1 "Nitrous command line")
+
+
+Directories in the command line are just a different way to access the directories (or folders) you already have on your computer. So, for example, you can see in the screenshot that I'm currently in the "Desktop" directory. If I were to delete a file that's in that directory from the command line, it will delete it from the user-interface that you're used to using as well.
 
 As we progress through this lesson, please type every command into the terminal for yourself. If you simply read without doing, you're highly unlikely to remember the commands. This is a universal rule when learning how to code: try everything.
 
 Don't forget that if you can access the history of your commands by pressing up and down arrows, so if you want to run the command you type a minute ago, just press the up arrow until you see it.
 
-Now that you have the Terminal open, I recommend right clicking on the icon and selecting Options → Keep in Dock. We'll be using the terminal a lot so you want easy access to it.
+Now that you have the Terminal open, if you are on a Mac, I recommend right clicking on the icon and selecting Options → Keep in Dock. We'll be using the terminal a lot so you want easy access to it.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901047979_Screen%20Shot%202013-10-04%20at%2016.37.09.png "Keep in dock")
 
@@ -171,7 +179,7 @@ Here "rmdir" stands for "remove directory" with the parameter "Example" - tellin
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901863587_Screen%20Shot%202013-10-04%20at%2016.50.52.png "rmdir")
 
-If, instead of a directory, we wanted to remove a file. We would simply use "rm" and the file name. We created an empty file using the "touch" command a while back, let's remove it now.
+If, instead of a directory, we wanted to remove a file. We would simply use "rm" and the file name. We created an empty file using the "touch" command a while back, let's remove it now. Although please note that it is [difficult to recover files](http://superuser.com/questions/751756/is-rm-reversible) that have been deleted with `rm` so please be careful using this command:
 
 ` rm worksheet`
 
@@ -210,9 +218,9 @@ Other times you don't care about protection and want to just force remove files.
 
 ` rm -f`
 
-This will remove any file even if it's "write protected".
+This will remove any file even if it's "write protected", so please be extra careful with this command!
 
-Copying and moving files
+#### Copying and moving files
 
 Copying directories is quite straight-forward. Let's create a new directory, change into it and create an empty file:
 
@@ -241,7 +249,7 @@ If we now change directories to the parent and list the contents, we'll see the 
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380902147077_Screen%20Shot%202013-10-04%20at%2016.55.28.png "mv")
 
-Did you notice how I had to confirm the name "newFile" when declaring the destination as well? This means that we can actually use the "mv" command to rename files without even moving them.
+Did you notice how I specified the name "newFile" when declaring the destination as well? This means that we can actually use the "mv" command to rename files without even moving them.
 
 Let's go back into our "SomeDir" directory to bring newFile back over and I'll show you what I mean:
 
@@ -258,7 +266,9 @@ If we now run "mv" without providing a new destination, we can simply rename the
 
 #### Viewing files
 
-For this next section, open up a text editor. If you're using a Mac, the TextEdit application will work fine (or use Sublime Text that we'll be using for the rest of the course), but once you open the app, go to Format → Make Plain Text. Type in the following text into the document (followed by an empty new line):
+For this next section, open up a text editor. If you're using a Mac, the TextEdit application will work fine (or use [Sublime Text](installing_sublime.md) that we'll be using for the rest of the course).  If you're on Nitrous you can use the built in text editor.  If you are using TextEdit on the Mac do ensure that it is set to 'plain text' rather than 'rich text'.  In TextEdit you can do this on the Format menu: Format → Make Plain Text.  Note that it is very important to use plain text formatting.  Rich text formatting (such as in MS Word) introduces extra symbols that will cause problems down the line.
+
+Once you are set up in the 'plain' text editor of your choice, type in the following text into the document (followed by an empty new line):
 
 ` There are 10 types of people in this world`
 
@@ -601,7 +611,7 @@ We want our file to be executed by Ruby, so let's find out where ruby interprete
 `$ which ruby`
 `/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby`
 
-On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using SublimeText.
+On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using [SublimeText](installing_sublime.md).
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381141953228_Screen%20Shot%202013-10-07%20at%2011.32.20.png "hello world")
 
@@ -711,7 +721,7 @@ On my system, "ls" will be found in "/bin/ls".
 
 Remember when we had to type "./hello.rb" to execute the file, instead of just "hello.rb"? This is because if we hadn't explicitely specified that the program was in the current directory, the shell would look in all PATH directories and wouldn't find it there. Every program that you can run from your command line without specifying where they are (ls, chmod, date, pwd, etc) are somewhere on the PATH.
 
-You must have tried switching ruby versions on your machine by now. How does it work? When you type
+You may have tried switching ruby versions on your machine using rvm.  If not, you soon will be :-) How does it work? When you type
 
 `rvm use 1.9.3`
 
@@ -803,7 +813,7 @@ How could you use "wc" command that we discussed earlier to count their number?
 
 #### vim
 
-We've resorted to using SublimeText earlier today but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
+We've resorted to using [SublimeText](installing_sublime.md) earlier but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
 
 This editor may seem very unfriendly at first but if it were really unusable, it wouldn't be so popular among developers and system administrators (why do they use vi). From practical perspective, it's worth knowing the basics because that's the editor you can always rely one on any unix-based system.
 
@@ -848,7 +858,11 @@ Finally, to exit the shell, just type "exit" :)
 
 ## Exercises
 
+<<<<<<< HEAD
 Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](/exercises/command_line_exercises.md).
+=======
+Before moving on to the next lesson, make sure that you're able to do each of the these [exercises](/challenges/command_line_challenges.md).  Being able to complete these exercises will be very helpful for completing the command line weekly challenge, codename 'Unixoid'.
+>>>>>>> upstream/master
 
 
 
