@@ -813,7 +813,7 @@ How could you use "wc" command that we discussed earlier to count their number?
 
 #### vim
 
-We've resorted to using [SublimeText](installing_sublime.md) earlier today but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
+We've resorted to using [SublimeText](installing_sublime.md) earlier but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
 
 This editor may seem very unfriendly at first but if it were really unusable, it wouldn't be so popular among developers and system administrators (why do they use vi). From practical perspective, it's worth knowing the basics because that's the editor you can always rely one on any unix-based system.
 
