@@ -35,15 +35,17 @@ As you can see, it will show you the name of your computer ("Makers Academy lapt
 
 Note: you can get something similar at the bottom of the Nitrous Web IDE:
 
+
 ![Nitrous command line](https://www.dropbox.com/s/qdvp81om2571pn7/Screenshot%202014-10-15%2010.45.09.png?dl=1 "Nitrous command line")
 
-Directories in the command line are just a different way to access the directories you already have on your computer. So, for example, you can see in the screenshot that I'm currently in the "Desktop" directory. If I were to delete a file that's in that directory from the command line, it will delete it from the user-interface that you're used to using as well.
+
+Directories in the command line are just a different way to access the directories (or folders) you already have on your computer. So, for example, you can see in the screenshot that I'm currently in the "Desktop" directory. If I were to delete a file that's in that directory from the command line, it will delete it from the user-interface that you're used to using as well.
 
 As we progress through this lesson, please type every command into the terminal for yourself. If you simply read without doing, you're highly unlikely to remember the commands. This is a universal rule when learning how to code: try everything.
 
 Don't forget that if you can access the history of your commands by pressing up and down arrows, so if you want to run the command you type a minute ago, just press the up arrow until you see it.
 
-Now that you have the Terminal open, I recommend right clicking on the icon and selecting Options → Keep in Dock. We'll be using the terminal a lot so you want easy access to it.
+Now that you have the Terminal open, if you are on a Mac, I recommend right clicking on the icon and selecting Options → Keep in Dock. We'll be using the terminal a lot so you want easy access to it.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901047979_Screen%20Shot%202013-10-04%20at%2016.37.09.png "Keep in dock")
 
@@ -264,7 +266,9 @@ If we now run "mv" without providing a new destination, we can simply rename the
 
 #### Viewing files
 
-For this next section, open up a text editor. If you're using a Mac, the TextEdit application will work fine (or use Sublime Text that we'll be using for the rest of the course), but once you open the app, go to Format → Make Plain Text. Type in the following text into the document (followed by an empty new line):
+For this next section, open up a text editor. If you're using a Mac, the TextEdit application will work fine (or use [Sublime Text](installing_sublime.md) that we'll be using for the rest of the course).  If you're on Nitrous you can use the built in text editor.  If you are using TextEdit on the Mac do ensure that it is set to 'plain text' rather than 'rich text'.  In TextEdit you can do this on the Format menu: Format → Make Plain Text.  Note that it is very important to use plain text formatting.  Rich text formatting (such as in MS Word) introduces extra symbols that will cause problems down the line.
+
+Once you are set up in the 'plain' text editor of your choice, type in the following text into the document (followed by an empty new line):
 
 ` There are 10 types of people in this world`
 
@@ -607,7 +611,7 @@ We want our file to be executed by Ruby, so let's find out where ruby interprete
 `$ which ruby`
 `/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby`
 
-On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using SublimeText.
+On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using [SublimeText](installing_sublime.md).
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381141953228_Screen%20Shot%202013-10-07%20at%2011.32.20.png "hello world")
 
@@ -809,7 +813,7 @@ How could you use "wc" command that we discussed earlier to count their number?
 
 #### vim
 
-We've resorted to using SublimeText earlier today but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
+We've resorted to using [SublimeText](installing_sublime.md) earlier today but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
 
 This editor may seem very unfriendly at first but if it were really unusable, it wouldn't be so popular among developers and system administrators (why do they use vi). From practical perspective, it's worth knowing the basics because that's the editor you can always rely one on any unix-based system.
 
