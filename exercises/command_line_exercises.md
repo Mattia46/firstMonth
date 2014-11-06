@@ -1,4 +1,4 @@
-# Command-line challenges
+# Command-line Exercises
 
 First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip). Make sure that you're able to do each of the following tasks:
 

@@ -846,9 +846,9 @@ This is the absolute minimum you need to know to make a basic edit using vi. Pri
 Finally, to exit the shell, just type "exit" :)
 
 
-## Challenges
+## Exercises
 
-Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](/challenges/command_line_challenges.md).
+Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](/exercises/command_line_exercises.md).
 
 
 
