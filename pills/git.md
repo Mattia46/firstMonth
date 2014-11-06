@@ -8,7 +8,7 @@ Additionally, version control allows multiple versions to be built simultaneousl
 
 ## What would version control in real world look like
 
-If our lives were version controller, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
+If our lives were version controlled, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
 
 If you ever make a mistake that you later regret, you can "rollback" the time to before mistake and avoid making it this time.
 
@@ -351,7 +351,7 @@ As a developer, you are your Github profile. When hiring developers, most techno
 
 The reason for this is that Github shows what you've been doing as a developer. If you're claiming you're a developer and you have little to show on Github, other developers won't take you seriously unless you have an impressive history of projects you worked on. If you're a junior developer, having a decent Github profile helps a lot. For example, this is a real email we received from one of our hiring partners some time ago:
 
-Evgheny S.:
+Evgeny S.:
 > So, two of your graduates applied for a job with us and we had a good look through their github. To say we're impressed is an understatement.
 
 The first thing that this guy did was to look at everything our graduates created at Github during their time at Makers Academy. Because these students kept their Github profiles in a really good state, they managed to impress him even before coming for an interview.
@@ -376,7 +376,7 @@ The key feature of git is its ability to copy code between repositories. If you 
 ### Using Github
 
 
-First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys).
+First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys). Note that if you are using nitrous.io, step 3 will involve printing the contents of rsa.pub file to the screen using cat or less and copying the key to your computer's clipboard - you cannot use xclip or pbcopy as nitrous does not include those commands.
 
 Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'. 
 
