@@ -113,3 +113,4 @@ Here are a few more commonly used methods to get you started:
 - [select](http://ruby-doc.org/core-2.1.4/Array.html#method-i-select)
 - [reject](http://ruby-doc.org/core-2.1.4/Array.html#method-i-reject)
 - [map](http://ruby-doc.org/core-2.1.4/Array.html#method-i-map)
+- [inject](http://ruby-doc.org/core-2.1.4/Array.html#method-i-inject)
