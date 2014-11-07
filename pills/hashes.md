@@ -1,6 +1,6 @@
 # Hashes
 
-Hash is another data structure that's widely used in Ruby. It's also a collection of elements, except that you can specify the indexes (or keys) you use to reference the elements. Consider this code:
+Hash is another data structure that's widely used in Ruby. Sometimes called Dictionaries, Hashes are also a collection of elements, except that you can specify the indexes (or keys) you use to reference the elements. Consider this code:
 
 ````ruby
 capitals = {"Great Britain" => "London", "France" => "Paris", "Germany" => "Berlin"}
@@ -19,3 +19,18 @@ another_empty_hash = Hash.new # same as {}
 
 Play with the hash in irb (:pill:  [irb](https://github.com/makersacademy/course/blob/master/pills/irb.md) ) to learn how to use it. You'll be using hashes and array in every Ruby project you'll ever build.
 
+## Useful methods
+
+Ideally, you will want to learn [all the methods](http://ruby-doc.org/core-2.1.4/Hash.html) for the Hash class. That may seem like a daunting task, so we recommend that you break it down into small, easily digestible chunks. 
+
+Here are a few commonly used methods to get you started:
+
+- [key](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-key)
+- [keys](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-keys)
+- [has_key?](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-has_key-3F) and [has_value?](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-has_value-3F)
+- [invert](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-invert)
+- [flatten](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-flatten)
+- [to_a](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-to_a)
+- [to_s](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-to_s)
+- [select](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-select) and its opposite, [reject](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-reject)
+- [each](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-each), [each_key](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-each_key), [each_value](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-each_value) and [each_pair](http://ruby-doc.org/core-2.1.4/Hash.html#method-i-each_pair)
