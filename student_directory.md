@@ -112,7 +112,7 @@ Now you should see the empty file in SublimeText.
 
 ![directoryrb](/student_directory/images/directoryrb.png)
 
-Find out the names of the students in your cohort (great excuse to say hello to everyone again and have a little chat!) and print them all. I'll just use fictional names here. 
+Now it is time to print off a list of names. We have supplied some fictional names here that you could use - although now could be a great time to get in touch with other members of your cohort and use their names instead! 
 
 **Reminder: do not copy-paste the code! Always type everything yourself.**
 
