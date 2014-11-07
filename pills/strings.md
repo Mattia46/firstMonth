@@ -12,7 +12,7 @@ Single quotes can also be used:
 
 ` 'This is also a string.' `
 
-But a single-quoted string behaves differently, in some circumstances, than a double- quoted string. The main difference is that [string interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md) doesn’t work with sin- gle-quoted strings. Try these two snippets, and you’ll see the difference:
+But a single-quoted string behaves differently, in some circumstances, than a double- quoted string. The main difference is that [string interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md) doesn’t work with single-quoted strings. Try these two snippets, and you’ll see the difference:
 
 ````ruby
 2.1.1 :001 > puts "Two plus two is #{2 + 2}."
@@ -91,4 +91,22 @@ The string you get back from + is always a new string. You can test this by assi
 
 At its simplest, [string interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md) involves dropping one existing string into another.
 
+## Useful methods
 
+Ideally, you will want to learn [all the methods](http://ruby-doc.org/core-2.1.4/String.html) for the String class. That may seem like a daunting task, so we recommend that you break it down into small, easily digestible chunks. 
+
+Here are some methods we have already covered, with links to their documentation:
+
+- [\[\]](http://ruby-doc.org/core-2.1.4/String.html#method-i-5B-5D)
+- [+](http://ruby-doc.org/core-2.1.4/String.html#method-i-2B)
+
+Here are a few more commonly used methods to get you started:
+
+- [capitalize](http://ruby-doc.org/core-2.1.4/String.html#method-i-capitalize) - compare to [capitalize!](http://ruby-doc.org/core-2.1.4/String.html#method-i-capitalize-21). What is the significance of the "!" at the end of the name?
+- [upcase](http://ruby-doc.org/core-2.1.4/String.html#method-i-upcase) & [downcase](http://ruby-doc.org/core-2.1.4/String.html#method-i-downcase)
+- [length](http://ruby-doc.org/core-2.1.4/String.html#method-i-length)
+- [include?](http://ruby-doc.org/core-2.1.4/String.html#method-i-include-3F)
+- [gsub](http://ruby-doc.org/core-2.1.4/String.html#method-i-gsub)
+- [slice](http://ruby-doc.org/core-2.1.4/String.html#method-i-slice)
+- [split](http://ruby-doc.org/core-2.1.4/String.html#method-i-split)
+- [chars](http://ruby-doc.org/core-2.1.4/String.html#method-i-chars)
