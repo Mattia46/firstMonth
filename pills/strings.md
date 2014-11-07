@@ -102,7 +102,7 @@ Here are some methods we have already covered, with links to their documentation
 
 Here are a few more commonly used methods to get you started:
 
-- [capitalize](http://ruby-doc.org/core-2.1.4/String.html#method-i-capitalize) - compare to [capitalize!](http://ruby-doc.org/core-2.1.4/String.html#method-i-capitalize-21). What is the significance of the "!" at the end of the name?
+- [capitalize](http://ruby-doc.org/core-2.1.4/String.html#method-i-capitalize) - compare to [capitalize!](http://ruby-doc.org/core-2.1.4/String.html#method-i-capitalize-21) What is the significance of the "!" at the end of the name?
 - [upcase](http://ruby-doc.org/core-2.1.4/String.html#method-i-upcase) & [downcase](http://ruby-doc.org/core-2.1.4/String.html#method-i-downcase)
 - [length](http://ruby-doc.org/core-2.1.4/String.html#method-i-length)
 - [include?](http://ruby-doc.org/core-2.1.4/String.html#method-i-include-3F)
