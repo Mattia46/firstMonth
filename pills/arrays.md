@@ -52,7 +52,7 @@ capitals.include?("Moscow") #=> false
 
 Most of these are self-explanatory. The method length() provides us with the number of elements in the array. empty?() returns a simple boolean true or false telling us if it's empty. include?() takes a parameter and searches through the array to see if any element of the array matches it, then returns a boolean letting us know.
 
-How do you find out what methods are available? Google "ruby array": the first link will be to the [documentation for this class](http://ruby-doc.org/core-2.0.0/Array.html). Take a look there, find the methods we discussed above.
+How do you find out what methods are available? Google "ruby array": the first link will be to the [documentation for this class](http://ruby-doc.org/core-2.1.4/Array.html). Take a look there, find the methods we discussed above.
 
 It wouldn't be much fun if we could only read from the arrays but not change them. Fortunately, the arrays in Ruby are mutable. This is a programming term meaning you can change them: add elements, delete them, etc. Go to the documentation for the Array class to find out what you can do with the array. Learn how to add a new element, change an element at a given index and delete an element.
 
@@ -87,3 +87,29 @@ You can create empty arrays using either a literal construct or by simply callin
 empty_array = []
 another_empty_array = Array.new # exactly the same as []
 ````
+
+## Useful methods
+
+Ideally, you will want to learn [all the methods](http://ruby-doc.org/core-2.1.4/Array.html) for the Array class. That may seem like a daunting task, so we recommend that you break it down into small, easily digestible chunks. 
+
+Here are some methods we have already covered, with links to their documentation:
+
+- [first](http://ruby-doc.org/core-2.1.4/Array.html#method-i-first)
+- [last](http://ruby-doc.org/core-2.1.4/Array.html#method-i-last)
+- [length](http://ruby-doc.org/core-2.1.4/Array.html#method-i-length)
+- [empty?](http://ruby-doc.org/core-2.1.4/Array.html#method-i-empty-3F)
+- [include?](http://ruby-doc.org/core-2.1.4/Array.html#method-i-include-3F) - what is the significance of the '?' in these method names?
+- [<<](http://ruby-doc.org/core-2.1.4/Array.html#method-i-3C-3C)
+- [sort!](http://ruby-doc.org/core-2.1.4/Array.html#method-i-sort-21) - compare this to [sort](http://ruby-doc.org/core-2.1.4/Array.html#method-i-sort). What is the significance of the '!' in the method name?
+- [delete](http://ruby-doc.org/core-2.1.4/Array.html#method-i-delete)
+
+Here are a few more commonly used methods to get you started:
+
+- [pop](http://ruby-doc.org/core-2.1.4/Array.html#method-i-pop)
+- [shift](http://ruby-doc.org/core-2.1.4/Array.html#method-i-shift)
+- [to_h](http://ruby-doc.org/core-2.1.4/Array.html#method-i-to_h)
+- [to_s](http://ruby-doc.org/core-2.1.4/Array.html#method-i-to_s)
+- [each](http://ruby-doc.org/core-2.1.4/Array.html#method-i-each)
+- [select](http://ruby-doc.org/core-2.1.4/Array.html#method-i-select)
+- [reject](http://ruby-doc.org/core-2.1.4/Array.html#method-i-reject)
+- [map](http://ruby-doc.org/core-2.1.4/Array.html#method-i-map)
