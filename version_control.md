@@ -44,3 +44,4 @@ Here are some other tutorials you may find helpful:
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git-It Tutorial](https://github.com/jlord/git-it)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+- [Udacity Git Course](https://www.udacity.com/course/ud775)
