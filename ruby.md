@@ -42,5 +42,6 @@ There are some other resources that will help you understand more about the Ruby
 - [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/)
 - [Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby)
 - [Ruby Monk](https://rubymonk.com)
+- [Ruby KickStarter](https://github.com/JoshCheek/ruby-kickstart)
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
