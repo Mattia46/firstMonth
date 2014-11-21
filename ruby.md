@@ -36,12 +36,28 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 There are some other resources that will help you understand more about the Ruby programming language. You should include these in your daily reading material!
 
+## Online Books
+
+- [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/) - check out at least Chapters 1-4
+- [Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby) - check out 'Variables', 'Methods', 'Flow Control', 'Loops & Iterators', 'Arrays', 'Hashes', 'Files' and 'Regex'
+
+## Exercises
+
+- [Ruby KickStarter](https://github.com/JoshCheek/ruby-kickstart)
+- [CodeWars](http://www.codewars.com/)
+
+## Zen Ruby (like being hit by Zen Master with bamboo stick)
+
+- [Ruby Monk](https://rubymonk.com)
 - [Ruby Koans](http://rubykoans.com)
+
+## Memorization Aids
+
 - [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
 - [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
-- [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/)
-- [Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby)
-- [Ruby Monk](https://rubymonk.com)
-- [Ruby KickStarter](https://github.com/JoshCheek/ruby-kickstart)
+
+
+## References
+
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
