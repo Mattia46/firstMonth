@@ -38,7 +38,7 @@ There are some other resources that will help you understand more about the Ruby
 
 ### Online Books
 
-- [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/) - check out at least Chapters 1-4
+- [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/) - check out Chapters 1-4
 - [Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby) - check out 'Variables', 'Methods', 'Flow Control', 'Loops & Iterators', 'Arrays', 'Hashes', 'Files' and 'Regex'
 
 ### Exercises
