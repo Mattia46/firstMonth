@@ -34,7 +34,7 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 ## Other Useful Resources
 
-There are some other resources that will help you understand more about the Ruby programming language. You should include these in your daily reading material!
+There are some other resources that will help you understand more about the Ruby programming language. 
 
 ### Online Books
 
