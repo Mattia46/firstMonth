@@ -18,6 +18,6 @@ Make sure to go through all the material presented in this handbook.
   - Octocat Challenge (Will be made available at end of week 2) 
 7. [Third Assignment: Ruby](ruby.md)
   - Ruby Challenge (Will be made available at end of week 3)
-8. Project: TBA
+8. [Project: Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
 
 
