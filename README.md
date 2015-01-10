@@ -11,7 +11,7 @@ Make sure to go through all the material presented in this handbook.
 5. [First Assignment: Command Line](command_line.md)
   - [Walkthrough](/pills/command_line.md) (3-5 hours)
   - [Exercises](/exercises/command_line_exercises.md) (3 hours)
-  - Unixoid Challenge (Will be made available at end of week 1, should take around 3 hours to complete) 
+  - Unixoid Challenge (Will be made available at end of week 1, 1-3 hours) 
 6. [Second Assignment: Version Control](version_control.md)
   - [Walkthrough](/pills/git.md) 
   - [Exercises](/exercises/git_exercises.md) 
