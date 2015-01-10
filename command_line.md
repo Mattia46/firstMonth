@@ -10,14 +10,20 @@ You're not required to know everything about the command line by the end of this
 
 Please ensure that you complete the following command line tutorial (or pill) before you begin the course at Makers Academy:
 
-- :pill:&nbsp;[Command Line](pills/command_line.md)
+- :pill:&nbsp;[Command Line](pills/command_line.md) - 2-3 Hours of study
 
-Here are some other resources related to the command line that you might find helpful:
+Here are some other (optional) resources related to the command line that you might find helpful:
+
+Helpful for memorisation:
+
+- [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
+- [Makers Academy's Command Line Course on Memrise](http://www.memrise.com/course/372930/command-line-basics-by-makers-academy/)
+
+Helpful for going over / rephrasing the stuff in the 'Command Line' pill:
 
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-- [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
-- [Makers Academy's Command Line Course on Memrise](http://www.memrise.com/course/372930/command-line-basics-by-makers-academy/)
+
 
 Note that there are lots of different knowledge pills&nbsp;:pill:&nbsp;in this course. Here is a list of of all the different knowledge pills:
 
