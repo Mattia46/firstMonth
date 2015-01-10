@@ -592,7 +592,7 @@ Make sure you quit irb if you launched it.
 
 (Don't worry about ./ right now, we'll explain why it's necessary soon. It's simply a hint for the terminal that we want to run hello.rb from the current directory. Remember that "." stands for current directory?)
 
-The reason we get permission denied error is that the file doesn't have the "executable" permission by default (list the directory in long format to verify). Let's add the permission.
+The reason we get permission denied error is that the file doesn't have the "executable" permission by default (list the directory in long format to verify). Let's give the USER (u) permission to EXECUTE (x) the file.
 
 `chmod u+x hello.rb`
 
