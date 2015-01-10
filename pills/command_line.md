@@ -294,7 +294,8 @@ One of those many uses is to create short text documents right in the browser. I
 You'll see a blinking cursor on the next line for you type some text in. Go ahead and type:
 
 `Those who understand binary and those who don't`
-`^C`
+and then hit return
+then type: `^C`
 
 The ^C interrupts the command and is done with Ctrl+C.
 
