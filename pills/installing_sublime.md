@@ -16,6 +16,8 @@ After you have done this, you should be able to open your current directory in s
 subl .
 ```
 
+Excellent unofficial documentation for Sublime Text can be found here: [http://docs.sublimetext.info/en/latest/intro.html](http://docs.sublimetext.info/en/latest/intro.html)
+
 # Setting up your preferences
 
 When you are writing code, you should keep to a particular style that remains uniform throughout your work. At Makers Academy, we recommend using 2 spaces for your indentation. You can set up sublime so that it automatically uses 2 spaces for tabs. The suggested settings can be found here:
@@ -23,8 +25,6 @@ When you are writing code, you should keep to a particular style that remains un
 [Suggested Sublme Settings](https://gist.github.com/maker-leo/5135649)
 
 You can edit this in Sublime Text by pressing ``` ⌘ + , ```
-
-Excellent unofficial documentation for Sublime Text can be found here: [http://docs.sublimetext.info/en/latest/intro.html](http://docs.sublimetext.info/en/latest/intro.html)
 
 # License Key
 
