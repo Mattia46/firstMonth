@@ -2,7 +2,7 @@
 
 **Welcome, future maker!** This handbook is meant to help you get up and ready for your 12 week course at Makers Academy.
 
-Make sure to go through all the material presented in this handbook.
+Make sure to go through all the materials and access them through our dedicated **[Pre Course Website](http://precourse.makersacademy.com/)**
 
 1. [Introduction](introduction.md) (10 mins)
 2. [Expectations](you.md) (10 mins)
