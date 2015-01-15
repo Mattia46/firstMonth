@@ -25,23 +25,36 @@ Make sure that you complete the following git tutorial (or pill) before you begi
 
 - :pill:&nbsp;[git](/pills/git.md)
 
-Here are some other tutorials you may find helpful:
+You should also make sure that you have completed both of these tutorials. They are interactive and should be a great way to reinforce what you learnt in the pill above.
 
 - [Git Immersion](http://gitimmersion.com)
 - [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
 
-## Other Useful Resources
+## Help with memorisation
+
+We made a couple of memorisation tools that might help you retain the information you learnt this week. Try practising every day and you'll have them stuck in your head before you know it.
+
+- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
+- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
+
+## Want to go deeper? Try these, in order (But only if you have time...)
+
+Both are excellent resources, and will leave you with a great understanding of how to use Git
+
+- [Udacity Git Course](https://www.udacity.com/course/ud775)
+- [GitHub Guides](https://guides.github.com)
+
+## Really? You haven't had enough already?
+
+Are you a machine?! Don't you sleep? In all seriousness, some people just like to hear things phrased in different way, and taught by different people. These should keep you busy 'til the cows come home.
 
 - [Pro Git](http://git-scm.com/book)
 - [Official Git Site](http://git-scm.com)
 - [Official Git Documentation](http://git-scm.com/doc)
-- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
-- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 - [Git reference](http://gitref.org)
-- [GitHub Guides](https://guides.github.com)
 - [Github cheat sheets](https://training.github.com/kit/)
 - [Github training videos](https://www.youtube.com/user/GitHubGuides)
 - [Atlassian Git Tutorials](https://www.atlassian.com/git)
 - [Git-It Tutorial](https://github.com/jlord/git-it)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-- [Udacity Git Course](https://www.udacity.com/course/ud775)
+
