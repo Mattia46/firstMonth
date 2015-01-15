@@ -10,7 +10,7 @@ Make sure to go through all the materials and access them through our dedicated 
 4. [TEC: Transparency, Effort and Compassion](tec.md) (15 mins)
 5. [First Assignment: Command Line](command_line.md)
   - [Walkthrough](/pills/command_line.md) (3-5 hours)
-  - [Exercises](/exercises/command_line_exercises.md) (3 hours)
+  - [Exercises](/exercises/command_line_exercises.md) (3-5 hours)
   - Unixoid Challenge (Will be made available at end of week 1, 3-5 hours) 
 6. [Second Assignment: Version Control](version_control.md)
   - [Walkthrough](/pills/git.md) (3-5 hours)
