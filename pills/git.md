@@ -624,7 +624,7 @@ A common mistake is to forget that `git clone` created a folder for you. You nee
 ### That's it for this pill!
 
 
-Have a stab at the Exercises below, and if you struggle, go through the [Git Immersion](http://gitimmersion.com) and [Codeschool Git Real](https://www.codeschool.com/courses/git-real) tutorials listed on the [main page for this week](https://github.com/makersacademy/pre_course/blob/master/version_control.md).
+Have a stab at the Exercises below, and if you struggle, go through the [Git Immersion](http://gitimmersion.com) and [Codeschool Git Real](https://www.codeschool.com/courses/git-real) tutorials listed on the [main page for this week](https://github.com/makersacademy/pre_course/blob/master/version_control.md) and try again until you get the hang of it.
 
 Don't forget, we also have a couple of 'aide memoirs' that we put together to help you retain the stuff you just learnt... Check them out!
 
