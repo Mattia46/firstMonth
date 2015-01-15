@@ -25,19 +25,19 @@ Make sure that you complete the following git tutorial (or pill) before you begi
 
 - :pill:&nbsp;[git](/pills/git.md)
 
-You should also make sure that you have completed both of these tutorials. They are interactive and should be a great way to reinforce what you learnt in the pill above.
+You should also make sure that you have completed both of the following tutorials. They are interactive and should be a great way to reinforce what you learnt in the pill above.
 
 - [Git Immersion](http://gitimmersion.com)
 - [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
 
 ## Help with memorisation
 
-We made a couple of memorisation tools that might help you retain the information you learnt this week. Try practising every day and you'll have them stuck in your head before you know it.
+We made a couple of memorisation tools that will help you retain the information you learnt this week. Try practising every day and you'll be a ninja in no time.
 
 - [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
 - [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
-## Want to go deeper? Try these, in order (But only if you have time...)
+## Want to go even deeper? Try these, in order (But only if you have time...)
 
 Both are excellent resources, and will leave you with a great understanding of how to use Git
 
