@@ -621,21 +621,20 @@ Nothing new here. We just created a new local repo, added a remote and pulled th
 A common mistake is to forget that `git clone` created a folder for you. You need to run `git clone` in your projects folder, not the folder you want the repo files to be in.
 
 
-### Additional Resources
+### That's it for this pill!
 
 
-There are many fantastic tutorials on the web covering git and Github in depth. Go through them to better understand how git works.
+Have a stab at the Exercises below, and if you struggle, go through the [Git Immersion](http://gitimmersion.com) and [Codeschool Git Real](https://www.codeschool.com/courses/git-real) tutorials listed on the [main page for this week](https://github.com/makersacademy/pre_course/blob/master/version_control.md).
 
-There is no point in repeating what's already out there. The point of this tutorial is to show you what git it and the basics of how to use it. Once you get the basics, you'll be able to dive in the middle of git book or git tutorial and make sense of it.
+Don't forget, we also have a couple of 'aide memoirs' that we put together to help you retain the stuff you just learnt... Check them out!
 
-- [Git Immersion](http://gitimmersion.com/) – probably the best resource out there. Covers git very well.
-- [Try Git](https://www.codeschool.com/courses/try-git) – interactive git game
-- [Pro Git book](http://git-scm.com/book) – a reference book on git.
-- [Generating SSH keys](https://help.github.com/articles/generating-ssh-keys) – you'll need to do this before connecting to Github from the command line
-
+- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
+- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
 ### Exercises 
 
-Before moving on to the next lesson, complete each of the following [exercises](/exercises/git_exercises.md).  Being able to complete these exercises will be very helpful for completing the version control weekly challenge, codename 'Octocat'.
+Before moving on, try to complete each of the following [exercises](/exercises/git_exercises.md). When you struggle, which you inevitably will at times, use Google! You'd be surprised how much time even Senior Developers spend googling the solutions to simple problems. Being a great developer isn't about *knowing* the solution to every problem. It's more about knowing *how to find* the solution when it's not immediately obvious.
+
+Being able to complete these exercises will be very helpful for completing this week's challenge, codename 'Octocat'... Which you'll be receiving by email at the end of the week.
 
 
