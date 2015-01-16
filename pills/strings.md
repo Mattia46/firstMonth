@@ -12,7 +12,7 @@ Single quotes can also be used:
 
 ` 'This is also a string.' `
 
-But a single-quoted string behaves differently, in some circumstances, than a double- quoted string. The main difference is that [string interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md) doesn’t work with single-quoted strings. Try these two snippets, and you’ll see the difference:
+But a single-quoted string behaves differently, in some circumstances, than a double- quoted string. The main difference is that [string interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md) doesn’t work with single-quoted strings. Open Terminal and type ```IRB``` to open an interactive Ruby shell. Try these two snippets, and you’ll see the difference:
 
 ````ruby
 2.1.1 :001 > puts "Two plus two is #{2 + 2}."
