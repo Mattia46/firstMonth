@@ -16,7 +16,7 @@ Make sure to go through all the materials and access them through our dedicated 
   - [Walkthrough](/pills/git.md) (3-5 hours)
   - [Exercises](/exercises/git_exercises.md) (3-5 hours)
   - Octocat Challenge (Will be made available at end of week 2, 3-5 hours) 
-7. [Third Assignment: Ruby](ruby.md)
+7. [Third Assignment: Ruby](ruby.md) (15-20 hours)
   - Ruby Challenge (Will be made available at end of week 3)
 8. [Project: Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
 
