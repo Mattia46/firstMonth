@@ -16,15 +16,19 @@ Before you start at Makers Academy you should go through the following pills and
 
 ## Tutorials - Do at least one
 
-It is essential that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language. Each has it's own style - try spending 15-20 mins on each, pick one you enjoy, and FINISH IT!
+It's critical that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language. Each has it's own style - try spending 15-20 mins on each, pick one you enjoy, and FINISH IT!
 
 (We've put them in order for you - Ruby Monk being the best in our eyes, The Well Grounded Rubyist being, not the worst, but the hardest to finish...)
 
-- [Ruby Monk](https://rubymonk.com)
-- [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
+- [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
+- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/intro.html)
 - [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
-- [Learn to Program](https://pine.fm/LearnToProgram/)
+- [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
 - [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
+
+And here are some great videos you could watch if you want to kick back and put your feet up for a while...!
+
+- [Ruby Kickstart Videos](https://vimeo.com/channels/844657)
 
 ## Pills - Go through all 3 if you have time (They go over what you learnt in the previous tutorial)
 
