@@ -14,23 +14,23 @@ So Ruby is an all purpose programming language, in short a language that lets yo
 
 Before you start at Makers Academy you should go through the following pills and tutorials to get yourself ready:
 
-## Pills - Go through all 3 first
+## Tutorials - Do at least one
+
+It is essential that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language. Each has it's own style - try spending 15-20 mins on each, pick one you enjoy, and FINISH IT!
+
+- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
+- [Ruby Monk](https://rubymonk.com)
+- [Learn to Program](https://pine.fm/LearnToProgram/)
+- [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
+- [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
+
+## Pills - Go through all 3 if you have time (They go over what you learnt in the previous tutorial)
 
 Strings, Arrays and Hashes are the three data classes that you will be likely to use more than any other. These pills give a basic overview, but we recommend that you strive to learn every available method for all 3 classes.
 
 - :pill: [Strings](/pills/strings.md)
 - :pill: [Arrays](/pills/arrays.md) 
 - :pill: [Hashes](/pills/hashes.md) 
-
-## Tutorials - Do at least one, at most all :)
-
-It is essential that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language. Each has it's own style - try spending 15-20 mins on each, pick one you enjoy, and FINISH IT!
-
-- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
-- [Learn to Program](https://pine.fm/LearnToProgram/)
-- [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
-- [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
-- [Ruby Monk](https://rubymonk.com)
 
 ### Memorization Aids
 
