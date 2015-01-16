@@ -34,7 +34,7 @@ You should also make sure that you have completed both of the following tutorial
 
 We made a couple of memorisation tools that will help you retain the information you learnt this week. Try practising every day and you'll be a ninja in no time.
 
-- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
+- [Makers Academy Version Control Class, on Quizlet](http://quizlet.com/join/QfjVs5RJT)
 - [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
 ## Want to go even deeper? Try these, in order (But only if you have time...)
