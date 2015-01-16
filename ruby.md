@@ -32,6 +32,13 @@ It is essential that you work through at least one of these tutorials as they co
 - [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
 - [Ruby Monk](https://rubymonk.com)
 
+### Memorization Aids
+
+A few 'aide memoirs' on the basics of Ruby, courtesy of the Makers Academy team
+
+- [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
+- [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
+
 ### Exercises
 
 Once you've finished one of the tutorials above, have a go at solving some of these exercises. While the tutorials are useful, you only really start learning to code when you actually write code. So get cracking!
@@ -39,18 +46,11 @@ Once you've finished one of the tutorials above, have a go at solving some of th
 - [Ruby KickStarter](https://github.com/JoshCheek/ruby-kickstart)
 - [CodeWars](http://www.codewars.com/)
 
-### Zen Ruby (like being hit by Zen Master with bamboo stick)
+### Wanna try something different? Do some Zen Ruby :)
 
 A challenging and interesting Ruby tutorial, that also teaches you about error messages and TDD. It seems a little confusing at the start, but once you get going, it's a phenomenal resource. Many graduates name this as one of their favourite tutorials from their early days.
 
 - [Ruby Koans](http://rubykoans.com)
-
-### Memorization Aids
-
-A few 'aide memoirs' on the basics of Ruby, courtesy of the Makers Academy team
-
-- [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
-- [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
 
 ### Reference
 
