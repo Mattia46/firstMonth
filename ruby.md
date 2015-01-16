@@ -18,7 +18,7 @@ Before you start at Makers Academy you should go through the following pills and
 
 It is essential that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language. Each has it's own style - try spending 15-20 mins on each, pick one you enjoy, and FINISH IT!
 
-(We've already put them in order - Ruby Monk being the best, The Well Grounded Rubyist being, not the worst, but the hardest to get through...)
+(We've put them in order for you - Ruby Monk being the best in our eyes, The Well Grounded Rubyist being, not the worst, but the hardest to finish...)
 
 - [Ruby Monk](https://rubymonk.com)
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
