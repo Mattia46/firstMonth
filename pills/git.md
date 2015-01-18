@@ -1,11 +1,3 @@
-# Version Control
-
-Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realize* after the roof is built that there is a crack in the foundation.
-
-Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, we can revert back to a previous version that we know is solid.
-
-Additionally, version control allows multiple versions to be built simultaneously and then brought together. It doesn't matter whether you're working in a team or writing code alone, version control is something you absolutely need to understand.
-
 ## What would version control in real world look like
 
 If our lives were version controlled, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
@@ -51,7 +43,7 @@ git config --global core.safecrlf true
 Don't worry about what these do exactly as they're just formatting some settings to make things easier later on.
 
 
-### Your first git repository 
+### Your first git repository
 
 Let's create a git *repository* to illustrate how it works. Create a new directory with a small text file named gitText. The text should read "Git is Awesome!" like this:
 
@@ -78,7 +70,7 @@ Let's break down these commands line by line.
 ### Initialising the repository
 
 
-The first command initialises this directory as a git repo - it only has to be done once for every repository. 
+The first command initialises this directory as a git repo - it only has to be done once for every repository.
 
 ```
 git init
@@ -256,7 +248,7 @@ touch moreGitText
 git status
 ```
 
-As you can see, it shows that moreGitText is not being tracked yet because we haven't staged it and gitText has been deleted. 
+As you can see, it shows that moreGitText is not being tracked yet because we haven't staged it and gitText has been deleted.
 
 ![Step seven](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248192309_Screen%20Shot%202013-10-08%20at%2017.03.00.png)
 
@@ -267,7 +259,7 @@ git add moreGitText
 git status
 ```
 
-You'll see that moreGitText is staged and ready to be committed, but the deletion of gitText isn't. 
+You'll see that moreGitText is staged and ready to be committed, but the deletion of gitText isn't.
 
 ![Step eight](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248217999_Screen%20Shot%202013-10-08%20at%2017.03.26.png)
 
@@ -319,7 +311,7 @@ git checkout a1833e4ef4a1b
 
 ![Step 12](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249076792_Screen%20Shot%202013-10-08%20at%2017.15.36.png)
 
-Note that we're using just the first few characters of the commit hash. You don't have to copy the entire commit hash, just the first few characters will do as long as there is no ambiguity (you have to use at least four, though). 
+Note that we're using just the first few characters of the commit hash. You don't have to copy the entire commit hash, just the first few characters will do as long as there is no ambiguity (you have to use at least four, though).
 
 Now git takes us to a "parallel universe" to the time when we just created our "first commit". If you `ls` the directory now, you'll see that the moreGitText doesn't exist yet and gitText still exists (we haven't deleted it yet). Furthermore, gitText contains the text that we put in it right before "first commit".
 
@@ -336,10 +328,10 @@ git checkout master
 By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features later in the course.
 
 
-### Github 
+### Github
 
 
-Making all of these changes on your local computer are great, but we'll need some additional functionality provided by [Github](https://github.com/) to collaborate with other developers and browse code online. 
+Making all of these changes on your local computer are great, but we'll need some additional functionality provided by [Github](https://github.com/) to collaborate with other developers and browse code online.
 
 Github does three things. Firstly, it displays git repos in a visual way, so you can look at them online. Secondly, it serves as a common place for open source projects, so if you're using some open source library, the chances are you can find it on Github. Finally, Github provides a set of tools (forking, issues, wiki, etc) to help developers collaborate on projects. If you'd like to see an example Github project, check out [Bootstrap](https://github.com/twbs/bootstrap), [jQuery](https://github.com/jquery/jquery) or [Cocktails for Programmers](https://github.com/the-teacher/cocktails_for_programmers/blob/master/cocktails_for_programers.md).
 
@@ -378,13 +370,13 @@ The key feature of git is its ability to copy code between repositories. If you 
 
 First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys). Note that if you are using nitrous.io, step 3 will involve printing the contents of id_rsa.pub file to the screen using cat or less and copying the key to your computer's clipboard - you cannot use xclip or pbcopy as nitrous does not include those commands.
 
-Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'. 
+Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'.
 
 ![Step 16](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335055212_Screen%20Shot%202013-10-09%20at%2017.10.44.png)
 
 Make it public, so that others could see it. Unless you have a good reason to keep the code private, make it public. Don't initialise it with a README file.
 
-At this point Github runs `git init` somewhere on their computer. After you do this, you'll see an empty repository. 
+At this point Github runs `git init` somewhere on their computer. After you do this, you'll see an empty repository.
 
 ![Step 17](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335315204_Screen%20Shot%202013-10-09%20at%2017.14.59.png)
 
@@ -609,7 +601,7 @@ git did the equivalent of the following:
 
 ```
 mkdir ruby-kickstart
-cd ruby-kickstart 
+cd ruby-kickstart
 git init
 git remote add origin https://github.com/JoshCheek/ruby-kickstart.git
 git pull
@@ -631,10 +623,8 @@ Don't forget, we also have a couple of 'aide memoirs' that we put together to he
 - [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
 - [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
-### Exercises 
+### Exercises
 
 Before moving on, try to complete each of the following [exercises](/exercises/git_exercises.md). When you struggle, which you inevitably will at times, use Google! You'd be surprised how much time even Senior Developers spend googling the solutions to simple problems. Being a great developer isn't about *knowing* the solution to every problem. It's more about knowing *how to find* the solution when it's not immediately obvious.
 
 Being able to complete these exercises will be very helpful for completing this week's challenge, codename 'Octocat'... Which you'll be receiving by email at the end of the week.
-
-
