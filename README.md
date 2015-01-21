@@ -23,9 +23,9 @@ Make sure to go through all the materials and access them through our dedicated 
 
     REMEMBER! The world of development is constantly changing... Some of the information in these tutorials may not apply to the     latest version of RSpec. You're going to have to get used to this eventually - you might as well start now!
 
-    - [RSpec tutorial](https://www.youtube.com/watch?v=JhR9Ib1Ylb8&feature=relmfu) (Video)
     - [FizzBuzz](https://www.youtube.com/watch?v=CHTep2zQVAc) (Video)
     - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
     - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
+    - [RSpec tutorial](https://www.youtube.com/watch?v=JhR9Ib1Ylb8&feature=relmfu) (Video)
 
 
