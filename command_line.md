@@ -8,25 +8,15 @@ So, let's start with learning the command line, also known as the terminal, beca
 
 You're not required to know everything about the command line by the end of this lesson, it's merely meant as a brief introduction to give you a basic understanding and to show you where to look for future reference.
 
-Please ensure that you complete the following command line tutorial (or pill) before you begin the course at Makers Academy:
+Note: Throughout the course you're going to see two blocks over and over: required reading and optional further reading. Every student moves at a different pace and these two blocks are supposed to give you an idea of pace. You should be completing the required reading for every day. Sometimes you'll complete the required reading rather quickly and can immediately move on to the optional further reading. But as long as you're keeping up with the daily required reading, you'll be okay.
+
+Required Reading:
 
 - :pill:&nbsp;[Command Line](pills/command_line.md) - 2-3 Hours of study
 
-Here are some other (optional) resources related to the command line that you might find helpful:
-
-Helpful for memorisation:
+Optional Further Reading:
 
 - [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
 - [Makers Academy's Command Line Course on Memrise](http://www.memrise.com/course/372930/command-line-basics-by-makers-academy/)
-
-Helpful for going over / rephrasing the stuff in the 'Command Line' pill:
-
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-
-
-Note that there are lots of different knowledge pills&nbsp;:pill:&nbsp;in this course. Here is a list of of all the different knowledge pills:
-
-- [Knowledge Pills](pills.md)
-
-Feel free to refer to them if you find yourself struggling with a particular concept.
