@@ -19,7 +19,7 @@ $ git --version
 git version 1.7.12.4 (Apple Git-37)
 ````
 
-## Tutorials
+## Required Tutorials
 
 Make sure that you complete the following git tutorial (or pill) before you begin the course at Makers Academy:
 
@@ -37,7 +37,7 @@ We made a couple of memorisation tools that will help you retain the information
 - [Makers Academy Version Control Class, on Quizlet](http://quizlet.com/join/QfjVs5RJT)
 - [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
 
-## Want to go even deeper? Try these, in order (But only if you have time...)
+## Optional further reading
 
 Both are excellent resources, and will leave you with a great understanding of how to use Git
 
@@ -46,7 +46,7 @@ Both are excellent resources, and will leave you with a great understanding of h
 
 ## Really? You haven't had enough already?
 
-Are you a machine?! Don't you sleep? In all seriousness, some people just like to hear things phrased in different way, and taught by different people. These should keep you busy 'til the cows come home.
+Are you a machine?! Don't you sleep? In all seriousness, some people just like to hear things phrased in different way, and taught by different people. These should keep you busy 'til the cows come home. They should only be attempted if you've completed everything else above.
 
 - [Pro Git](http://git-scm.com/book)
 - [Official Git Site](http://git-scm.com)
