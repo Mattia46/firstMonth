@@ -30,7 +30,7 @@ You should also make sure that you have completed both of the following tutorial
 - [Git Immersion](http://gitimmersion.com)
 - [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
 
-## Help with memorisation
+## Help with memorisation (Optional)
 
 We made a couple of memorisation tools that will help you retain the information you learnt this week. Try practising every day and you'll be a ninja in no time.
 
