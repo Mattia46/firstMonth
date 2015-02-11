@@ -1,12 +1,4 @@
-# Learning Objectives
-* Understand how the Ronin course will be administered
-* Set up logistics for participating in the course
-* Understand the general flow of the 16-week schedule
-* Learn the proper process for asking a question
-* Get an introduction to the agile process and the web development infrastructure
-
-Introduction
-------------
+# Introduction
 
 Welcome to Ronin :)
 
@@ -144,3 +136,10 @@ This is the Rosetta Stone of web development.  We want you to be great programme
 
 ## Required learning materials
 * [Video of December Intro Session](https://www.youtube.com/watch?v=eq4fbus_9TQ)
+
+## Before moving on, make sure you...
+* Understand how the Ronin course will be administered
+* Have set up all logistics for participating in the course (i.e. slack, stackoverflow, etc.)
+* Understand the general flow of the 16-week schedule
+* Understand the proper process for asking a question
+* Have read and watched the introduction to the agile process and the web development infrastructure
