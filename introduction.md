@@ -30,23 +30,22 @@ Overview of the Makers Week
 Over the next 16 weeks you're required to participate in Makers Academy work from 0900-1800 at a minimum. This means that you'll be available on our various communication platforms, consuming material or coding.
 
 This is roughly how the 16 weeks breaks down (subject to change):
-
-Week 1: Command Line
-Week 2: Git
-Week 3: RSpec
-Week 4: Ruby
-Week 5: Boris Bikes
-Week 6: Battleships
-Week 7: Battleships Web
-Week 8: Bookmark Manager
-Week 9: Javascript
-Week 10: Lab Week
-Week 11: Node
-Week 12: Makerthon (Teams)
-Week 13: Rails
-Week 14: Project 1
-Week 15: Project 2
-Week 16: Employment Week
+* Week 1: Command Line
+* Week 2: Git
+* Week 3: RSpec
+* Week 4: Ruby
+* Week 5: Boris Bikes
+* Week 6: Battleships
+* Week 7: Battleships Web
+* Week 8: Bookmark Manager
+* Week 9: Javascript
+* Week 10: Lab Week
+* Week 11: Node
+* Week 12: Makerthon (Teams)
+* Week 13: Rails
+* Week 14: Project 1
+* Week 15: Project 2
+* Week 16: Employment Week
 
 The breakdown above is NOT set in stone and is purely just a rough overview of what you'll be learning and in what order. We might end up working slightly ahead or behind the breakdown above - don't let that be a source of anxiety.
 
