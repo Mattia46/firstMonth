@@ -52,11 +52,11 @@ The breakdown above is NOT set in stone and is purely just a rough overview of w
 
 In terms of keeping track of learning objectives, this is how things will be broken down:
 
-Every week has a lesson plan. Inside of that lesson plan you'll have three elements: required learning materials, optional learning materials and a weekly test. 
+Every week has a lesson plan. Inside of that lesson plan you'll have three elements: required materials, optional materials and a weekly test. 
 
-The materials will be presented in that order and you should go through them in that order. It's required that you complete the required learning materials and the weekly test every week. The optional learning materials are just that - optional. Different students will progress at different speeds and the optional materials are there for those students that happen to get through a specific lesson faster than his/her classmates.
+The materials will be presented in that order and you should go through them in that order. It's required that you complete the required materials and the weekly test every week. The optional materials are just that - optional. Different students will progress at different speeds and the optional materials are there for those students that happen to get through a specific lesson faster than his/her classmates.
 
-Everything you need to know is included in the required materials and the weekly test - do NOT get stressed if you're not able to dive into the optional learning materials.
+Everything you need to know is included in the required materials and the weekly test - do NOT get stressed if you're not able to dive into the optional materials.
 
 Daily Standups
 --------------
@@ -134,7 +134,7 @@ However note that there is far more complexity here than we can cover in 12-16 w
 
 This is the Rosetta Stone of web development.  We want you to be great programmers and great project managers, and great team members, but critically we are focused on helping you become web developers, so understanding this architecture is key.
 
-## Required learning materials
+## Required Materials
 * [Video of December Intro Session](https://www.youtube.com/watch?v=eq4fbus_9TQ)
 
 ## Before moving on, make sure you...
