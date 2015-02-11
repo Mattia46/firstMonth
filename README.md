@@ -6,7 +6,7 @@ Here is the primary lesson plan you'll be using for the duration of the 16-week 
 
 - [Introduction](introduction.md)
 - [Week 1: Command Line](command_line.md)
-- [Week 2: Version Control](version_control.md)
+- Week 2: Version Control
 - Week 3: RSpec
 - Week 4: Ruby
 - Week 5: Boris Bikes
