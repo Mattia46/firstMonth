@@ -5,12 +5,10 @@ Learning how to use the command line is an essential skill for any developer. Yo
 ## Required Materials
 * [Command Line Lesson](pills/command_line.md)
 * [Command Line Exercises](exercises/command_line_exercises.md)
+* Unixoid Test (will be emailed to you)
 
-Optional Materials:
+## Optional Materials:
 * [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
 * [Makers Academy's Command Line Course on Memrise](http://www.memrise.com/course/372930/command-line-basics-by-makers-academy/)
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-
-## Before moving on, make sure you understand how to use each of the following commands...
-* 
