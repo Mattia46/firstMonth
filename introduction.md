@@ -52,11 +52,13 @@ The breakdown above is NOT set in stone and is purely just a rough overview of w
 
 In terms of keeping track of learning objectives, this is how things will be broken down:
 
-Every week has a lesson plan. Inside of that lesson plan you'll have three elements: required materials, optional materials and a weekly test. 
+Every week has a lesson plan. Inside of that lesson plan you'll have two main elements: required materials and optional materials.
 
-The materials will be presented in that order and you should go through them in that order. It's required that you complete the required materials and the weekly test every week. The optional materials are just that - optional. Different students will progress at different speeds and the optional materials are there for those students that happen to get through a specific lesson faster than his/her classmates.
+It's required that you complete the required materials every week. The optional materials are just that - optional. Different students will progress at different speeds and the optional materials are there for those students that happen to get through a specific lesson faster than his/her classmates.
 
 Everything you need to know is included in the required materials and the weekly test - do NOT get stressed if you're not able to dive into the optional materials.
+
+Included in the required materials will be exercises and a weekly test. The exercises can be completed at your own pace, but the weekly test will usually be emailed to you as it's a timed test.
 
 Daily Standups
 --------------
