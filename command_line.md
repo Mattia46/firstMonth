@@ -35,6 +35,9 @@ Learning how to use the command line is an essential skill for any developer. Yo
 * whoami
 * chmod
 * sudo
-* echoexport
+* echo
+* export
 * ps
 * env
+* ruby
+* pgrep
