@@ -27,8 +27,8 @@ Make sure that you're able to do each of the following tasks:
 - *Remove the "New" directory.*
 - *Navigate into the "Text Files" directory.*
 - *Create another copy of "More Text" and call it "Learn to code".*
-- *Display the first 5 lines the "Learn to code" file.*
-- *Display the last 5 lines the "More Text" file.*
+- *Display the first 5 lines of the "Learn to code" file.*
+- *Display the last 5 lines of the "More Text" file.*
 - *Stream the entire "Learn to code" file on the screen.*
 - *Print only the lines in "Learn to code" that contain the letter 'a'.*
 - *Create a blank file in the "Text Files" directory called "blank".*
