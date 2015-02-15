@@ -144,3 +144,4 @@ This is the Rosetta Stone of web development.  We want you to be great programme
 * Understand the general flow of the 16-week schedule
 * Understand the proper process for asking a question
 * Have read and watched the introduction to the agile process and the web development infrastructure
+* Have set up your machine and got [all the important software](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) loaded and working
