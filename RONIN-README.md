@@ -4,7 +4,7 @@ Welcome to Ronin :)
 
 Here is the primary lesson plan you'll be using for the duration of the 16-week course:
 
-- [Introduction](introduction.md)
+- [Introduction](ronin_introduction.md)
 - [Week 1: Command Line](command_line.md)
 - Week 2: Version Control
 - Week 3: Basic Ruby & Intro to RSpec
