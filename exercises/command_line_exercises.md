@@ -23,7 +23,7 @@ Make sure that you're able to do each of the following tasks:
 - *Create a hierarchy of directories at Foo/Bar/folders in one command (read the man page on mkdir to find out how).*
 - *List a directory in a short format.*
 - *List a directory in a long format.*
-- *Remove the empty "folders" directory.*
+- *Remove the "Empty_Folder" directory.*
 - *Remove the "New" directory.*
 - *Navigate into the "Text_Files" directory.*
 - *Create another copy of "More_Text" and call it "Learn_to_code".*
