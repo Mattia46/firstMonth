@@ -17,7 +17,7 @@ Make sure that you're able to do each of the following tasks:
 - *Create an empty file named "newFile".*
 - *Move "newFile" into the "New" directory.*
 - *Show the path of the directory you're currently in.*
-- *Make and Change into the "Text_Files" directory.*
+- *Change into the "Text_Files" directory.*
 - *Change into the current directory (pointless in real life, only as an exercise).*
 - *Change into a directory one level above (the parent directory).*
 - *Create a hierarchy of directories at Foo/Bar/folders in one command (read the man page on mkdir to find out how).*
