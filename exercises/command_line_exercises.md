@@ -1,6 +1,6 @@
 # Command-line Exercises
 
-First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip). 
+First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip).
 
 If you're on Nitrous (or just want to work purely from the command line) use the following commands:
 
@@ -11,7 +11,7 @@ unzip Challenge01.zip
 
 Make sure that you're able to do each of the following tasks:
 
-- *Show the name of your home directory.* 
+- *Show the name of your home directory.*
 - *Navigate to the "Challenge_1" folder.*
 - *Create a new directory titled "New".*
 - *Create an empty file named "newFile".*
