@@ -1,11 +1,11 @@
 # Command-line Exercises
 
-First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip).
+First download this [challenge file](https://www.dropbox.com/s/6dkssywvvpfd8l0/Challenge_1.zip?dl=1).
 
 If you're on Nitrous (or just want to work purely from the command line) use the following commands:
 
 ```
-curl https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip > Challenge01.zip
+curl https://dl.dropboxusercontent.com/content_link/4ZH5j0sVHxruM9tNJk0kyS8RIpveMjZ5LU9qSwB1xb9jOTCUdBYWterywGwXmvzd?dl=1 > Challenge01.zip
 unzip Challenge01.zip
 ```
 
