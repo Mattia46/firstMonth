@@ -5,7 +5,7 @@ First download this [challenge file](https://www.dropbox.com/s/6dkssywvvpfd8l0/C
 If you're on Nitrous (or just want to work purely from the command line) use the following commands:
 
 ```
-curl https://dl.dropboxusercontent.com/content_link/4ZH5j0sVHxruM9tNJk0kyS8RIpveMjZ5LU9qSwB1xb9jOTCUdBYWterywGwXmvzd?dl=1 > Challenge01.zip
+curl https://dl.dropboxusercontent.com/content_link/Pn6QXtgETjBhUUAxk0JahqcWyMrtMphPACIbqePvzAJEV02f63HBeA8C93wXUFZZ?dl=1 > Challenge01.zip
 unzip Challenge01.zip
 ```
 
