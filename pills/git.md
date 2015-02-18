@@ -2,7 +2,7 @@
 
 Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realize* after the roof is built that there is a crack in the foundation.
 
-Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, we can revert back to a previous version that we know is solid.
+Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, wey can revert back to a previous version that we know is solid.
 
 Additionally, version control allows multiple versions to be built simultaneously and then brought together. It doesn't matter whether you're working in a team or writing code alone, version control is something you absolutely need to understand.
 
@@ -472,7 +472,7 @@ Whenever you are starting work on a new project, follow these steps. Create a ne
 
 You need to be in the directory where the repository is in order to push your data to Github. When you do `git push` or a similar command git applies it to the directory you are in, so if you're in a wrong directory you won't get the results you expect.
 
-![Everything is local](/pills/images/git_everything_is_local.png)
+![Everything is local](/pills/images/git_everthing_is_local.png)
 
 ### Pulling the code from Github
 
