@@ -472,6 +472,7 @@ Whenever you are starting work on a new project, follow these steps. Create a ne
 
 You need to be in the directory where the repository is in order to push your data to Github. When you do `git push` or a similar command git applies it to the directory you are in, so if you're in a wrong directory you won't get the results you expect.
 
+![Everything is local](/pills/images/git_everything_is_local.png)
 
 ### Pulling the code from Github
 
