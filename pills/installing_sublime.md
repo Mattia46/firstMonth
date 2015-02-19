@@ -16,7 +16,7 @@ This process may fail with the following message if you have not yet installed H
 ln: /usr/local/bin/subl: No such file or directory
 ```
 
-The best way to resolve this is to install (Homebrew)[http://brew.sh/].
+The best way to resolve this is to install [Homebrew](http://brew.sh/).
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
