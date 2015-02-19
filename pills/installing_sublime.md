@@ -16,18 +16,15 @@ This process may fail with the following message if you have not yet installed H
 ln: /usr/local/bin/subl: No such file or directory
 ```
 
-There are two ways to resolve this, either:
-```
-sudo mkdir -p /usr/local/bin
-```
+The best way to resolve this is to install (Homebrew)[http://brew.sh/].
 
-Or:
-
-Install (Homebrew)[http://brew.sh/].
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+Enter your password when asked, and follow any instructions presented in the terminal window.
+
+Retry the symbolic link command above. 
 
 After you have done this, you should be able to open your current directory in sublime by using the command:
 
