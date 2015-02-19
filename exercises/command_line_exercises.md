@@ -6,6 +6,10 @@ If you're on Nitrous (or just want to work purely from the command line) use the
 
 ```
 curl https://dl.dropboxusercontent.com/u/23372592/Challenge_1.zip > Challenge01.zip
+```
+Followed by : 
+
+```
 unzip Challenge01.zip
 ```
 
