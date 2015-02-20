@@ -51,7 +51,7 @@ git config --global core.safecrlf true
 Don't worry about what these do exactly as they're just formatting some settings to make things easier later on.
 
 
-### Your first git repository 
+### Your first git repository
 
 Let's create a git *repository* to illustrate how it works. Create a new directory with a small text file named gitText. The text should read "Git is Awesome!" like this:
 
@@ -78,7 +78,7 @@ Let's break down these commands line by line.
 ### Initialising the repository
 
 
-The first command initialises this directory as a git repo - it only has to be done once for every repository. 
+The first command initialises this directory as a git repo - it only has to be done once for every repository.
 
 ```
 git init
@@ -147,8 +147,8 @@ When you commit the file, git tells you what it does:
 ```
 $ git commit -m "First commit"
 [master (root-commit) a1833e4] First commit
- 1 file changed, 1 insertion(+)
- create mode 100644 gitText
+1 file changed, 1 insertion(+)
+create mode 100644 gitText
 ```
 
 This is what a successful commit message looks like. Git is telling you that it created a commit called "First commit" with a number (or hash, or SHA) a1833e4. One file was changed (gitText), there was one insertion (we put a line of text in it).
@@ -256,7 +256,7 @@ touch moreGitText
 git status
 ```
 
-As you can see, it shows that moreGitText is not being tracked yet because we haven't staged it and gitText has been deleted. 
+As you can see, it shows that moreGitText is not being tracked yet because we haven't staged it and gitText has been deleted.
 
 ![Step seven](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248192309_Screen%20Shot%202013-10-08%20at%2017.03.00.png)
 
@@ -267,7 +267,7 @@ git add moreGitText
 git status
 ```
 
-You'll see that moreGitText is staged and ready to be committed, but the deletion of gitText isn't. 
+You'll see that moreGitText is staged and ready to be committed, but the deletion of gitText isn't.
 
 ![Step eight](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248217999_Screen%20Shot%202013-10-08%20at%2017.03.26.png)
 
@@ -319,7 +319,7 @@ git checkout a1833e4ef4a1b
 
 ![Step 12](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249076792_Screen%20Shot%202013-10-08%20at%2017.15.36.png)
 
-Note that we're using just the first few characters of the commit hash. You don't have to copy the entire commit hash, just the first few characters will do as long as there is no ambiguity (you have to use at least four, though). 
+Note that we're using just the first few characters of the commit hash. You don't have to copy the entire commit hash, just the first few characters will do as long as there is no ambiguity (you have to use at least four, though).
 
 Now git takes us to a "parallel universe" to the time when we just created our "first commit". If you `ls` the directory now, you'll see that the moreGitText doesn't exist yet and gitText still exists (we haven't deleted it yet). Furthermore, gitText contains the text that we put in it right before "first commit".
 
@@ -336,10 +336,10 @@ git checkout master
 By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features later in the course.
 
 
-### Github 
+### Github
 
 
-Making all of these changes on your local computer are great, but we'll need some additional functionality provided by [Github](https://github.com/) to collaborate with other developers and browse code online. 
+Making all of these changes on your local computer are great, but we'll need some additional functionality provided by [Github](https://github.com/) to collaborate with other developers and browse code online.
 
 Github does three things. Firstly, it displays git repos in a visual way, so you can look at them online. Secondly, it serves as a common place for open source projects, so if you're using some open source library, the chances are you can find it on Github. Finally, Github provides a set of tools (forking, issues, wiki, etc) to help developers collaborate on projects. If you'd like to see an example Github project, check out [Bootstrap](https://github.com/twbs/bootstrap), [jQuery](https://github.com/jquery/jquery) or [Cocktails for Programmers](https://github.com/the-teacher/cocktails_for_programmers/blob/master/cocktails_for_programers.md).
 
@@ -378,13 +378,13 @@ The key feature of git is its ability to copy code between repositories. If you 
 
 First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys). Note that if you are using nitrous.io, step 3 will involve printing the contents of id_rsa.pub file to the screen using cat or less and copying the key to your computer's clipboard - you cannot use xclip or pbcopy as nitrous does not include those commands.
 
-Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'. 
+Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'.
 
 ![Step 16](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335055212_Screen%20Shot%202013-10-09%20at%2017.10.44.png)
 
 Make it public, so that others could see it. Unless you have a good reason to keep the code private, make it public. Don't initialise it with a README file.
 
-At this point Github runs `git init` somewhere on their computer. After you do this, you'll see an empty repository. 
+At this point Github runs `git init` somewhere on their computer. After you do this, you'll see an empty repository.
 
 ![Step 17](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335315204_Screen%20Shot%202013-10-09%20at%2017.14.59.png)
 
@@ -610,7 +610,7 @@ git did the equivalent of the following:
 
 ```
 mkdir ruby-kickstart
-cd ruby-kickstart 
+cd ruby-kickstart
 git init
 git remote add origin https://github.com/JoshCheek/ruby-kickstart.git
 git pull
@@ -620,5 +620,3 @@ cd ..
 Nothing new here. We just created a new local repo, added a remote and pulled the changes. No magic.
 
 A common mistake is to forget that `git clone` created a folder for you. You need to run `git clone` in your projects folder, not the folder you want the repo files to be in.
-
-
