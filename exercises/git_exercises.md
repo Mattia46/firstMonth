@@ -1,5 +1,7 @@
 # Git Exercises
 
+Try to complete each of these exercises. When you struggle, which you inevitably will at times, use Google! You'd be surprised how much time even Senior Developers spend googling the solutions to simple problems. Being a great developer isn't about *knowing* the solution to every problem. It's more about knowing *how to find* the solution when it's not immediately obvious.
+
 - *Create a directory where you'll be keeping all your projects (~/Projects, ~/dev, ~/coding or something like this)*
 - *Create a directory "command-line" in your projects folder*
 - *Initialise a git repository inside it*

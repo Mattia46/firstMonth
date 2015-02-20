@@ -1,3 +1,11 @@
+# Version Control
+
+Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realize* after the roof is built that there is a crack in the foundation.
+
+Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, wey can revert back to a previous version that we know is solid.
+
+Additionally, version control allows multiple versions to be built simultaneously and then brought together. It doesn't matter whether you're working in a team or writing code alone, version control is something you absolutely need to understand.
+
 ## What would version control in real world look like
 
 If our lives were version controlled, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
@@ -139,8 +147,8 @@ When you commit the file, git tells you what it does:
 ```
 $ git commit -m "First commit"
 [master (root-commit) a1833e4] First commit
- 1 file changed, 1 insertion(+)
- create mode 100644 gitText
+1 file changed, 1 insertion(+)
+create mode 100644 gitText
 ```
 
 This is what a successful commit message looks like. Git is telling you that it created a commit called "First commit" with a number (or hash, or SHA) a1833e4. One file was changed (gitText), there was one insertion (we put a line of text in it).
@@ -464,6 +472,7 @@ Whenever you are starting work on a new project, follow these steps. Create a ne
 
 You need to be in the directory where the repository is in order to push your data to Github. When you do `git push` or a similar command git applies it to the directory you are in, so if you're in a wrong directory you won't get the results you expect.
 
+![Everything is local](/pills/images/git_everthing_is_local.png)
 
 ### Pulling the code from Github
 
@@ -611,20 +620,3 @@ cd ..
 Nothing new here. We just created a new local repo, added a remote and pulled the changes. No magic.
 
 A common mistake is to forget that `git clone` created a folder for you. You need to run `git clone` in your projects folder, not the folder you want the repo files to be in.
-
-
-### That's it for this pill!
-
-
-Have a stab at the Exercises below, and if you struggle, go through the [Git Immersion](http://gitimmersion.com) and [Codeschool Git Real](https://www.codeschool.com/courses/git-real) tutorials listed on the [main page for this week](https://github.com/makersacademy/pre_course/blob/master/version_control.md) and try again until you get the hang of it.
-
-Don't forget, we also have a couple of 'aide memoirs' that we put together to help you retain the stuff you just learnt... Check them out!
-
-- [Makers Academy's Version Control Class on Quizlet](http://quizlet.com/join/QfjVs5RJT)
-- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
-
-### Exercises
-
-Before moving on, try to complete each of the following [exercises](/exercises/git_exercises.md). When you struggle, which you inevitably will at times, use Google! You'd be surprised how much time even Senior Developers spend googling the solutions to simple problems. Being a great developer isn't about *knowing* the solution to every problem. It's more about knowing *how to find* the solution when it's not immediately obvious.
-
-Being able to complete these exercises will be very helpful for completing this week's challenge, codename 'Octocat'... Which you'll be receiving by email at the end of the week.

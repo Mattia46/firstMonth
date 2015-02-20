@@ -1,4 +1,4 @@
-# Version Control
+# Week 2: Version Control
 
 Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realise* after the roof is built that there is a crack in the foundation.
 
@@ -19,42 +19,25 @@ $ git --version
 git version 1.7.12.4 (Apple Git-37)
 ````
 
-## Tutorials
+## Required Materials
+* [Introduction to git](/pills/git.md)
+* [Git Immersion](http://gitimmersion.com)
+* [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
+* [Version Control Exercises](/exercises/git_exercises.md)
+* Octocat Test (emailed to you later this week)
 
-Make sure that you complete the following git tutorial (or pill) before you begin the course at Makers Academy:
-
-- :pill:&nbsp;[git](/pills/git.md)
-
-You should also make sure that you have completed both of the following tutorials. They are interactive and should be a great way to reinforce what you learnt in the pill above.
-
-- [Git Immersion](http://gitimmersion.com)
-- [Codeschool Git Real](https://www.codeschool.com/courses/git-real)
-
-## Help with memorisation
-
-We made a couple of memorisation tools that will help you retain the information you learnt this week. Try practising every day and you'll be a ninja in no time.
-
-- [Makers Academy Version Control Class, on Quizlet](http://quizlet.com/join/QfjVs5RJT)
-- [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
-
-## Want to go even deeper? Try these, in order (But only if you have time...)
-
-Both are excellent resources, and will leave you with a great understanding of how to use Git
-
-- [Udacity Git Course](https://www.udacity.com/course/ud775)
-- [GitHub Guides](https://guides.github.com)
-
-## Really? You haven't had enough already?
-
-Are you a machine?! Don't you sleep? In all seriousness, some people just like to hear things phrased in different way, and taught by different people. These should keep you busy 'til the cows come home.
-
-- [Pro Git](http://git-scm.com/book)
-- [Official Git Site](http://git-scm.com)
-- [Official Git Documentation](http://git-scm.com/doc)
-- [Git reference](http://gitref.org)
-- [Github cheat sheets](https://training.github.com/kit/)
-- [Github training videos](https://www.youtube.com/user/GitHubGuides)
-- [Atlassian Git Tutorials](https://www.atlassian.com/git)
-- [Git-It Tutorial](https://github.com/jlord/git-it)
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+## Optional Materials (in order of recommended usefulness)
+* [Makers Academy Version Control Class, on Quizlet](http://quizlet.com/join/QfjVs5RJT)
+* [Git Basics by Makers Academy, on Memrise](http://www.memrise.com/course/367995/git-basics-by-makers-academy/)
+* [Udacity Git Course](https://www.udacity.com/course/ud775)
+* [GitHub Guides](https://guides.github.com)
+* [Pro Git](http://git-scm.com/book)
+* [Official Git Site](http://git-scm.com)
+* [Official Git Documentation](http://git-scm.com/doc)
+* [Git reference](http://gitref.org)
+* [Github cheat sheets](https://training.github.com/kit/)
+* [Github training videos](https://www.youtube.com/user/GitHubGuides)
+* [Atlassian Git Tutorials](https://www.atlassian.com/git)
+* [Git-It Tutorial](https://github.com/jlord/git-it)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
