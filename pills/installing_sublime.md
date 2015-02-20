@@ -10,6 +10,22 @@ In order to run sublime from the command line, you will need to create a symboli
 ln -s  "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
 
+This process may fail with the following message if you have not yet installed Homebrew:
+
+```
+ln: /usr/local/bin/subl: No such file or directory
+```
+
+The best way to resolve this is to install [Homebrew](http://brew.sh/).
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Enter your password when asked, and follow any instructions presented in the terminal window.
+
+Retry the symbolic link command above. 
+
 After you have done this, you should be able to open your current directory in sublime by using the command:
 
 ```
