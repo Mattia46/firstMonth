@@ -49,14 +49,14 @@ attributed to Jim Shore in his 2007 book "The Art of Agile Development"
 
 attributed to John Wilger
 
-![Change the Message](/pill/images/ChangeTheMessage.png)
+![Change the Message](/pills/images/ChangeTheMessage.png)
 
 
 ### 'One Undermanship' between Programmer A and B:
 
 attributed to Sam Livingston Gray
 
-![OneUndermanship](/pill/images/OneUndermanShip.png)
+![OneUndermanship](/pills/images/OneUndermanShip.png)
 
 Pair Programming Research
 -------------
