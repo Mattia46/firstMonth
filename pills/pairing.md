@@ -42,21 +42,21 @@ Detailed Pair Programming Methodologies
 
 attributed to Jim Shore in his 2007 book "The Art of Agile Development"
 
-![Ping Pong Protocol](/images/PingPongProtocol.png)
+![Ping Pong Protocol](/pills/images/PingPongProtocol.png)
 
 
 ### 'Change the Message' between Programmer A and B:
 
 attributed to John Wilger
 
-![Change the Message](/images/ChangeTheMessage.png)
+![Change the Message](/pill/images/ChangeTheMessage.png)
 
 
 ### 'One Undermanship' between Programmer A and B:
 
 attributed to Sam Livingston Gray
 
-![OneUndermanship](/images/OneUndermanShip.png)
+![OneUndermanship](/pill/images/OneUndermanShip.png)
 
 Pair Programming Research
 -------------
