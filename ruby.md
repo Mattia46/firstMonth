@@ -65,9 +65,9 @@ A challenging and interesting Ruby tutorial, that also teaches you about error m
 
 ### Recommended books
 
-The Well Grounded Rubyist: David A. Black
-Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
-Eloquent Ruby - Russ Olsen
-Design Patterns in Ruby - Russ Olsen
-Refactoring in Ruby - William C. Rake, Kevin Rutherford
-Practical Object-Oriented Design in Ruby - Sandi Metz
+- The Well Grounded Rubyist: David A. Black
+- Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
+- Eloquent Ruby - Russ Olsen
+- Design Patterns in Ruby - Russ Olsen
+- Refactoring in Ruby - William C. Rake, Kevin Rutherford
+- Practical Object-Oriented Design in Ruby - Sandi Metz
