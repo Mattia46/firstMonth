@@ -14,14 +14,21 @@ So Ruby is an all purpose programming language, in short a language that lets yo
 
 Before you start at Makers Academy you should go through the following pills and tutorials to get yourself ready:
 
-## Tutorials - Do at least one
+## Tutorials
 
-It's critical that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language. Each has it's own style - try spending 15-20 mins on each, pick one you enjoy, and FINISH IT!
+Task 1
+
+Go through and complete Learn Ruby the Hardway :
+
+- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/intro.html)
+
+Ensure the answers are posted up onto Github as you go through the challenge to cement your Git training from last week.
+
+In addition to the above book, it's critical that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language.
 
 (We've put them in order for you - Ruby Monk being the best in our eyes, The Well Grounded Rubyist being, not the worst, but the hardest to finish...)
 
 - [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
-- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/intro.html)
 - [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
 - [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
 - [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
@@ -35,8 +42,8 @@ And here are some great videos you could watch if you want to kick back and put 
 Strings, Arrays and Hashes are the three data classes that you will be likely to use more than any other. These pills give a basic overview, but we recommend that you strive to learn every available method for all 3 classes.
 
 - :pill: [Strings](/pills/strings.md)
-- :pill: [Arrays](/pills/arrays.md) 
-- :pill: [Hashes](/pills/hashes.md) 
+- :pill: [Arrays](/pills/arrays.md)
+- :pill: [Hashes](/pills/hashes.md)
 
 ### Memorization Aids
 
@@ -45,12 +52,6 @@ A few 'aide memoirs' on the basics of Ruby, courtesy of the Makers Academy team
 - [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
 - [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
 
-### Exercises
-
-Once you've finished one of the tutorials above, have a go at solving some of these exercises. While the tutorials are useful, you only really start learning to code when you actually write code. So get cracking!
-
-- [Ruby KickStarter](https://github.com/JoshCheek/ruby-kickstart)
-- [CodeWars](http://www.codewars.com/)
 
 ### Wanna try something different? Do some Zen Ruby :)
 
@@ -65,9 +66,9 @@ A challenging and interesting Ruby tutorial, that also teaches you about error m
 
 ### Recommended books
 
-- The Well Grounded Rubyist: David A. Black
-- Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
-- Eloquent Ruby - Russ Olsen
-- Design Patterns in Ruby - Russ Olsen
-- Refactoring in Ruby - William C. Rake, Kevin Rutherford
 - Practical Object-Oriented Design in Ruby - Sandi Metz
+- Eloquent Ruby - Russ Olsen
+- The Well Grounded Rubyist: David A. Black
+- Design Patterns in Ruby - Russ Olsen
+- Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
+- Refactoring in Ruby - William C. Rake, Kevin Rutherford
