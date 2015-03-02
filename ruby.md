@@ -59,7 +59,7 @@ A challenging and interesting Ruby tutorial, that also teaches you about error m
 
 - [Ruby Koans](http://rubykoans.com)
 
-### Reference
+### Reference / Ruby Docs
 
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
