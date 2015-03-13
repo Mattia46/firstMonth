@@ -8,10 +8,17 @@
 - Use array methods such as `first`, `include?`, `select`, `map`, and iterators like `each` and `inject`
 
 ###[Blocks](pills/blocks.md)
+- Recall the structure of blocks using both `{}` and `do..end` notation
+- Explain how blocks are used in Ruby
+- Demonstrate appropriate use of blocks for readability
 
 ###[Booleans](pills/boolean.md)
+- Know that 'boolean' refers to either `true` or `false`
+- Explain that everything in Ruby is 'truthy', except `false` or `nil`, which are 'falsy'
+- Explain ideas of 'truthy' and 'falsy'
 
 ###[Control Flows](pills/control_flow.md)
+- Define 
 
 ###[Gems](pills/gems.md)
 
@@ -33,6 +40,10 @@
 
 ###[Symbols](pills/symbols.md)
 
+###[User Interaction](pills/user_interaction.md)
+
+###[Variables](pills/variables.md)
+
 ###Tips and tricks
 
 #####[Parallel Assignment](pills/parallel_assignment.md)
@@ -47,10 +58,6 @@
 #####[String Interpolation](pills/string_interpolation.md)
 - Recall what string interpolation is
 - Explain how to use string interpolation
-
-###[User Interaction](pills/user_interaction.md)
-
-###[Variables](pills/variables.md)
 
 ##Dev Skills
 
