@@ -1,4 +1,6 @@
-*LOs are extracted here on a topic-by-topic basis (similar to the main course)*
+**UNDER CONSTRUCTION**
+
+*Learning Objectives are extracted here on a topic-by-topic basis (like the main course)*
 
 ##Ruby
 
@@ -18,11 +20,20 @@
 - Explain ideas of 'truthy' and 'falsy'
 
 ###[Control Flows](pills/control_flow.md)
-- Define 
+- Remember that 'control flows' are statements that control the flow of a program
+- Use `if`/`else` statements to build conditional execution flows
+- Connect the idea of [booleans](pills/boolean.md) with conditional statements in control flows
+- Use more terse versions of control flows (such as inline `if` statements, `else` statements, and ternary operators)
+- Analyse when to swap `if`/`else` statements for 'switch' statements
 
 ###[Gems](pills/gems.md)
+- Define a ruby gem as a reusable ruby library
+- State scenarios where gems are used
+- Remember where to find gems
+- Explain how to install gems
 
 ###[Hashes](pills/hashes.md)
+
 
 ###[`irb`](pills/irb.md)
 
