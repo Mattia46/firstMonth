@@ -2,33 +2,36 @@
 
 ##Ruby
 
-###Arrays
+###[Arrays](pills/arrays.md)
+- Define array as indexed collection of related items
+- Explain square-bracket notation
+- Use array methods such as `first`, `include?`, `select`, `map`, and iterators like `each` and `inject`
 
-###Blocks
+###[Blocks](pills/blocks.md)
 
-###Booleans
+###[Booleans](pills/boolean.md)
 
-###Control Flows
+###[Control Flows](pills/control_flow.md)
 
-###Gems
+###[Gems](pills/gems.md)
 
-###Hashes
+###[Hashes](pills/hashes.md)
 
-###`irb`
+###[`irb`](pills/irb.md)
 
-###Lambdas
+###[Lambdas](pills/lambdas.md)
 
-###Methods
+###[Methods](pills/methods.md)
 
-###Procs
+###[Procs](pills/procs.md)
 
-###Recursion
+###[Recursion](pills/recursion.md)
 
-###RVM
+###[RVM](pills/installing_rvm.md)
 
-###Strings
+###[Strings](pills/strings.md)
 
-###Symbols
+###[Symbols](pills/symbols.md)
 
 ###Tips and tricks
 
@@ -39,20 +42,20 @@
 - Recall what [string interpolation](pills/string_interpolation.md) is
 - Explain how to use [string interpolation](pills/string_interpolation.md)
 
-###User Interaction
+###[User Interaction](pills/user_interaction.md)
 
-###Variables
+###[Variables](pills/variables.md)
 
 ##Dev Skills
 
-###Development setup
+###[Development setup](pills/installation_instructions.md)
 
-###Command Line
+###[Command Line](pills/command_line.md)
 
-###Git
+###[Git](pills/git.md)
 
-###Pairing
+###[Pairing](pills/pairing.md)
 
-###Sublime
+###[Sublime](pills/installing_sublime.md)
 
-###XCode
+###[XCode](pills/installing_xcode.md)
