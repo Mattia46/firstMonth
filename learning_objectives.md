@@ -35,12 +35,18 @@
 
 ###Tips and tricks
 
-- Recall what [parallel assignment](pills/parallel_assignment.md) is
-- Explain why [parallel assignment](pills/parallel_assignment.md) is useful
+#####[Parallel Assignment](pills/parallel_assignment.md)
+- Recall what parallel assignment is
+- Explain why parallel assignment is useful
+
+#####[Shovel Operator](pills/shovel_operator.md)
+
 - Recall what the ['shovel operator'](pills/shovel_operator.md) is
 - Explain how to use the ['shovel operator'](pills/shovel_operator.md)
-- Recall what [string interpolation](pills/string_interpolation.md) is
-- Explain how to use [string interpolation](pills/string_interpolation.md)
+
+#####[String Interpolation](pills/string_interpolation.md)
+- Recall what string interpolation is
+- Explain how to use string interpolation
 
 ###[User Interaction](pills/user_interaction.md)
 
