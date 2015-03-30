@@ -1,5 +1,53 @@
 *Learning Objectives are extracted here on a topic-by-topic basis (like the main course).*
 
+##Week 1
+
+##Dev Skills
+
+###[Development setup](pills/installation_instructions.md)
+- Manually set up a computer for web development
+- Discover a quicker way to set up a computer for web development
+
+###[Command Line](pills/command_line.md)
+- Explain that the command line allows direct access to a computer's underlying code
+- Use simple command line commands, such as `ls`, `pwd`, and `cd`
+- Use flags to enhance command abilities
+- Manipulate files from the command line
+- Modify permissions in a filesystem
+- Update a ./profile file
+- Consider using `vi` to alter files
+
+###[Pairing](pills/pairing.md)
+- Know some rules of thumb for great pairing
+- Get started with pair programming
+
+###[Sublime](pills/installing_sublime.md)
+- Know that Sublime Text is an editor for altering many different file types
+- Install Sublime Text
+- Symlink Sublime Text for rapid opening from the command line
+- Use Sublime Text to make changes to files
+
+###[XCode](pills/installing_xcode.md)
+- Install XCode
+
+##Week 2
+
+###[Git](pills/git.md)
+- Recall that git is a version control system (VCS)
+- Recognise common git commands, such as `fetch`, `merge`, `clone`, `pull`, `push`, `add`, `remote`, and `commit`
+- Explain the following terms: 'staging', 'branching', 'upstream', 'remote'
+- Explain how repos work, referencing the `.git` file
+- Explain how git branching works
+- Fork a git repo
+- Clone a git repo
+- Add files for staging in a git repo
+- Commit staged files in a git repo
+- Create a new topic branch locally
+- Push files to a remote repo
+- Make a pull request to an upstream repo
+
+##Weeks 3 and 4
+
 ##Ruby
 
 ###[Arrays](pills/arrays.md)
@@ -97,45 +145,3 @@
 - Recall what string interpolation is
 - Explain how to use string interpolation
 - Use string interpolation to solve code Katas
-
-##Dev Skills
-
-###[Development setup](pills/installation_instructions.md)
-- Manually set up a computer for web development
-- Discover a quicker way to set up a computer for web development
-
-###[Command Line](pills/command_line.md)
-- Explain that the command line allows direct access to a computer's underlying code
-- Use simple command line commands, such as `ls`, `pwd`, and `cd`
-- Use flags to enhance command abilities
-- Manipulate files from the command line
-- Modify permissions in a filesystem
-- Update a ./profile file
-- Consider using `vi` to alter files
-
-###[Git](pills/git.md)
-- Recall that git is a version control system (VCS)
-- Recognise common git commands, such as `fetch`, `merge`, `clone`, `pull`, `push`, `add`, `remote`, and `commit`
-- Explain the following terms: 'staging', 'branching', 'upstream', 'remote'
-- Explain how repos work, referencing the `.git` file
-- Explain how git branching works
-- Fork a git repo
-- Clone a git repo
-- Add files for staging in a git repo
-- Commit staged files in a git repo
-- Create a new topic branch locally
-- Push files to a remote repo
-- Make a pull request to an upstream repo
-
-###[Pairing](pills/pairing.md)
-- Know some rules of thumb for great pairing
-- Get started with pair programming
-
-###[Sublime](pills/installing_sublime.md)
-- Know that Sublime Text is an editor for altering many different file types
-- Install Sublime Text
-- Symlink Sublime Text for rapid opening from the command line
-- Use Sublime Text to make changes to files
-
-###[XCode](pills/installing_xcode.md)
-- Install XCode
