@@ -1,6 +1,6 @@
 # Asking for user input
 
-What if you want to get some information from the user? Ruby makes it easy for you by providing a method that does just this. Try to run this program from the terminal (don't run it from SublimeText because its console is not interactive):
+What if you want to get some information from the user? Ruby makes it easy for you by providing a method that does just this. Try to run this program from the terminal (don't run it from Sublime Text because its console is not interactive):
 
 ````ruby
 puts "Hello! What's your name?"
