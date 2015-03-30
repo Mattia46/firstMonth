@@ -287,4 +287,4 @@ And again, you can use pipes to count the output of other programs. How many rea
 
 First, find will find all text files, then grep will select those that have "readme" in their name and "wc -l" will count how many lines were given to it by grep. On my computer I have 24 readme files in my home directory.
 
-[NEXT](pills/command_line4.md)
+[NEXT](command_line4.md)
