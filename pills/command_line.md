@@ -49,4 +49,4 @@ Now that you have the Terminal open, if you are on a Mac, I recommend right clic
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901047979_Screen%20Shot%202013-10-04%20at%2016.37.09.png "Keep in dock")
 
-[NEXT](pills/command_line2.md)
+[NEXT](command_line2.md)
