@@ -1,5 +1,6 @@
 # Makers Academy Pre Course
 
+<!---For April 2015 cohort-->
 :bell: **UPDATE : Have a look at your [Learning Objectives](learning_objectives.md) for what we are hoping you master by the end of the PreCourse!**
 
 **Welcome, future maker!** This handbook is meant to help you get up and ready for your 12 week course at Makers Academy.
