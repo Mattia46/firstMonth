@@ -12,32 +12,9 @@
 
 So Ruby is an all purpose programming language, in short a language that lets you program anything you can imagine ( _you can even create iPhone and iPad applications with Ruby!_ ). On top of that it is a beautiful and simple language that lets you write elegant code.
 
-Before you start at Makers Academy you should go through the following pills and tutorials to get yourself ready:
+The next two weeks you will be working hard to understand as much Ruby as possible. You should go through the following pills and tutorials to get yourself ready:
 
-## Tutorials
-
-Task 1
-
-Go through and complete Learn Ruby the Hardway :
-
-- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/intro.html)
-
-Ensure the answers are posted up onto Github as you go through the challenge to cement your Git training from last week.
-
-In addition to the above book, it's critical that you work through at least one of these tutorials as they cover the bare essentials of the Ruby language.
-
-(We've put them in order for you - Ruby Monk being the best in our eyes, The Well Grounded Rubyist being, not the worst, but the hardest to finish...)
-
-- [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
-- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
-- [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
-- [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
-
-And here are some great videos you could watch if you want to kick back and put your feet up for a while...!
-
-- [Ruby Kickstart Videos](https://vimeo.com/channels/844657)
-
-## Pills - Go through all 3 if you have time (They go over what you learnt in the previous tutorial)
+## Pills 
 
 Strings, Arrays and Hashes are the three data classes that you will be likely to use more than any other. These pills give a basic overview, but we recommend that you strive to learn every available method for all 3 classes.
 
@@ -45,13 +22,35 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 - :pill: [Arrays](/pills/arrays.md)
 - :pill: [Hashes](/pills/hashes.md)
 
-### Memorization Aids
+## Tutorials
+
+Week 1 : 
+
+You challenge will last the full week and you will be working on our iteration of Ruby Kickstart. You can find the repo here : https://github.com/makersacademy/ruby-kickstart. 
+
+How to tackle the challenge :
+
+1. Watch the videos! These are in the intro folder for each session of Ruby Kickstart and also here : [Ruby Kickstart Videos](https://vimeo.com/channels/844657)
+2. Read *ALL* the documentation and do *ALL* the exercises
+3. Answer the challenges in the challenges repo and send a pull request to us when done. 
+
+Below are some resources to help you. We've put them in order of recommendation for you:
+
+- [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
+- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
+- [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
+
+## Reading List 
+
+- [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
+- [POODR - by Sandi Metz](www.poodr.com)
+
+## Memorization Aids
 
 A few 'aide memoirs' on the basics of Ruby, courtesy of the Makers Academy team
 
 - [Ruby Basics, by Makers Academy, on Quizlet](http://quizlet.com/join/VctmNbYus)
 - [Ruby Basics, by Makers Academy, on Memrise](http://www.memrise.com/course/357359/ruby-by-makers-academy/)
-
 
 ### Wanna try something different? Do some Zen Ruby :)
 
@@ -59,12 +58,12 @@ A challenging and interesting Ruby tutorial, that also teaches you about error m
 
 - [Ruby Koans](http://rubykoans.com)
 
-### Reference / Ruby Docs
+## Reference / Ruby Docs
 
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 
-### Recommended books
+## Recommended books
 
 - Practical Object-Oriented Design in Ruby - Sandi Metz
 - Eloquent Ruby - Russ Olsen
