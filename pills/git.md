@@ -1,5 +1,14 @@
 **Contents**
  - [Introduction](#introduction)
+  - [Setting up Git](#setting-up-git)
+  - [Your first git repository](#your-first-git-repository)
+  - [Initialising the repository](#initialising-the-repository)
+  - [Adding files to the staging area](#adding-files-to-the-staging-area)
+  - [Committing Files](#committing-files)
+  - [Checking the status](#checking-the-status)
+  - [Viewing the log of the changes](#viewing-the-log-of-the-changes)
+  - [Removing Files](#removing-files)
+  - [Going back in history](#going-back-in-history)
  - [Git](#git)
  - [Github](#github)
 
@@ -237,7 +246,7 @@ The "git commit" command again commits everything in staging with a short commen
 It's a good idea to develop the habit of checking git status before you add anything to staging or commit any changes, especially if you suspect something is going wrong. Make sure to run `git status` before you commit, if only to confirm that the repo is in the state you expect it to be.
 
 
-### Viewing the log (history) of the changes
+### Viewing the log of the changes
 
 Finally, if we want to view all of the commits we've made, we run:
 
