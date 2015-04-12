@@ -34,11 +34,13 @@ How to tackle the challenge :
 2. Read *ALL* the documentation and do *ALL* the exercises
 3. Answer the challenges in the challenges repo and send a pull request to us when done. 
 
-Below are some resources to help you. We've put them in order of recommendation for you:
+Below are some resources that we recommmend you use for the challenge:
 
 - [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
 - [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
 - [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
+- [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
+- [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 
 ## Reading List 
 
@@ -57,11 +59,6 @@ A few 'aide memoirs' on the basics of Ruby, courtesy of the Makers Academy team
 A challenging and interesting Ruby tutorial, that also teaches you about error messages and TDD. It seems a little confusing at the start, but once you get going, it's a phenomenal resource. Many graduates name this as one of their favourite tutorials from their early days.
 
 - [Ruby Koans](http://rubykoans.com)
-
-## Reference / Ruby Docs
-
-- [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
-- [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 
 ## Recommended books
 
