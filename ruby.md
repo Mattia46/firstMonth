@@ -45,7 +45,7 @@ Below are some resources that we recommmend you use for the challenge:
 ## Reading List 
 
 - [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
-- [POODR - by Sandi Metz](www.poodr.com)
+- [POODR - by Sandi Metz](http://www.poodr.com)
 
 ## Memorization Aids
 
