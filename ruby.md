@@ -24,15 +24,18 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 ## Tutorials
 
-Week 1 : 
+Ruby Week 1 (PreCourse Week 3): 
 
-You challenge will last the full week and you will be working on our iteration of Ruby Kickstart. You can find the repo here : https://github.com/makersacademy/ruby-kickstart. 
+Your challenge will last the full week and you will be working on our iteration of Ruby Kickstart. You can find the repo here : https://github.com/makersacademy/ruby-kickstart. 
 
 How to tackle the challenge :
 
 1. Watch the videos! These are in the intro folder for each session of Ruby Kickstart and also here : [Ruby Kickstart Videos](https://vimeo.com/channels/844657)
 2. Read *ALL* the documentation and do *ALL* the exercises (ie: you shouldn't clone the repo - it needs to be **forked**)
 3. Complete Sessions 1 and 2 and place your answers in the challenges section of the repo and send a pull request to us when done. 
+
+
+Your challenge this week is to go to war! 
 
 Below are some resources that we recommmend you use for the challenge:
 
