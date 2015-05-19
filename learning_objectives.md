@@ -85,7 +85,7 @@
 
 ###[`irb`](pills/irb.md)
 - Recall that `irb` means 'interactive Ruby shell'
-- Explain how `irb` is a REPL
+- Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Use `irb` to experiment with Ruby
 
 ###[Lambdas](pills/lambdas.md)

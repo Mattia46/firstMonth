@@ -1,5 +1,9 @@
 # Ruby
 
+So you already know some Ruby because in preparation for your interview you completed [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/) and the [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby).  You might also have worked through [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).  If you didn't already work through Ruby in 100 minutes, please do so now.
+
+If it has been a long time since you read the Learn To Program book, or did the Codecademy Ruby Track then we recommend that you re-do them in order to ensure their contents are up to date in your mind.  And when we say do, it is absolutely critical that you not only read, but type every code example into a Ruby interpreter. 
+
 > Ruby is a language of careful balance. Its creator, Yukihiro _"Matz"_ Matsumoto, blended parts of his favourite languages ( _Perl, Smalltalk, Eiffel, Ada, and Lisp_ ) to form a new language that balanced functional programming with imperative programming.
 >
 > He has often said that he is _"trying to make Ruby natural, not simple,"_ in a way that mirrors life.
@@ -14,7 +18,7 @@ So Ruby is an all purpose programming language, in short a language that lets yo
 
 The next two weeks you will be working hard to understand as much Ruby as possible. You should go through the following pills and tutorials to get yourself ready:
 
-## Pills 
+## Pills
 
 Strings, Arrays and Hashes are the three data classes that you will be likely to use more than any other. These pills give a basic overview, but we recommend that you strive to learn every available method for all 3 classes.
 
@@ -24,7 +28,7 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 ## Tutorials
 
-Below are some resources that we recommmend you use:
+Below are some resources that we recommend you use:
 
 - [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
 - [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
@@ -32,7 +36,7 @@ Below are some resources that we recommmend you use:
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 
-## Reading List 
+## Reading List
 
 - [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
 - [POODR - by Sandi Metz](http://www.poodr.com)
