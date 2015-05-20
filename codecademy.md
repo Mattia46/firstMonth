@@ -47,17 +47,40 @@ Looping with Ruby
 
 ###Loops & Iterators
 
+- while
+- do ... end vs {}
+- until
+- +=
+- for ... in
+- ranges
+- break
+- next
+- Arrays
+- Array#each, |var| in block
+- Fixnum#times
+
 ###Redacted
 
+- String#split
 
 Arrays & Hashes
 ------------
 
-
 ###Data Structures
 
+- Array#[]
+- arrays can contain strings and numbers
+- multidimensional (nested) arrays
+- Hashes, hash initialization via {}
+- Hash#[], Hash#[]=
+- Hash.new
+- Hash#each, |key, value| in block
+- review Array#each, |var| in block
+- nested Array#each
 
 ###Create a Histogram
+
+- Hash#reverse!, Hash#sort_by, Fixnum#to_s
 
 Blocks & Sorting
 -------------
@@ -82,7 +105,6 @@ Refactoring
 
 Blocks, Procs & Lambdas
 ---------------------
-
 
 
 Object Oriented Programming, Part 1
