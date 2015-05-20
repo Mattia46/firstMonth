@@ -87,14 +87,43 @@ Blocks & Sorting
 
 ###Methods, Blocks and Sorting
 
+- methods - def ... end
+- Object#is_a?
+- Range#each
+- method arguments
+- Range#to_a
+- explicit return
+- Array#sort!
+- spaceship operator <=>
+- Array#sort! with block
+
 ###Ordering Your Library
+
+- Array#sort
+- default method arguments
+- Array#reverse!
 
 Hashes & Symbols
 ------------
 
 ###Hashes & Symbols
 
+- hash literal notation versus hash constructor notation
+- truthy, falsy, nil
+- Symbol
+- Object#object_id
+- String#to_sym, String#intern
+- 1.9 Hash syntax vs 1.8 Hash syntax (":k => v" - "k: v")
+- Array#zip
+- Hash[]
+- Benchmark.realtime
+- Hash#select, Hash#each_key, Hash#each_value
+
 ###A Night at the Movies
+
+- case statement (case ... when ... else ... end)
+- Object#nil?
+- Hash#delete
 
 Refactoring
 -----------
@@ -126,3 +155,4 @@ Notes:
 ------
 
 * Interesting resource: http://www.codecademy.com/glossary/ruby
+* Note still using old hash syntax
