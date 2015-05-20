@@ -1,10 +1,6 @@
 # Ruby
 
-So you already know some Ruby because in preparation for your interview you completed [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/) and the [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby).  You might also have worked through [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html).  If you didn't already work through Ruby in 100 minutes, please do so now.
-
-If it has been a long time since you read the Learn To Program book, or did the Codecademy Ruby Track then we recommend that you re-do them in order to ensure their contents are up to date in your mind.  And when we say do, it is absolutely critical that you not only read, but type every code example into a Ruby interpreter. 
-
-> Ruby is a language of careful balance. Its creator, Yukihiro _"Matz"_ Matsumoto, blended parts of his favourite languages ( _Perl, Smalltalk, Eiffel, Ada, and Lisp_ ) to form a new language that balanced functional programming with imperative programming.
+Ruby is a language of careful balance. Its creator, Yukihiro _"Matz"_ Matsumoto, blended parts of his favourite languages ( _Perl, Smalltalk, Eiffel, Ada, and Lisp_ ) to form a new language that balanced functional programming with imperative programming.
 >
 > He has often said that he is _"trying to make Ruby natural, not simple,"_ in a way that mirrors life.
 >
@@ -16,7 +12,15 @@ If it has been a long time since you read the Learn To Program book, or did the 
 
 So Ruby is an all purpose programming language, in short a language that lets you program anything you can imagine ( _you can even create iPhone and iPad applications with Ruby!_ ). On top of that it is a beautiful and simple language that lets you write elegant code.
 
-The next two weeks you will be working hard to understand as much Ruby as possible. You should go through the following pills and tutorials to get yourself ready:
+So you already know some Ruby because in preparation for your interview you completed [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/) up to chapter 8 and the [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby).  
+
+If it has been a long time since you read the Learn To Program book, or did the Codecademy Ruby Track then we recommend that you re-do them in order to ensure their contents are up to date in your mind.  And when we say do, it is absolutely critical that you not only read, but type every code example into a Ruby interpreter.
+
+Now that you have completed your interview and started the precourse, we recommend that you continue with [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/).  Please complete chapters 9-14 before the end of week 3.
+
+In week 4 we recommend that you try and cover as much of the [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf) as possible, whilst also signing up for [Codewars](www.codewars.com/r/Cz09HQ).  Please see the following [these videos](http://www.youtube.com/playlist?list=PLc4BYny7PXeRAnS-spcZWfzVcKg1PONXP) on how to work with codewars. Ideally by the time you start the main coureon Day 1 - you should be at least over 50 points on codewars using the 8kyu and 7kyu challenges.
+
+The next two weeks you will be working hard to understand as much Ruby as possible.  Please refer to the [learning objectives](learning_objectives.md) for the base level you must achieve. You may also find the following pills and tutorials helpful to get yourself ready:
 
 ## Pills
 
@@ -28,18 +32,14 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 ## Tutorials
 
-Below are some resources that we recommend you use:
+Below are some other useful resources
 
+- [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 - [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
-- [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby)
-- [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
+- [Lynda tutorial on Essential Ruby](http://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html)
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 
-## Reading List
-
-- [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf)
-- [POODR - by Sandi Metz](http://www.poodr.com)
 
 ## Memorization Aids
 
@@ -54,11 +54,10 @@ A challenging and interesting Ruby tutorial, that also teaches you about error m
 
 - [Ruby Koans](http://rubykoans.com)
 
-## Recommended books
+## Other useful books
 
-- Practical Object-Oriented Design in Ruby - Sandi Metz
 - Eloquent Ruby - Russ Olsen
-- The Well Grounded Rubyist: David A. Black
 - Design Patterns in Ruby - Russ Olsen
 - Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
 - Refactoring in Ruby - William C. Rake, Kevin Rutherford
+- Practical Object-Oriented Design in Ruby - Sandi Metz
