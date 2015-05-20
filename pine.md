@@ -72,9 +72,56 @@ Key concepts from Pine's Learn to Program
  - Fixum#times method
  - Array#length, Array#reverse, Array#+, Array#\*, Array#last, Array#join, Array#to_s, Array#push, Array#pop, Array#sort
 
+* Ch.9
+
+ - method definitions (def ... end), method names start with lower case
+ - method parameters
+ - local variables and scope
+ - global scope
+ - return values (explicit vs implicit)
+
+* Ch.10
+
+ - recursion
+ - sorting
+
+* Ch.11
+
+ - File#open, File#read
+ - YAML
+ - String#to_yaml
+ - YAML::load
+ - double quoted strings, string interpolation
+ - Dir
+ - Dir.chdir
+ - File.rename
+
+* Ch.12
+ - class names are capitalized
+ - Object.new method
+ - Time class
+ - Hash class
+ - Range class
+ - String#[]
+
+* Ch.13
+ - monkey patching
+ - creating new classes
+ - instance variables
+ - initialize method
+ - private
+
+* Ch.14
+ - more on blocks
+ - Proc
+ - &block
+
 Notes
 ----
 * editor recommendation currently sublime? atom?
 * IRB not in general use
 * tracking for exercises?
 * pre-interview students told to do up to chapter 8
+* work out how much of LO are covered - and then, should continue Pine?  something else?
+* exercises in ch.10 onwards could take a little time, but reasonably interesting
+* doesn't cover symbols, lambdas, gems
