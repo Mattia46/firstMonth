@@ -130,11 +130,39 @@ Refactoring
 
 ###The Zen of Ruby
 
+- one line if/unless
+- ternary operator
+- more on case statement
+- conditional assignment '||='
+- implicit return
+- short circuit evaluation (|| & &&)
+- Fixum#times vs Array#each
+- Fixum#upto, Fixum#downto
+- Object#respond_to?
+- Array#<<
+- string interpolation vs String#+ and String#<<
+
 ###The Refactor Factory
+
+- refactoring code
+- $GLOBALS
+- Array#push
+- Prime#instance
 
 Blocks, Procs & Lambdas
 ---------------------
 
+- review of blocks
+- Array#collect, Array#collect!
+- yield method
+- yield with parameters
+- creating procs with Proc.new
+- '&' converts proc to block
+- Proc#call
+- &:method
+- lambda method
+- a lambda checks the number of arguments passed to it, while a proc does not
+- when a lambda returns, it passes control back to the calling method; when a proc returns, it does so immediately, without going back to the calling method
 
 Object Oriented Programming, Part 1
 -----------------------------------
