@@ -43,6 +43,7 @@ Below are some other useful resources
 - [Lynda tutorial on Essential Ruby](http://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html)
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
+- [Interactive Ruby Tutor with animation of what happens with variables etc.](http://www.basicruby.com/tutor)
 
 
 ## Memorization Aids
