@@ -20,9 +20,11 @@ Now that you have completed your interview and started the precourse, and need t
 
 If you find that you really dislike the style of 'Learn To Program' then as an alternative please try [Ruby KickStart](http://www.ruby-kickstart.com/), which also includes videos and challenges which you can fork from [https://github.com/makersacademy/ruby-kickstart](https://github.com/makersacademy/ruby-kickstart).  We'll be happy to accept completion of all the challenges from section 1 and 2 of Ruby Kickstart, as an equivalent to doing the exercises from Learn To Program.
 
-In week 4 we recommend that you try and cover as much of the [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf) as possible, whilst also signing up for [Codewars](www.codewars.com/r/UiT03A).  Please see the following [ videos](http://www.youtube.com/playlist?list=PLc4BYny7PXeRAnS-spcZWfzVcKg1PONXP) on how to work with codewars. Ideally by the time you start the main coureon Day 1 - you should be at least over 50 points on codewars using the 8kyu and 7kyu challenges.
+In week 4 we recommend that you try and cover as much of the [The Well Grounded Rubyist](http://pingo.edu.vn/wp-content/uploads/2014/07/The-Well-Grounded-Rubyist.pdf) as possible, whilst also signing up for [Codewars](www.codewars.com/r/UiT03A).  Please see the following [ videos](http://www.youtube.com/playlist?list=PLc4BYny7PXeRAnS-spcZWfzVcKg1PONXP) on how to work with codewars. 
 
-The next two weeks you will be working hard to understand as much Ruby as possible.  Please refer to the [learning objectives](learning_objectives.md) for the base level you must achieve. You may also find the following pills and tutorials helpful to get yourself ready:
+Ideally by the time you start the main course on Day 1 - you should be at least over 50 points on codewars using the 8kyu and 7kyu challenges.
+
+The next two weeks you will be working hard to understand as much Ruby as possible.  Please refer to the [learning objectives](learning_objectives.md) for the base level you **must** achieve. You may also find the following pills and tutorials helpful to get yourself ready:
 
 ## Pills
 
