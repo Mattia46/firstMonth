@@ -50,20 +50,41 @@
 
 ##Ruby
 
-###[Arrays](pills/arrays.md)
+
+###[`irb`](pills/irb.md)
+- Recall that `irb` means 'interactive Ruby shell'
+- Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+- Use `irb` to experiment with Ruby
+
+
+### [Arrays](pills/arrays.md)
+
 - Define array as indexed collection of related items
 - Explain square-bracket notation
 - Use array methods such as `first`, `include?`, `select`, `map`, and iterators like `each` and `inject`
+
+_References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/arrays); Pine, 2nd Ed. Ch.8; [Pine, 1st Ed. Ch. 7](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=array&r%5B%5D=-8&beta=false))_
+
+###[Hashes](pills/hashes.md)
+- Define a hash as a 'dictionary' or 'associative array'
+- Give the structure of a hash as `{ :key => value }` or `{ key: value }`
+- Use Ruby hashes to solve code Katas
+
+_References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine, 2nd Ed. Ch.12; [Pine, 1st Ed. Ch. 9](https://pine.fm/LearnToProgram/chap_09.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=hash&r%5B%5D=-7&beta=false))_
 
 ###[Blocks](pills/blocks.md)
 - Recall the structure of blocks using both `{}` and `do..end` notation
 - Explain how blocks are used in Ruby
 - Demonstrate appropriate use of blocks for readability
 
+_References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))_
+
 ###[Booleans](pills/boolean.md)
 - Know that 'boolean' refers to either `true` or `false`
 - Explain that everything in Ruby is 'truthy', except `false` or `nil`, which are 'falsy'
 - Explain ideas of 'truthy' and 'falsy'
+
+_References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/boolean?q=block&r%5B%5D=-8&beta=false))_
 
 ###[Control Flows](pills/control_flow.md)
 - Remember that 'control flows' are statements that control the flow of a program
@@ -72,21 +93,7 @@
 - Use more terse versions of control flows (such as inline `if` statements, `else` statements, and ternary operators)
 - Analyse when to swap `if`/`else` statements for 'switch' statements
 
-###[Gems](pills/gems.md)
-- Define a ruby gem as a reusable ruby library
-- State scenarios where gems are used
-- Remember where to find gems
-- Explain how to install gems
-
-###[Hashes](pills/hashes.md)
-- Define a hash as a 'dictionary' or 'associative array'
-- Give the structure of a hash as `{ :key => value }` or `{ key: value }`
-- Use Ruby hashes to solve code Katas
-
-###[`irb`](pills/irb.md)
-- Recall that `irb` means 'interactive Ruby shell'
-- Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
-- Use `irb` to experiment with Ruby
+References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unless-elsif-and-else); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=control+flow&r%5B%5D=-8&beta=false)
 
 ###[Lambdas](pills/lambdas.md)
 - Recognise the structure of a `lambda`
@@ -129,6 +136,14 @@
 - Sanitize user input using `chomp` and `chomp!`
 
 ###[Variables](pills/variables.md)
+
+###[Gems](pills/gems.md)
+- Define a ruby gem as a reusable ruby library
+- State scenarios where gems are used
+- Remember where to find gems
+- Explain how to install gems
+
+
 
 ###Tips and tricks
 

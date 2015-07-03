@@ -72,7 +72,7 @@ Key concepts from Pine's Learn to Program
  - Fixum#times method
  - Array#length, Array#reverse, Array#+, Array#\*, Array#last, Array#join, Array#to_s, Array#push, Array#pop, Array#sort
 
-* Ch.9
+* Ch.9 Writing Your Own Methods
 
  - method definitions (def ... end), method names start with lower case
  - method parameters
@@ -80,12 +80,12 @@ Key concepts from Pine's Learn to Program
  - global scope
  - return values (explicit vs implicit)
 
-* Ch.10
+* Ch.10 There's Nothing New to Learn in Chapter 10
 
  - recursion
  - sorting
 
-* Ch.11
+* Ch.11 Reading and Writing, Saving and Loading, Yin and…Something Else
 
  - File#open, File#read
  - YAML
@@ -96,7 +96,8 @@ Key concepts from Pine's Learn to Program
  - Dir.chdir
  - File.rename
 
-* Ch.12
+* Ch.12 New Classes of Objects
+
  - class names are capitalized
  - Object.new method
  - Time class
@@ -104,24 +105,16 @@ Key concepts from Pine's Learn to Program
  - Range class
  - String#[]
 
-* Ch.13
+* Ch.13 Creating New Classes, Changing Existing Ones
+
  - monkey patching
  - creating new classes
  - instance variables
  - initialize method
  - private
 
-* Ch.14
+* Ch.14 Blocks and Procs
+
  - more on blocks
  - Proc
  - &block
-
-Notes
-----
-* editor recommendation currently sublime? atom?
-* IRB not in general use
-* tracking for exercises?
-* pre-interview students told to do up to chapter 8
-* work out how much of LO are covered - and then, should continue Pine?  something else?
-* exercises in ch.10 onwards could take a little time, but reasonably interesting
-* doesn't cover symbols, lambdas, gems
