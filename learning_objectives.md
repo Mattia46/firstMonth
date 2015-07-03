@@ -56,6 +56,32 @@
 - Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Use `irb` to experiment with Ruby
 
+###[Strings](pills/strings.md)
+- Define 'String' as an object holding an arbitrary number of (usually) characters
+- Explain how to create new Strings
+- Use common String methods such as `concat`, `upcase`, and `chars`
+
+_References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/strings); Pine, 2nd Ed. Ch.3; [Pine, 1st Ed. Ch. 2](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=strings&r%5B%5D=-8&beta=false))_
+
+###[Variables](pills/variables.md)
+
+References: ([CAG methods](http://www.codecademy.com/glossary/ruby/variables); Pine, 2nd Ed. Ch.4; [Pine, 1st Ed. Ch. 3](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=variables&r%5B%5D=-8&r%5B%5D=-7&beta=false)
+
+
+###[Methods](pills/methods.md)
+- Define a method as a way of automating Ruby commands
+- Relate methods to writing DRY code
+- Implement methods to solve simple problems
+
+References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pine, 2nd Ed. Ch.6; [Pine, 1st Ed. Ch. 5](https://pine.fm/LearnToProgram/chap_05.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=method&r%5B%5D=-8&beta=false)
+
+
+###[Booleans](pills/boolean.md)
+- Know that 'boolean' refers to either `true` or `false`
+- Explain that everything in Ruby is 'truthy', except `false` or `nil`, which are 'falsy'
+- Explain ideas of 'truthy' and 'falsy'
+
+_References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/boolean?q=block&r%5B%5D=-8&beta=false))_
 
 ### [Arrays](pills/arrays.md)
 
@@ -65,26 +91,6 @@
 
 _References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/arrays); Pine, 2nd Ed. Ch.8; [Pine, 1st Ed. Ch. 7](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=array&r%5B%5D=-8&beta=false))_
 
-###[Hashes](pills/hashes.md)
-- Define a hash as a 'dictionary' or 'associative array'
-- Give the structure of a hash as `{ :key => value }` or `{ key: value }`
-- Use Ruby hashes to solve code Katas
-
-_References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine, 2nd Ed. Ch.12; [Pine, 1st Ed. Ch. 9](https://pine.fm/LearnToProgram/chap_09.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=hash&r%5B%5D=-7&beta=false))_
-
-###[Blocks](pills/blocks.md)
-- Recall the structure of blocks using both `{}` and `do..end` notation
-- Explain how blocks are used in Ruby
-- Demonstrate appropriate use of blocks for readability
-
-_References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))_
-
-###[Booleans](pills/boolean.md)
-- Know that 'boolean' refers to either `true` or `false`
-- Explain that everything in Ruby is 'truthy', except `false` or `nil`, which are 'falsy'
-- Explain ideas of 'truthy' and 'falsy'
-
-_References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/boolean?q=block&r%5B%5D=-8&beta=false))_
 
 ###[Control Flows](pills/control_flow.md)
 - Remember that 'control flows' are statements that control the flow of a program
@@ -95,15 +101,33 @@ _References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); P
 
 References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unless-elsif-and-else); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=control+flow&r%5B%5D=-8&beta=false)
 
+###[Symbols](pills/symbols.md)
+- Define Symbols as String-like objects that are **immutable**
+- Explain how Symbols' immutability makes them very memory-efficient
+- Use Symbols within Hashes as keys
+
+_References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/symbols); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=symbol&r%5B%5D=-8&r%5B%5D=-7&beta=false))_
+
+###[Hashes](pills/hashes.md)
+- Define a hash as a 'dictionary' or 'associative array'
+- Give the structure of a hash as `{ :key => value }` or `{ key: value }`
+- Use Ruby hashes to solve code Katas
+
+_References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine, 2nd Ed. Ch.12; [Pine, 1st Ed. Ch. 9](https://pine.fm/LearnToProgram/chap_09.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=hash&r%5B%5D=-7&r%5B%5D=-8&beta=false))_
+
+###[Blocks](pills/blocks.md)
+- Recall the structure of blocks using both `{}` and `do..end` notation
+- Explain how blocks are used in Ruby
+- Demonstrate appropriate use of blocks for readability
+
+_References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))_
+
 ###[Lambdas](pills/lambdas.md)
 - Recognise the structure of a `lambda`
 - Explain that lambdas are 'anonymous methods' in Ruby
 - Use lambdas to solve basic metaprogramming problems
 
-###[Methods](pills/methods.md)
-- Define a method as a way of automating Ruby commands
-- Relate methods to writing DRY code
-- Implement methods to solve simple problems
+_References: ([Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=lambdas&r%5B%5D=-8&r%5B%5D=-7&beta=false))_
 
 ###[Procs](pills/procs.md)
 - Define a Proc as another 'anonymous method' in Ruby
@@ -111,38 +135,29 @@ References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unles
 - Implement a Proc, pass it as a parameter, and call it
 - Solve metaprogramming problems with Procs
 
+_References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pine, 2nd Ed. Ch.10; [Pine, 1st Ed. Ch. 10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=procs&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
+
 ###[Recursion](pills/recursion.md)
 - Define recursion in Ruby as being when a method calls itself
 - Explain how to avoid infinite recursion loops
 - Use recursion to avoid nesting loops
+
+_References: (Pine, 2nd Ed. Ch.14; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=recursion&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
 
 ###[RVM](pills/installing_rvm.md)
 - Recall that 'RVM' is 'Ruby Version Manager'
 - Use RVM to install a new version of Ruby
 - Use RVM to manage the current version of Ruby
 
-###[Strings](pills/strings.md)
-- Define 'String' as an object holding an arbitrary number of (usually) characters
-- Explain how to create new Strings
-- Use common String methods such as `concat`, `upcase`, and `chars`
-
-###[Symbols](pills/symbols.md)
-- Define Symbols as String-like objects that are **immutable**
-- Explain how Symbols' immutability makes them very memory-efficient
-- Use Symbols within Hashes as keys
-
 ###[User Interaction](pills/user_interaction.md)
 - Explain how to get user input using `gets`
 - Sanitize user input using `chomp` and `chomp!`
-
-###[Variables](pills/variables.md)
 
 ###[Gems](pills/gems.md)
 - Define a ruby gem as a reusable ruby library
 - State scenarios where gems are used
 - Remember where to find gems
 - Explain how to install gems
-
 
 
 ###Tips and tricks
@@ -160,3 +175,5 @@ References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unles
 - Recall what string interpolation is
 - Explain how to use string interpolation
 - Use string interpolation to solve code Katas
+
+_References: (Pine, 2nd Ed. Ch.11; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=interpolation&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
