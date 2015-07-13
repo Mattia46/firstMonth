@@ -81,7 +81,7 @@ References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pin
 - Explain that everything in Ruby is 'truthy', except `false` or `nil`, which are 'falsy'
 - Explain ideas of 'truthy' and 'falsy'
 
-_References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/boolean?q=block&r%5B%5D=-8&beta=false))_
+_References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/my-languages?q=boolean&r%5B%5D=-8&beta=false))_
 
 ### [Arrays](pills/arrays.md)
 
