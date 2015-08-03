@@ -61,7 +61,6 @@ attributed to Sam Livingston Gray
 Pair Programming Research
 -------------
 
-* [Costs and Benefits of Pair Programming](http://www.cs.pomona.edu/classes/cs121/supp/williams_prpgm.pdf)
 * [Guidelines for Pair Programming in the Classroom](http://people.cs.vt.edu/~mccricks/papers/wmlh08.pdf)
 * [Compatibility of Pair Programmers](http://collaboration.csc.ncsu.edu/laurie/Papers/Compatibility.pdf)
 
