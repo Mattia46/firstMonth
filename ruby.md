@@ -18,6 +18,9 @@ If it has been a long time since you read the Learn To Program book, or did the 
 
 The next two weeks you will be working hard to understand as much Ruby as possible.  Please refer to the [learning objectives](learning_objectives.md) for the base level you **must** achieve. You may also find the following pills and tutorials helpful to get yourself ready:
 
+## Week 3
+Your task is to [complete chapters 9 - 14 of the Chris Pine Learn to Program book](https://github.com/makersacademy/learn_to_program)
+
 ## Pills
 
 Strings, Arrays and Hashes are the three data classes that you will be likely to use more than any other. These pills give a basic overview, but we recommend that you strive to learn every available method for all 3 classes.
