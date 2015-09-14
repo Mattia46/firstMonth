@@ -30,8 +30,6 @@
 ###[XCode](pills/installing_xcode.md)
 - Install XCode
 
-##Week 2
-
 ###[Git](pills/git.md)
 - Recall that git is a version control system (VCS)
 - Recognise common git commands, such as `fetch`, `merge`, `clone`, `pull`, `push`, `add`, `remote`, and `commit`
@@ -46,10 +44,9 @@
 - Push files to a remote repo
 - Make a pull request to an upstream repo
 
-##Weeks 3 and 4
+##Weeks 2 - 4
 
 ##Ruby
-
 
 ###[`irb`](pills/irb.md)
 - Recall that `irb` means 'interactive Ruby shell'
