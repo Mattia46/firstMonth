@@ -1,4 +1,4 @@
-# Week 2: Version Control
+# Version Control
 
 Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realise* after the roof is built that there is a crack in the foundation.
 
@@ -40,4 +40,3 @@ git version 1.7.12.4 (Apple Git-37)
 * [Atlassian Git Tutorials](https://www.atlassian.com/git)
 * [Git-It Tutorial](https://github.com/jlord/git-it)
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-
