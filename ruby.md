@@ -14,12 +14,9 @@ So Ruby is an all purpose programming language, in short a language that lets yo
 
 So you already know some Ruby because in preparation for your interview you completed [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/) up to chapter 8 and the [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby).  
 
-If it has been a long time since you read the Learn To Program book, or did the Codecademy Ruby Track then we recommend that you re-do them in order to ensure their contents are up to date in your mind.  And when we say do, in the case of the Learn To Program, **it is absolutely critical that you not only read, but type out every code example out yourself** and run them via the command line, or using the [interactive ruby interpreter (IRB)](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell).  You must actively type the code in order to learn at the most accelerated rate. 
+If it has been a long time since you read the Learn To Program book, or did the Codecademy Ruby Track then we recommend that you re-do them in order to ensure their contents are up to date in your mind.  And when we say do, in the case of the Learn To Program, **it is absolutely critical that you not only read, but type out every code example out yourself** and run them via the command line, or using the [interactive ruby interpreter (IRB)](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell).  You must actively type the code in order to learn at the most accelerated rate.
 
-The next two weeks you will be working hard to understand as much Ruby as possible.  Please refer to the [learning objectives](learning_objectives.md) for the base level you **must** achieve. You may also find the following pills and tutorials helpful to get yourself ready:
-
-## Week 3
-Your task is to [complete chapters 9 - 14 of the Chris Pine Learn to Program book](https://github.com/makersacademy/learn_to_program)
+The next three weeks you will be working hard to understand as much Ruby as possible.  Please refer to the [learning objectives](learning_objectives.md) for the base level you **must** achieve. You may also find the following pills and tutorials helpful to get yourself ready:
 
 ## Pills
 
@@ -40,7 +37,6 @@ Below are some other useful resources
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 - [Interactive Ruby Tutor with animation of what happens with variables etc.](http://www.basicruby.com/tutor)
 - [HackerRank](https://www.hackerrank.com)
-- [App Academy prep work](https://github.com/appacademy/prep-work)
 
 ## Memorization Aids
 
