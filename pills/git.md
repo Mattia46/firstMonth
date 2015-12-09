@@ -1,5 +1,6 @@
 **Contents**
  - [Introduction](#introduction)
+ - [Git](#git)
   - [Setting up Git](#setting-up-git)
   - [Your first git repository](#your-first-git-repository)
   - [Initialising the repository](#initialising-the-repository)
@@ -9,8 +10,15 @@
   - [Viewing the log of the changes](#viewing-the-log-of-the-changes)
   - [Removing Files](#removing-files)
   - [Going back in history](#going-back-in-history)
- - [Git](#git)
  - [Github](#github)
+  - [You Are Your Github Profile](#you-are-your-github-profile)
+  - [Git is distributed](#git-is-distributed)
+  - [Using Github](#using-github)
+  - [Git workflow](#git-workflow)
+  - [Pulling the code from Github](#pulling-the-code-from-github)
+  - [When and how to commit](#when-and-how-to-commit)
+  - [File organisation](#file-organisation)
+  - [Cloning repositories from Github](#cloning-repositories-from-github)
 
 # Introduction
 
@@ -350,7 +358,7 @@ git checkout master
 By now you should know how to initialise a new repo, stage new files, commit changes, including removed files, and how to take a look at the past version of the code by checking out a specific commit. We'll explore more advanced git features later in the course.
 
 
-### Github
+# Github
 
 
 Making all of these changes on your local computer are great, but we'll need some additional functionality provided by [Github](https://github.com/) to collaborate with other developers and browse code online.
@@ -373,7 +381,7 @@ The first thing that this guy did was to look at everything our graduates create
 To sum it up: you are your Github profile. Just putting Makers Academy on your CV achieves nothing. You have to show what you can do in code. Don't worry that you'll be checking in some basic code at first because all developers start with "hello, world". It's much better than having an empty Github.
 
 
-### git is distributed
+### Git is distributed
 
 
 Github is really just another computer somewhere in the USA that you can create a repository on. When you go to Github and press the green button to create a new repository, Github does `git init` on its local computer.
