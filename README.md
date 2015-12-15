@@ -19,9 +19,9 @@ Make sure to go through all the materials and access them through our dedicated 
   - [Exercises](/exercises/git_exercises.md) (3-5 hours)
   - Octocat Challenge (Will be made available at end of the week, 3-5 hours)
 9. [Week 2: Ruby](ruby.md) (15-20 hours)
-  - Ruby Challenge (Will be made available at end of week 3)
+  - Ruby Challenge (Will be made available at end of the week)
 10. [Week 3 & 4: Further Ruby](ruby.md) (15+ hours)
-  - Ruby Challenge (Will be made available at end of week 4)
+  - Ruby Challenge (Will be made available at end of the week)
 11. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
 
     - [FizzBuzz](https://www.youtube.com/watch?v=CHTep2zQVAc) (Video)
