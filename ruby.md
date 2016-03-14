@@ -37,6 +37,7 @@ Below are some other useful resources
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 - [Interactive Ruby Tutor with animation of what happens with variables etc.](http://www.basicruby.com/tutor)
 - [HackerRank](https://www.hackerrank.com)
+- [OverAPI - Useful reference/cheatsheet of methods](http://overapi.com/ruby)
 
 ## Memorization Aids
 
