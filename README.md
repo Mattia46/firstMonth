@@ -20,7 +20,6 @@ Make sure to go through all the materials in this repository.
   - Challenge: [Chris Pine's Learn to Program](https://github.com/makersacademy/learn_to_program)
   - Challenge: [Codewars](http://www.codewars.com/)
 12. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
-
     - [FizzBuzz](https://www.youtube.com/watch?v=CHTep2zQVAc) (Video)
     - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
     - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
