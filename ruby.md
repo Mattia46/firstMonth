@@ -1,14 +1,14 @@
 # Ruby
 
 Ruby is a language of careful balance. Its creator, Yukihiro _"Matz"_ Matsumoto, blended parts of his favourite languages ( _Perl, Smalltalk, Eiffel, Ada, and Lisp_ ) to form a new language that balanced functional programming with imperative programming.
->
+
 > He has often said that he is _"trying to make Ruby natural, not simple,"_ in a way that mirrors life.
 >
 > Building on this, he adds:
 >
-> Ruby is simple in appearance, but is very complex inside, just like our human body1.
+> Ruby is simple in appearance, but is very complex inside, just like our human body.
 >
-> ~ extract from the ruby-lang.org website
+> _~ extract from the ruby-lang.org website_
 
 So Ruby is an all purpose programming language, in short a language that lets you program anything you can imagine ( _you can even create iPhone and iPad applications with Ruby!_ ). On top of that it is a beautiful and simple language that lets you write elegant code.
 
