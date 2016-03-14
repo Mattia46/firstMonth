@@ -18,7 +18,7 @@ Make sure to go through all the materials in this repository.
   - Challenge: [Ruby Kickstart](https://github.com/makersacademy/ruby-kickstart)
 11. [Week 3 & 4: Further Ruby](ruby.md)
   - Challenge: [Chris Pine's Learn to Program](https://github.com/makersacademy/learn_to_program)
-  - Challenge: [Many points onCodewars](http://www.codewars.com/)
+  - Challenge: [Codewars](http://www.codewars.com/)
 12. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
     - [FizzBuzz](https://www.youtube.com/watch?v=CHTep2zQVAc) (Video)
     - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
