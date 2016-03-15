@@ -19,11 +19,6 @@ $ git --version
 git version 1.7.12.4 (Apple Git-37)
 ````
 
-## Required Materials
-* [Introduction to git](/pills/git.md)
-* [Git Immersion](http://gitimmersion.com)
-* [Version Control Exercises](/exercises/git_exercises.md)
-* Octocat Test (emailed to you later this week)
 
 ## Optional Materials (in order of recommended usefulness)
 * [Makers Academy Version Control Class, on Quizlet](http://quizlet.com/join/QfjVs5RJT)
