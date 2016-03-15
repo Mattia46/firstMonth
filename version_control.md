@@ -19,6 +19,8 @@ $ git --version
 git version 1.7.12.4 (Apple Git-37)
 ````
 
+## Recommended Materials:
+* [Git Pill](pills/git.md)
 
 ## Optional Materials (in order of recommended usefulness)
 * [Makers Academy Version Control Class, on Quizlet](http://quizlet.com/join/QfjVs5RJT)
