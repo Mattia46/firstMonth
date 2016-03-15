@@ -1,6 +1,6 @@
 # The Command Line
 
-Learning how to use the command line is an essential skill for any developer. You'll learn many things in the upcoming lessons that will be much easier to grasp if you understand how to use the command line.
+Learning how to use the command line is an essential skill for any developer. You'll learn many things in the upcoming challenge that will be much easier to grasp if you understand how to use the command line.
 
 ## Optional Materials:
 * [Makers Academy's Command Line Class on Quizlet](http://quizlet.com/join/CdxPSbF3Z)
