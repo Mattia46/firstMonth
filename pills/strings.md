@@ -80,11 +80,11 @@ The string you get back from + is always a new string. You can test this by assi
 
 ````ruby
 >> str = "Hi "
-=> "Hi"
+=> "Hi "
 >> str + "there."
 => "Hi there."
 >> str
-=> "Hi"
+=> "Hi "
 ````
 
 ### STRING COMBINATION VIA INTERPOLATION
