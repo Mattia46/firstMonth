@@ -22,8 +22,6 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Control Flow](/pills/control_flow.md)
 
-:pill: [Creating Ruby Files](/pills/files.md)
-
 :pill: [Gems](/pills/gems.md)
 
 :pill: [Hashes](/pills/hashes.md)
