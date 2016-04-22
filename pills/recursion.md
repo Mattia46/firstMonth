@@ -26,7 +26,7 @@ def factorial(n)
 end
 ````
 
-However, the same problem  can be solved using recursion. If you pay attention it might become obvious that 
+However, the same problem  can be solved using recursion. If you pay attention it might become obvious that
 
 ````ruby
 factorial(n) == n * factorial(n-1) #=> true
@@ -51,7 +51,7 @@ end
 
 Such a method than calls itself to compute the result is called a recursive method. Since the method calls itself, it must always have at least one base case when this doesn't happen in order to avoid an infinite loop. Therefore, on every invocation of a recursive function it should check whether the input parameters constitute a base case and then decide whether to call itself.
 
-For example, in the factorial example above the base case is `n < 1`. If this condition holds, then the method returns 1 without calling itself. Otherwise, it calls itself with a different argument (n-1).
+For example, in the factorial example above the base case is `n < 2`. If this condition holds, then the method returns 1 without calling itself. Otherwise, it calls itself with a different argument (n-1).
 
 It's crucial to simplify the problem (in this case simplifying it from `factorial(n)` to `factorial(n-1)`) on every iteration. Otherwise the recursive method will enter an infinite loop. If this happens, you'll see this error:
 
@@ -88,7 +88,7 @@ def factorial(n)
   end
   result = factorial(n-1) * n
   puts "So, factorial(#{n}) == factorial(#{n-1}) * #{n} == #{result}"
-  result 
+  result
 end
 ````
 
@@ -96,25 +96,25 @@ The output will be:
 
 ````
 Computing factorial(6)
-let's compute factorial(6) == 6 * factorial(5) 
-Computing factorial(5) 
-let's compute factorial(5) == 5 * factorial(4) 
-Computing factorial(4) 
-let's compute factorial(4) == 4 * factorial(3) 
-Computing factorial(3) 
-let's compute factorial(3) == 3 * factorial(2) 
-Computing factorial(2) 
-let's compute factorial(2) == 2 * factorial(1) 
-Computing factorial(1) 
-let's compute factorial(1) == 1 * factorial(0) 
-Computing factorial(0) 
-factorial(0) == 1 since 0 < 1 
-So, factorial(1) == factorial(0) * 1 == 1 
-So, factorial(2) == factorial(1) * 2 == 2 
-So, factorial(3) == factorial(2) * 3 == 6 
-So, factorial(4) == factorial(3) * 4 == 24 
-So, factorial(5) == factorial(4) * 5 == 120 
-So, factorial(6) == factorial(5) * 6 == 720  
+let's compute factorial(6) == 6 * factorial(5)
+Computing factorial(5)
+let's compute factorial(5) == 5 * factorial(4)
+Computing factorial(4)
+let's compute factorial(4) == 4 * factorial(3)
+Computing factorial(3)
+let's compute factorial(3) == 3 * factorial(2)
+Computing factorial(2)
+let's compute factorial(2) == 2 * factorial(1)
+Computing factorial(1)
+let's compute factorial(1) == 1 * factorial(0)
+Computing factorial(0)
+factorial(0) == 1 since 0 < 1
+So, factorial(1) == factorial(0) * 1 == 1
+So, factorial(2) == factorial(1) * 2 == 2
+So, factorial(3) == factorial(2) * 3 == 6
+So, factorial(4) == factorial(3) * 4 == 24
+So, factorial(5) == factorial(4) * 5 == 120
+So, factorial(6) == factorial(5) * 6 == 720
 => 720
 ````
 
