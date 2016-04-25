@@ -26,4 +26,4 @@ Make sure to go through all the materials in this repository.
     - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
     - [RSpec tutorial](https://www.youtube.com/watch?v=JhR9Ib1Ylb8&feature=relmfu) (Video)
 
-REMEMBER! The world of development is constantly changing... Some of the information in these tutorials may not apply to the latest version of RSpec. You're going to have to get used to this eventually - you might as well start now!
+  REMEMBER! The world of development is constantly changing... Some of the information in these tutorials may not apply to the latest version of RSpec. You're going to have to get used to this eventually - you might as well start now!
