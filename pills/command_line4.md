@@ -32,7 +32,7 @@ This will produce a list of files and some extended information about them.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381137966416_Screen%20Shot%202013-10-07%20at%2010.25.53.png "ls -s")
 
-The permissions are shown in the first column, the mix of hyphens and letters, e.g. "drwxr-x-r-x". This may look cryptic at first sight but is actually very easy to read.
+The permissions are shown in the first column, the mix of hyphens and letters, e.g. "drwxr-xr-x". This may look cryptic at first sight but is actually very easy to read.
 
 The first letter shows the type of the file. In case of "subDirectory" we know it's a directory and not a file because of the letter "d" in its permissions.  All other files have a hyphen instead of a letter "d", meaning that they are just regular files. There are other types of files as well but these two are most common.
 
