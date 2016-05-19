@@ -20,7 +20,6 @@ Make sure to go through all the materials in this repository.
   - Challenge: [Chris Pine's Learn to Program](https://github.com/makersacademy/learn_to_program)
 12. [Week 4: Even More Ruby](ruby.md)
   - Challenge: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
-      - [FizzBuzz](https://www.youtube.com/watch?v=CHTep2zQVAc) (Video)
 13. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
     - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
     - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
