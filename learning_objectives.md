@@ -6,7 +6,10 @@
 
 ### [Development setup](http://www.preparetocode.io/)
 - Manually set up a computer for web development
-- Discover a quicker way to set up a computer for web development
+  - Install XCode
+  - Install Homebrew
+  - Install RVM and Ruby
+  - Install Pry
 
 ### [Atom](pills/installing_atom.md)
 - Know that Atom is an editor for altering many different file types
@@ -45,7 +48,7 @@
 
 ## Ruby
 
-### [`irb`](pills/irb.md)
+### [`irb`](http://blog.makersacademy.com/playing-in-irb/)
 - Recall that `irb` means 'interactive Ruby shell'
 - Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Use `irb` to experiment with Ruby
@@ -100,7 +103,7 @@ References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unles
 - Explain how Symbols' immutability makes them very memory-efficient
 - Use Symbols within Hashes as keys
 
-_References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/symbols); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=symbol&r%5B%5D=-8&r%5B%5D=-7&beta=false))_
+*References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/symbols); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=symbol&r%5B%5D=-8&r%5B%5D=-7&beta=false))*
 
 ### [Hashes](pills/hashes.md)
 - Define a hash as a 'dictionary' or 'associative array'
@@ -114,7 +117,15 @@ _References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine
 - Explain how blocks are used in Ruby
 - Demonstrate appropriate use of blocks for readability
 
-_References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))_
+*References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))*
+
+
+### [Recursion](pills/recursion.md)
+- Define recursion in Ruby as being when a method calls itself
+- Explain how to avoid infinite recursion loops
+- Use recursion to avoid nesting loops
+
+_References: (Pine, 2nd Ed. Ch.14; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=recursion&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
 
 ### [Lambdas](pills/lambdas.md)
 - Recognise the structure of a `lambda`
@@ -129,19 +140,7 @@ _References: ([Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q
 - Implement a Proc, pass it as a parameter, and call it
 - Solve metaprogramming problems with Procs
 
-_References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pine, 2nd Ed. Ch.10; [Pine, 1st Ed. Ch. 10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=procs&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
-
-### [Recursion](pills/recursion.md)
-- Define recursion in Ruby as being when a method calls itself
-- Explain how to avoid infinite recursion loops
-- Use recursion to avoid nesting loops
-
-_References: (Pine, 2nd Ed. Ch.14; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=recursion&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
-
-### [RVM](pills/installing_rvm.md)
-- Recall that 'RVM' is 'Ruby Version Manager'
-- Use RVM to install a new version of Ruby
-- Use RVM to manage the current version of Ruby
+*References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pine, 2nd Ed. Ch.10; [Pine, 1st Ed. Ch. 10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=procs&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))*
 
 ### [User Interaction](pills/user_interaction.md)
 - Explain how to get user input using `gets`
