@@ -23,18 +23,6 @@ Type the following command into your command line terminal (You may need to prep
 ln -s /Applications/Atom.app/Contents/Resources/app/atom.sh /usr/local/bin/atom
 ```
 
-This process *may* fail with the following message if you have not yet installed Homebrew:
-
-```
-ln: /usr/local/bin/atom: No such file or directory
-```
-
-The best way to resolve this is to install [Homebrew](http://brew.sh/).
-
-Enter your password when asked, and follow any instructions presented in the terminal window.
-
-Retry the symlink command above.
-
 ##### From Atom
 
 This is the easier option. Simply open Atom, click on the `Atom` menu and then on `Install Shell Commands`
