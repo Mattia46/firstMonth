@@ -58,11 +58,11 @@
 - Explain how to create new Strings
 - Use common String methods such as `concat`, `upcase`, and `chars`
 
-_References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/strings); Pine, 2nd Ed. Ch.3; [Pine, 1st Ed. Ch. 2](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=strings&r%5B%5D=-8&beta=false))_
+*References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/strings); Pine, 2nd Ed. Ch.3; [Pine, 1st Ed. Ch. 2](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=strings&r%5B%5D=-8&beta=false))*
 
 ### [Variables](pills/variables.md)
 
-References: ([CAG methods](http://www.codecademy.com/glossary/ruby/variables); Pine, 2nd Ed. Ch.4; [Pine, 1st Ed. Ch. 3](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=variables&r%5B%5D=-8&r%5B%5D=-7&beta=false)
+*References: ([CAG methods](http://www.codecademy.com/glossary/ruby/variables); Pine, 2nd Ed. Ch.4; [Pine, 1st Ed. Ch. 3](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=variables&r%5B%5D=-8&r%5B%5D=-7&beta=false)*
 
 
 ### [Methods](pills/methods.md)
@@ -70,7 +70,7 @@ References: ([CAG methods](http://www.codecademy.com/glossary/ruby/variables); P
 - Relate methods to writing DRY code
 - Implement methods to solve simple problems
 
-References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pine, 2nd Ed. Ch.6; [Pine, 1st Ed. Ch. 5](https://pine.fm/LearnToProgram/chap_05.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=method&r%5B%5D=-8&beta=false)
+*References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pine, 2nd Ed. Ch.6; [Pine, 1st Ed. Ch. 5](https://pine.fm/LearnToProgram/chap_05.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=method&r%5B%5D=-8&beta=false)*
 
 
 ### [Booleans](pills/boolean.md)
@@ -78,7 +78,7 @@ References: ([CAG methods](http://www.codecademy.com/glossary/ruby/methods); Pin
 - Explain that everything in Ruby is 'truthy', except `false` or `nil`, which are 'falsy'
 - Explain ideas of 'truthy' and 'falsy'
 
-_References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/my-languages?q=boolean&r%5B%5D=-8&beta=false))_
+*References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/my-languages?q=boolean&r%5B%5D=-8&beta=false))*
 
 ### [Arrays](pills/arrays.md)
 
@@ -86,7 +86,7 @@ _References: ([CAG Boolean](http://www.codecademy.com/glossary/ruby/booleans); P
 - Explain square-bracket notation
 - Use array methods such as `first`, `include?`, `select`, `map`, and iterators like `each` and `inject`
 
-_References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/arrays); Pine, 2nd Ed. Ch.8; [Pine, 1st Ed. Ch. 7](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=array&r%5B%5D=-8&beta=false))_
+*References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/arrays); Pine, 2nd Ed. Ch.8; [Pine, 1st Ed. Ch. 7](https://pine.fm/LearnToProgram/chap_07.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=array&r%5B%5D=-8&beta=false))*
 
 
 ### [Control Flows](pills/control_flow.md)
@@ -96,7 +96,7 @@ _References: ([CAG Arrays](http://www.codecademy.com/glossary/ruby/arrays); Pine
 - Use more terse versions of control flows (such as inline `if` statements, `else` statements, and ternary operators)
 - Analyse when to swap `if`/`else` statements for 'switch' statements
 
-References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unless-elsif-and-else); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=control+flow&r%5B%5D=-8&beta=false)
+*References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unless-elsif-and-else); Pine, 2nd Ed. Ch.7; [Pine, 1st Ed. Ch. 6](https://pine.fm/LearnToProgram/chap_06.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=control+flow&r%5B%5D=-8&beta=false)*
 
 ### [Symbols](pills/symbols.md)
 - Define Symbols as String-like objects that are **immutable**
@@ -110,7 +110,7 @@ References: ([CAG Control Flow](http://www.codecademy.com/glossary/ruby/if-unles
 - Give the structure of a hash as `{ :key => value }` or `{ key: value }`
 - Use Ruby hashes to solve code Katas
 
-_References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine, 2nd Ed. Ch.12; [Pine, 1st Ed. Ch. 9](https://pine.fm/LearnToProgram/chap_09.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=hash&r%5B%5D=-7&r%5B%5D=-8&beta=false))_
+*References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine, 2nd Ed. Ch.12; [Pine, 1st Ed. Ch. 9](https://pine.fm/LearnToProgram/chap_09.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=hash&r%5B%5D=-7&r%5B%5D=-8&beta=false))*
 
 ### [Blocks](pills/blocks.md)
 - Recall the structure of blocks using both `{}` and `do..end` notation
@@ -125,14 +125,14 @@ _References: ([CAG Hashes](http://www.codecademy.com/glossary/ruby/hashes); Pine
 - Explain how to avoid infinite recursion loops
 - Use recursion to avoid nesting loops
 
-_References: (Pine, 2nd Ed. Ch.14; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=recursion&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
+*References: (Pine, 2nd Ed. Ch.14; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=recursion&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))*
 
 ### [Lambdas](pills/lambdas.md)
 - Recognise the structure of a `lambda`
 - Explain that lambdas are 'anonymous methods' in Ruby
 - Use lambdas to solve basic metaprogramming problems
 
-_References: ([Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=lambdas&r%5B%5D=-8&r%5B%5D=-7&beta=false))_
+*References: ([Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=lambdas&r%5B%5D=-8&r%5B%5D=-7&beta=false))*
 
 ### [Procs](pills/procs.md)
 - Define a Proc as another 'anonymous method' in Ruby
@@ -169,4 +169,4 @@ _References: ([Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q
 - Explain how to use string interpolation
 - Use string interpolation to solve code Katas
 
-_References: (Pine, 2nd Ed. Ch.11; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=interpolation&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))_
+*References: (Pine, 2nd Ed. Ch.11; [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=interpolation&r%5B%5D=-8&r%5B%5D=-7&r%5B%5D=-6&beta=false))*
