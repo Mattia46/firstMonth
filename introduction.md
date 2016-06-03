@@ -6,4 +6,4 @@ The Makers Academy course is a very intense 12 week long immersion course. This 
 
 During this pre course phase you will be learning a few of these things as well as getting yourself used to guided self study. It might get confusing and frustrating at times, but that is all part of the process.
 
-**You are expected to be working for 15-20 hours a week for the next 4 weeks (that is before your official start date at Makers Academy).**
+**You are expected to be working for 20-30 hours a week for the next 4 weeks (that is before your official start date at Makers Academy).**
