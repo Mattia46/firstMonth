@@ -1,17 +1,18 @@
 # Knowledge pills
 
-Knowledge pills are like little vitamin pills you can take in quickly to understand a concept. We try to keep them as small as possible so that you can extract the information you need and gain the basic understanding quickly.
+Knowledge pills are like little vitamin pills you can take in quickly to understand a concept. Better enjoyed as a part of a healthy lifestyle of actual coding. We try to keep them as small as possible so that you can extract the information you need and gain the basic understanding quickly.
 
-## Unix
+**REMEMBER: Like any medicine, you're not supposed to take them all at once (that would be a terrible idea), they're here for when you need them**
+
+## Dev Skills
+
 :pill: [The command line](/pills/command_line.md)
 
-:pill: [Installation instructions](/pills/installation_instructions.md)
+:pill: [Installing Atom](/pills/installing_atom.md)
 
-:pill: [Installing RVM](/pills/installing_rvm.md)
+:pill: [Git](/pills/git)
 
-:pill: [Installing XCode](/pills/installing_xcode.md)
-
-:pill: [Installing Sublime](/pills/installing_sublime.md)
+:pill: [Continuous Integration](pills/continuous_integration.md)
 
 
 ## Ruby
@@ -51,7 +52,3 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 :pill: [True, False and nothing](/pills/boolean.md)
 
 :pill: [Variables](/pills/variables.md)
-
-## Developer Tools
-
-:pill: [Continuous Integration](pills/continuous_integration.md)
