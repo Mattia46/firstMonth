@@ -1,11 +1,11 @@
-Mentoring Program
+Mentoring
 =================
 
-The Makers Academy mentoring program is designed to make connections between students in different stages of the course.  The idea is that both parties can benefit from the relationship.  Besides just having an extra person to talk to, there are three main advantages:
+Makers Academy encourages mentoring as building connections between students in different stages of the course. The idea is that both parties can benefit from the relationship. Besides just having an extra person to talk to, there are three main advantages:
 
 1) Advice
 
-Mentors are chosen from the cohort above, which means a Mentor can relate to where a Mentee is, since the mentor was there just 6 weeks ago - so Mentees ask them for advice. Whether it's about what to do, how best to prepare, any tips on making the most of the pre-course, even good places to go for lunch around the office... Mentors are an ocean of useful advice!
+Mentors are students from the cohort above, which means a Mentor can relate to where a Mentee is, since the mentor was there just 6 weeks ago - so Mentees ask them for advice. Whether it's about what to do, how best to prepare, any tips on making the most of the pre-course, even good places to go for lunch around the office... Mentors are an ocean of useful advice!
 
 2) Technical issues
 
@@ -19,4 +19,4 @@ When you have passed the PreCourse, you will be given the opportunity to become 
 
 If you have any additional questions about mentoring, pair programming or online pairing, please don't hesitate to create a [PreCourse Issue](https://github.com/makersacademy/pre_course/issues).
 
-For contacting your mentor, please do prefer creating issues in the github  repo and flagging your mentor by adding their github username with the @ symbol pre-pended.  This will have the huge advantage that if your mentor is indisposed then others can potentially help too; and also that others can benefit from seeing how the technical challenge or issue can be solved.  The main downside is that you might be nervous about asking questions in a way that's visible to the rest of your cohort.  While that's a perfectly valid feeling, it's actually a big handicap to learning.  Get used to asking questions online to your "team" - this is an essential skill for being successful as a programmer.  Trust us!
+For contacting your mentor, please do prefer creating issues in the github repo and flagging your mentor by adding their github username with the @ symbol pre-pended.  This will have the huge advantage that if your mentor is indisposed then others can potentially help too; and also that others can benefit from seeing how the technical challenge or issue can be solved.  The main downside is that you might be nervous about asking questions in a way that's visible to the rest of your cohort.  While that's a perfectly valid feeling, it's actually a big handicap to learning.  Get used to asking questions online to your "team" - this is an essential skill for being successful as a programmer.  Trust us!
