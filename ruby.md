@@ -56,8 +56,9 @@ A challenging and interesting Ruby tutorial, that also teaches you about error m
 
 ## Other useful books
 
+- The Well-Grounded Rubyist - David A. Black
+- Practical Object-Oriented Design in Ruby - Sandi Metz
 - Eloquent Ruby - Russ Olsen
 - Design Patterns in Ruby - Russ Olsen
 - Refactoring: Ruby Edition - Jay Fields, Shane Harvie, Martin Fowler, Kent Beck
 - Refactoring in Ruby - William C. Rake, Kevin Rutherford
-- Practical Object-Oriented Design in Ruby - Sandi Metz
