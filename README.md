@@ -11,7 +11,7 @@ Make sure to go through all the materials in this repository.
 5. [Learning Objectives](learning_objectives.md)
 6. [How to ask questions online](how_to_ask_questions_online.md)
 7. [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks
-8. [Mentoring](mentoring.md)
+8. [Mentoring](mentoring.md) (Onsite)
 9. [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
   - Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
 10. [Week 2: Ruby](ruby.md)
