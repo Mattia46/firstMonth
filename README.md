@@ -15,7 +15,7 @@ Make sure to go through all the materials in this repository.
 9. [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
   - Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
 10. [Week 2: Ruby](ruby.md)
-    - Challenge: *To Be Announced*
+    - Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
 11. [Week 3: More Ruby](ruby.md)
     - Challenge: *To Be Announced*
 12. [Week 4: Even More Ruby](ruby.md)
