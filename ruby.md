@@ -33,11 +33,13 @@ Below are some other useful resources
 - [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
 - [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects)
 - [Lynda tutorial on Essential Ruby](http://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html)
+- [CodeQuizzes - Learn by doing](http://www.codequizzes.com/)
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.1.2/)
 - [Ruby Standard Library Reference](http://www.ruby-doc.org/stdlib-2.1.2/)
 - [Interactive Ruby Tutor with animation of what happens with variables etc.](http://www.basicruby.com/tutor)
 - [HackerRank](https://www.hackerrank.com)
 - [OverAPI - Useful reference/cheatsheet of methods](http://overapi.com/ruby)
+
 
 ## Memorization Aids
 
