@@ -10,7 +10,7 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Installing Atom](/pills/installing_atom.md)
 
-:pill: [Git](/pills/git)
+:pill: [Git](/pills/git.md)
 
 :pill: [Continuous Integration](pills/continuous_integration.md)
 
