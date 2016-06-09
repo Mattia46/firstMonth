@@ -44,7 +44,7 @@ If we now run "mv" without providing a new destination, we can simply rename the
 
 #### Viewing files
 
-For this next section, open up a text editor. If you're using a Mac, the TextEdit application will work fine (or use [Sublime Text](installing_sublime.md) that we'll be using for the rest of the course).  If you're on Nitrous you can use the built in text editor.  If you are using TextEdit on the Mac do ensure that it is set to 'plain text' rather than 'rich text'.  In TextEdit you can do this on the Format menu: Format → Make Plain Text.  Note that it is very important to use plain text formatting.  Rich text formatting (such as in MS Word) introduces extra symbols that will cause problems down the line.
+For this next section, open up a text editor. If you're using a Mac, the TextEdit application will work fine (or use [Atom](installing_atom.md) that we'll be using for the rest of the course).  If you're on Nitrous you can use the built in text editor.  If you are using TextEdit on the Mac do ensure that it is set to 'plain text' rather than 'rich text'.  In TextEdit you can do this on the Format menu: Format → Make Plain Text.  Note that it is very important to use plain text formatting.  Rich text formatting (such as in MS Word) introduces extra symbols that will cause problems down the line.
 
 Once you are set up in the 'plain' text editor of your choice, type in the following text into the document (followed by an empty new line):
 
