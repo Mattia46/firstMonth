@@ -103,7 +103,7 @@ We want our file to be executed by Ruby, so let's find out where ruby interprete
 `$ which ruby`
 `/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby`
 
-On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using [SublimeText](installing_sublime.md).
+On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using [Atom](installing_atom.md).
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381141953228_Screen%20Shot%202013-10-07%20at%2011.32.20.png "hello world")
 
