@@ -21,3 +21,5 @@ friends = "Bob"
 friends << " and Alice"
 puts friends #=> "Bob and Alice"
 ````
+
+*See [Ruby Doc](http://ruby-doc.org/core-2.0.0/Array.html#method-i-3C-3C)*
