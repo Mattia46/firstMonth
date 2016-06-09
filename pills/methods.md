@@ -16,7 +16,7 @@ hello("jane")
 hello("pete")
 ````
 
-Create a new `hello.rb` file in SublimeText. Once saved, you can run it by pressing Cmd-B (or, you can run it from the terminal as usual).
+Create a new `hello.rb` file in Atom. Once saved, you can run it by pressing Cmd-B (or, you can run it from the terminal as usual).
 
 ````ruby
 def hello(name)
