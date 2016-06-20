@@ -17,7 +17,7 @@ Make sure to go through all the materials in this repository.
 10. [Week 2: Ruby](ruby.md)
     - Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
 11. [Week 3: More Ruby](ruby.md)
-    - Challenge: *To Be Announced*
+    - Challenge: [Student Directory](https://github.com/makersacademy/student-directory)
 12. [Week 4: Even More Ruby](ruby.md)
   - Challenge: *To Be Announced*
 13. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
