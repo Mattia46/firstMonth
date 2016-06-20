@@ -19,7 +19,7 @@ Make sure to go through all the materials in this repository.
 11. [Week 3: More Ruby](ruby.md)
     - Challenge: [Student Directory](https://github.com/makersacademy/student-directory)
 12. [Week 4: Even More Ruby](ruby.md)
-  - Challenge: *To Be Announced*
+  - Challenge: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
 13. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
     - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
     - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
