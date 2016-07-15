@@ -136,7 +136,7 @@ Discuss this code with your pair partner.  What does each line mean?  Read the [
 ```sh
 $ rspec
 ```
-RSpec should now report that you have one failing test.  If not, carefully check you have correctly followed the steps.  If you need further help, please ask an [Alumni Helper](https://github.com/makersacademy/course/blob/master/toc.md#resources).
+RSpec should now report that you have one failing test.  If not, carefully check you have correctly followed the steps.  
 
 Discuss the RSpec output with your partner.  What does it mean?  How would you use this output to drive the next step in the process?
 
