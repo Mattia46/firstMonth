@@ -35,9 +35,9 @@ country = :france # memory allocated
 last_visited = :france # the same symbol is reused
 ````
 
-For a small number of variabless it doesn't matter, though.
+For a small number of variables it doesn't matter, though.
 
-Symbols are notoriously hard to understand if you never used them. A good rule of thumb is to use them whenever you need an identifier that should not change. Don't worry if it sounds confusing at the moment: we'll be using them in plenty of examples later.
+Symbols are notoriously hard to understand if you have never used them. A good rule of thumb is to use them whenever you need an identifier that should not change. Don't worry if it sounds confusing at the moment: we'll be using them in plenty of examples later.
 
 ## Symbols as hash keys
 
