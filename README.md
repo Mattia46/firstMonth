@@ -4,7 +4,7 @@
 
 The PreCourse will help you get up and ready for the 12 week, full-time, course at Makers Academy
 
-This repository has your roadmap to the PreCourse and it contains all the information you need in order to succeed. Make sure you go through the next steps carefully.
+This repository is your roadmap to the PreCourse and it contains all the information you need in order to succeed. Make sure you go through the next steps carefully.
 
 ## Instructions
 
@@ -29,10 +29,10 @@ Time to get your hands dirty! But before you start, be aware of these sections:
  - [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks, to use when necessary.
  - [Learning Objectives](learning_objectives.md) - the concepts you're supposed to be comfortable with by the end of the next 4 weeks.
 
-Below is a breakdown of the challenges you need to complete in order to successfully finish the PreCourse.
+Below is a breakdown of the weekly work and challenges you need to complete in order to successfully finish the PreCourse.
 
 ##### [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
-  - Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
+  Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
 
 ##### [Week 2: Ruby](ruby.md)
   Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
