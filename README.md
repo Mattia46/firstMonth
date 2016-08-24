@@ -1,28 +1,52 @@
-# Makers Academy Pre Course
+# Makers Academy PreCourse
 
-**Welcome, future maker!** This PreCourse is meant to help you get up and ready for your 12 week, full-time, course at Makers Academy.
+**Welcome, future maker!**
 
-Make sure to go through all the materials in this repository.
+The PreCourse will help you get up and ready for the 12 week, full-time, course at Makers Academy
 
-1. [Introduction](introduction.md)
-2. [Student Letter](student_letter.md)
-3. [Code of Conduct](http://www.makersacademy.com/code-of-conduct/)
-4. [TEC: Transparency, Effort and Compassion](tec.md)
-5. [Learning Objectives](learning_objectives.md)
-6. [How to ask questions online](how_to_ask_questions_online.md)
-7. [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks
-8. [Mentoring](mentoring.md) (Onsite)
-9. [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
+This repository has your roadmap to the PreCourse and it contains all the information you need in order to succeed. Make sure you go through the next steps carefully.
+
+## Instructions
+
+#### Step 1:
+Read the [Introduction](introduction.md) to the PreCourse
+
+#### Step 2:
+Educate yourself about:
+- The [Makers Academy's Code of Conduct](http://www.makersacademy.com/code-of-conduct/)
+- Our three agreements - [Transparency, Effort and Compassion](tec.md)
+- MA's take on [Mentoring](mentoring.md)
+
+#### Step 3:
+Understand what to do when you're stuck by getting familiar with our [problem solving process](problem_solving.md) and [how to ask questions online](how_to_ask_questions_online.md).
+
+#### Step 4:
+Make sure you read our [Survival Guide](survival_guide.md) for tips on succeeding in the PreCourse.
+
+#### Step 5:
+Time to get your hands dirty! But before you start, be aware of these sections:
+
+ - [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks, to use when necessary.
+ - [Learning Objectives](learning_objectives.md) - the concepts you're supposed to be comfortable with by the end of the next 4 weeks.
+
+Below is a breakdown of the challenges you need to complete in order to successfully finish the PreCourse.
+
+##### [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
   - Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
-10. [Week 2: Ruby](ruby.md)
-    - Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
-11. [Week 3: More Ruby](ruby.md)
-    - Challenge: [Student Directory](https://github.com/makersacademy/student-directory)
-12. [Week 4: Even More Ruby](ruby.md)
-  - Challenge: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
-13. Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
-    - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
-    - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
-    - [RSpec tutorial](https://www.youtube.com/watch?v=JhR9Ib1Ylb8&feature=relmfu) (Video)
 
-  REMEMBER! The world of development is constantly changing... Some of the information in these tutorials may not apply to the latest version of RSpec. You're going to have to get used to this eventually - you might as well start now!
+##### [Week 2: Ruby](ruby.md)
+  Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
+
+##### [Week 3: More Ruby](ruby.md)
+  Challenge: [Student Directory](https://github.com/makersacademy/student-directory)
+
+##### [Week 4: Even More Ruby](ruby.md)
+  Challenge: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
+
+##### Extra work
+Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
+  - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
+  - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
+  - [RSpec tutorial](https://www.youtube.com/watch?v=JhR9Ib1Ylb8&feature=relmfu) (Video)
+
+REMEMBER! The world of development is constantly changing... Some of the information in these tutorials may not apply to the latest version of RSpec. You're going to have to get used to this eventually - you might as well start now!

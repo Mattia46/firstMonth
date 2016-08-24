@@ -40,13 +40,13 @@
 - Push files to a remote repo
 - Make a pull request to an upstream repo
 
-### [Pairing](pills/pairing.md)
-- Know some rules of thumb for great pairing
-- Get started with pair programming
-
 ## Weeks 2 - 4
 
 ## Ruby
+
+### [Pairing](pills/pairing.md)
+- Know some rules of thumb for great pairing
+- Get started with pair programming
 
 ### [`irb`](http://blog.makersacademy.com/playing-in-irb/)
 - Recall that `irb` means 'interactive Ruby shell'

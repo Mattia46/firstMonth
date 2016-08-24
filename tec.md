@@ -1,6 +1,6 @@
 # Our three agreements (TEC)
 
-At Makers Academy we have three agreements that guide our actions. We expect every person at Makers Academy to uphold to these values every day, starting today, during your pre course, course and hopefully the rest of your professional life.
+At Makers Academy we have three agreements that guide our actions. We expect every person at Makers Academy to uphold to these values every day, starting today, during your PreCourse, course and hopefully the rest of your professional life.
 
 ## The First Agreement: Transparency
 
