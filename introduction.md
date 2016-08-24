@@ -36,6 +36,7 @@ Further reading:
 Our main expectation is that **you'll be working for 20-30 hours a week for the next 4 weeks (that is before your official start date at Makers Academy).** But we also expect you to:
 - Do your best on every challenge
 - Be on Slack
-- Communicate with each other and us
+- Communicate actively with each other and us
 - Follow the [problem solving process](escalation_process.md) when you get stuck
+- Help your fellow students whenever you can
 - Take care of your own wellbeing

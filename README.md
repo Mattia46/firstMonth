@@ -18,10 +18,10 @@ Educate yourself about:
 - MA's take on [Mentoring](mentoring.md)
 
 #### Step 3:
-Understand what to do when you're stuck by getting familiar with our [problem solving process](problem_solving.md) and [how to ask questions online](how_to_ask_questions_online.md).
+Make sure you read our [Survival Guide](survival_guide.md) for tips on succeeding in the PreCourse.
 
 #### Step 4:
-Make sure you read our [Survival Guide](survival_guide.md) for tips on succeeding in the PreCourse.
+Understand what to do when you're stuck by getting familiar with our [problem solving process](problem_solving.md).
 
 #### Step 5:
 Time to get your hands dirty! But before you start, be aware of these sections:
