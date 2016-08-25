@@ -12,7 +12,7 @@ You will be learning basic **Dev Tools** - mostly [Command Line](command_line.md
 
 ## Structure
 
-The PreCourse structure is identical to the one you're going to encounter on the 12 weeks of the course, where you'll be working on a new challenge every week. You'll get to the PreCourse challenges on *Step 5* of the [README](README.md).
+The PreCourse structure is identical to the one you're going to encounter on the 12 weeks of the course, where you'll be working on a new challenge every week.
 
 You can expect 3 emails from us each week:
 
