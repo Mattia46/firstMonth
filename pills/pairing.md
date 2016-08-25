@@ -1,5 +1,4 @@
-Pair Programming
-================
+# Pair Programming
 
 Pair programming is the process whereby two people actively collaborate on developing code.  Used as part of a general teamwork approach it leads to improved code quality, team communication, knowledge share and huge learning gains.  [Large scale studies of computer science students](http://www.cs.pomona.edu/classes/cs121/supp/williams_prpgm.pdf) have shown greatly improved outcomes when students pair program on coding problems.  In the past, pair programming has been restricted to those able to meet in the same location, however it is now possibley to remote pair program very easily using tools such as ScreenHero, Nitrous.io or simply Google Hangouts or Skype and [Github Pong](github_pong.md).
 
@@ -12,10 +11,10 @@ Pair programming can be very exhausting as it will often lead to a state of very
 Please do read through the pair programming tips and methodologies below and make sure to watch the videos referenced at the end of this document!
 
 
-General Pair Programming Tips
---------------
+## General Pair Programming Tips
 
-###Do's:
+
+### Do's:
 
 * Talk
 * Listen
@@ -28,7 +27,7 @@ General Pair Programming Tips
 * Have Fun
 
 
-###Don't:
+### Don't:
 
 * Be Bossy
 * Be Intimidated

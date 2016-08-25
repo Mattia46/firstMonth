@@ -119,7 +119,6 @@
 
 *References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))*
 
-
 ### [Recursion](pills/recursion.md)
 - Define recursion in Ruby as being when a method calls itself
 - Explain how to avoid infinite recursion loops
