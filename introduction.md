@@ -26,7 +26,7 @@ You can expect 3 emails from us each week:
 
 You should have received an invite to join our [student Slack](http://makersstudents.slack.com) - please make sure you're signed up to it. We will use this for the day-to-day communication.
 
-Further reading:
+Important reading:
 - [MA Slack Guide](https://slack-files.com/T028WMLPG-F0SHD0B4N-90b8dccc2f)
 - [Slack-tiquette](https://slack-files.com/T028WMLPG-F0SH8J0TW-7d02d11bc1?)
 

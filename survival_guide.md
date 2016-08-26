@@ -21,7 +21,7 @@ Here at Makers we are big believers that wellbeing and happiness lead to better 
 
 
 ### Get into a regular Working Pattern
-The PreCourse is now your part-time job (or even full-time, for those you already quit their jobs), so try to stick to a daily routine. Work on something everyday, even if you only have 10 minutes to spare because, at this stage, it's super important that you're exposed to the concepts you're learning, on a daily basis. So, if you don't have a lot of time to spare, try to do (or redo) a [Codewars kata](https://www.codewars.com/), for example.
+The PreCourse is now your part-time job (or even full-time, for those of you already quit their jobs), so try to stick to a daily routine. Work on something everyday, even if you only have 10 minutes to spare because at this stage it's super important that you're exposed to the concepts you're learning on a daily basis. So, if you don't have a lot of time on your hands, try to do (or redo) a [Codewars kata](https://www.codewars.com/), for example.
 
 ### Meet up during the PreCourse
 *Don't work in isolation!*

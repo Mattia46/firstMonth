@@ -48,7 +48,7 @@
 - Know some rules of thumb for great pairing
 - Get started with pair programming
 
-### [`irb`](http://blog.makersacademy.com/playing-in-irb/)
+### [`irb`](https://blog.makersacademy.com/playing-in-irb-34e5498f7cd5#.ie88896w1)
 - Recall that `irb` means 'interactive Ruby shell'
 - Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Use `irb` to experiment with Ruby
