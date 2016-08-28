@@ -15,7 +15,9 @@ Read the [Introduction](introduction.md) to the PreCourse
 Educate yourself about:
 - The [Makers Academy's Code of Conduct](http://www.makersacademy.com/code-of-conduct/)
 - Our three agreements - [Transparency, Effort and Compassion](tec.md)
-- MA's take on [Mentoring](mentoring.md)
+
+#### Step 2.1 (FOR ONSITE STUDENTS):
+Understand MA's take on [Mentoring](mentoring.md)
 
 #### Step 3:
 Make sure you read our [Survival Guide](survival_guide.md) for tips on succeeding in the PreCourse.
@@ -26,8 +28,9 @@ Understand what to do when you're stuck by getting familiar with our [problem so
 #### Step 5:
 Time to get your hands dirty! But before you start, be aware of these sections:
 
- - [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks, to use when necessary.
- - [Learning Objectives](learning_objectives.md) - the concepts you're supposed to be comfortable with by the end of the next 4 weeks.
+- [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks, to use
+ when necessary.
+- [Learning Objectives](learning_objectives.md) - the concepts you're supposed to be comfortable with by the end of the next 4 weeks.
 
 Below is a breakdown of the weekly work and challenges you need to complete in order to successfully finish the PreCourse.
 
