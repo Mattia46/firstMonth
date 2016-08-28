@@ -40,15 +40,15 @@
 - Push files to a remote repo
 - Make a pull request to an upstream repo
 
-### [Pairing](pills/pairing.md)
-- Know some rules of thumb for great pairing
-- Get started with pair programming
-
 ## Weeks 2 - 4
 
 ## Ruby
 
-### [`irb`](http://blog.makersacademy.com/playing-in-irb/)
+### [Pairing](pills/pairing.md)
+- Know some rules of thumb for great pairing
+- Get started with pair programming
+
+### [`irb`](https://blog.makersacademy.com/playing-in-irb-34e5498f7cd5#.ie88896w1)
 - Recall that `irb` means 'interactive Ruby shell'
 - Explain how `irb` is a [Read-Eval-Print-Loop (REPL)](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Use `irb` to experiment with Ruby
@@ -118,7 +118,6 @@
 - Demonstrate appropriate use of blocks for readability
 
 *References: ([CAG Blocks](http://www.codecademy.com/glossary/ruby/blocks); Pine, 2nd Ed. Ch.8,14; Pine, 1st Ed. Ch. [7](https://pine.fm/LearnToProgram/chap_07.html), [10](https://pine.fm/LearnToProgram/chap_10.html); [Related Codewars Kata](http://www.codewars.com/kata/search/ruby?q=block&r%5B%5D=-8&beta=false))*
-
 
 ### [Recursion](pills/recursion.md)
 - Define recursion in Ruby as being when a method calls itself
