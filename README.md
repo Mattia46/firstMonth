@@ -34,19 +34,19 @@ Time to get your hands dirty! But before you start, be aware of these sections:
 
 Below is a breakdown of the weekly work and challenges you need to complete in order to successfully finish the PreCourse.
 
-##### [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
+#### [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
   Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
 
-##### [Week 2: Ruby](ruby.md)
+#### [Week 2: Ruby](ruby.md)
   Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
 
-##### [Week 3: More Ruby](ruby.md)
+#### [Week 3: More Ruby](ruby.md)
   Challenge: [Student Directory](https://github.com/makersacademy/student-directory)
 
-##### [Week 4: Even More Ruby](ruby.md)
+#### [Week 4: Even More Ruby](ruby.md)
   Challenge: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
 
-##### Extra work
+#### Extra work
 Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
   - [Roman Numerals](https://www.youtube.com/watch?v=b0A6OKHtez4) (Video)
   - [CodeSchool intro to RSpec](http://rspec.codeschool.com/levels/1) (Interactive Coding)
