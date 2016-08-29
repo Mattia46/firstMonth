@@ -4,7 +4,7 @@ At Makers Academy we have three agreements that guide our actions. We expect eve
 
 ## The First Agreement: Transparency
 
-Transparency, in it’s simplest form means to be honest; with yourself and others.
+Transparency, in its simplest form, means to be honest; with yourself and others.
 
 Learning how to code in 12 weeks is a crazy thing. For you to be able to achieve this, we need you to work with everyone, follow our way and agree to adhere to the rules that govern Makers Academy. Our code of conduct supports an optimal learning environment that ensures that everyone gets the most out of the learning experience.
 
