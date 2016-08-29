@@ -37,6 +37,6 @@ Our main expectation is that **you'll be working for 20-30 hours a week for the 
 - Do your best on every challenge
 - Be on Slack
 - Communicate actively with each other and us
-- Follow the [problem solving process](escalation_process.md) when you get stuck
+- Follow the [problem solving process](problem_solving.md) when you get stuck
 - Help your fellow students whenever you can
 - Take care of your own wellbeing
