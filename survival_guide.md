@@ -15,7 +15,7 @@ Here at Makers we are big believers that wellbeing and happiness lead to better 
 
 **Exercise:** Your brain needs rest and your body needs to move. Otherwise you'll find yourself buzzing with physical energy and mentally drained, which might cause insomnia or poor quality of sleep. [There's also evidence that regular exercise improves memory and thinking](http://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110), so make sure you find time to put your trainers on and get moving!
 
-**Sleep:** Coding until until late hours might sound like a good idea but getting enough sleep is crucial for your learning. This [3' coursera video](https://www.coursera.org/learn/learning-how-to-learn/lecture/AsWfx/the-importance-of-sleep-in-learning) explains it quite well.
+**Sleep:** Coding until late hours might sound like a good idea but getting enough sleep is crucial for your learning. This [3' coursera video](https://www.coursera.org/learn/learning-how-to-learn/lecture/AsWfx/the-importance-of-sleep-in-learning) explains it quite well.
 
 **Meditation and Mindfulness:** Not only are they super useful in helping you maintain a healthy balanced mind, it's also been proven that [meditative practice can actually change the brain for better focus and memory](http://healthland.time.com/2012/08/10/can-meditation-make-you-smarter/). Apps like [Headspace](https://www.headspace.com/) are a great way to get into it.  
 
