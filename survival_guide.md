@@ -44,7 +44,7 @@ If you are still keen on meeting face to face, there are a bunch of great places
 
 ### Blogging
 
-Lots of you have come across blogs from several Makers alumni. The reason there are so many is because we highly recommend you get into blogging about your experience as early as possible. Writing is a great brain-dumping exercise, as it helps you clear the mind and articulate your thoughts and regular writing as shown an positive impact on [mental and physical wellbeing](http://psychcentral.com/lib/the-health-benefits-of-journaling/).
+Lots of you have come across blogs from several Makers alumni. The reason there are so many is because we highly recommend you get into blogging about your experience as early as possible. Writing is a great brain-dumping exercise, as it helps you clear the mind and articulate your thoughts and regular writing has shown a positive impact on [mental and physical wellbeing](http://psychcentral.com/lib/the-health-benefits-of-journaling/).
 
 And if these reasons weren't enough to get you excited, what if we told you that **there's a prize for the best blog on each cohort**? Yeah, we're cool like that.
 
