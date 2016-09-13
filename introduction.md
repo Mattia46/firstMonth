@@ -33,7 +33,7 @@ Important reading:
 
 ## Our expectations
 
-Our main expectation is that **you'll be working for 20-30 hours a week for the next 4 weeks (that is before your official start date at Makers Academy).** But we also expect you to:
+Our main expectation is that **you'll be working for a minimum of 20 hours a week for the next 4 weeks (that is before your official start date at Makers Academy).** But we also expect you to:
 - Do your best on every challenge
 - Be on Slack
 - Communicate actively with each other and us
