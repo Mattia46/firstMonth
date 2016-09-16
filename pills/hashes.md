@@ -17,7 +17,7 @@ empty_hash = {}
 another_empty_hash = Hash.new # same as {}
 ````
 
-Play with the hash in irb (:pill:  [irb](https://github.com/makersacademy/pre_course/blob/master/pills/irb.md) ) to learn how to use it. You'll be using hashes and array in every Ruby project you'll ever build.
+Play with the hash in [IRB](https://blog.makersacademy.com/playing-in-irb-34e5498f7cd5#.1x3texuc4) to learn how to use it. You'll be using hashes and array in every Ruby project you'll ever build.
 
 ## Useful methods
 
