@@ -4,7 +4,10 @@ Your first step to becoming a fully-fledged web developer is now behind you!
 
 The Makers Academy course is a very intense 12 week long immersion course. This course is a balance between you taking responsibility for your own education, letting the coaches know what your needs are and supporting your fellow students during the course.
 
-During this phase you will be learning a few of these things as well as getting yourself used to guided self study. It might get confusing and frustrating at times, but that is all part of the process.
+During this PreCourse phase you will be learning a few of these things as well as getting yourself used to guided self study. It might get confusing and frustrating at times, but that is all part of the process.
+
+**The PreCourse ensures that you get to the required basic level of competence when you enrol at Makers Academy. This means we'll be monitoring your progress closely to make sure you're getting there. *If by mid-week 3 you haven't completed weeks 1 and 2, you'll be asked to join a later cohort and you'll lose your deposit*.**
+
 
 ## Content
 
@@ -16,11 +19,13 @@ The PreCourse structure is identical to the one you're going to encounter on the
 
 You can expect 3 emails from us each week:
 
-**Monday** (around 10.30am) - The "official" kickoff of that week's work/challenge. you'll have until 10am in the following Monday to complete it.
+**Monday** (around 10.30am) - The "official" kickoff of that week's work/challenge. Try to complete it by the following Monday.
 
 **Thursday** (afternoon) -  We'll send you some useful information and it will work as check-in point
 
-**Sunday** (morning) - Because we're constantly trying to improve and learn from you, we'll ask you to fill out a feedback form every week. It's a tiny form and we really appreciate if you could get yourself to do it every time.
+## Feedback
+
+Because we're constantly trying to improve and learn from you, we'll ask you to fill out a feedback form every week. It's a tiny form and we really appreciate if you could get yourself to do it every time.
 
 ## Communication
 
