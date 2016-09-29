@@ -30,12 +30,12 @@ Use any opportunity you have to pair with your peers. Getting into [pair-program
 
 Unfortunately, we're short on space in the Makers HQ, so it won't be possible to get together until the course starts. But don't you worry, pair-programming doesn't have to be face to face, there are many tools out there that allow you to pair remotely. Here's a few we can recommend:
 
-- [Screen Hero](https://screenhero.com/)
+- [Screen Hero](https://screenhero.com/) - if you need an invite, ask for one in your cohort slack channel. Someone will be able to send you one.
 - [Zoom](https://zoom.us/)
 - [Google Hangouts](https://hangouts.google.com/)
 - [Skype](https://www.skype.com/en/)
 
-If you are still keen on meeting face to face, there are a bunch of great places around here with great coffee and good wifi that we can recommend:
+If you are still keen on meeting face to face, there are a bunch of great places around here with decent coffee and good wifi that we can recommend:
 
 - [Ace Hotel](https://www.acehotel.com/london)
 - [Google Campus](https://www.campus.co/london/en)
