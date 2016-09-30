@@ -38,13 +38,16 @@ Below is a breakdown of the weekly work and challenges you need to complete in o
   Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
 
 #### [Week 2: Ruby](ruby.md)
-  Challenge: [Learn to Program](https://github.com/makersacademy/learn_to_program)
+  Challenge 1: Complete a Ruby tutorial
+  Challenge 2: Reach 30-40 points on Codewars
 
 #### [Week 3: More Ruby](ruby.md)
-  Challenge: [Student Directory](https://github.com/makersacademy/student-directory)
+  Challenge 1: [Student Directory](https://github.com/makersacademy/student-directory)
+  Challenge 2: Reach 70-80 points on Codewars
 
 #### [Week 4: Even More Ruby](ruby.md)
-  Challenge: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
+  Challenge 1: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
+  Challenge 2: Reach 120 points on Codewars
 
 #### Extra work
 Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)
