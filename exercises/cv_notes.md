@@ -1,4 +1,4 @@
-#### CV Do's & Don'ts
+# CV notes
 
 Here is a list of Do's and Don'ts we've compiled at Makers. It's not exhaustive but it's a good start. 
 
