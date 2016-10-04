@@ -11,15 +11,14 @@ Feel free to do this on your own, or pair up. Total time to complete this is 2-3
 
 #### Step 1 - 5 mins
 
-Take a moment to remind yourself what the point of a CV is. 
-The purpose of a CV is to provide evidence about why you'd be suitable for a particular job. 
+Take a moment to remind yourself what the point of a CV is e.g. to provide evidence about why you'd be suitable for a particular job. 
 
 #### Step 2 - 10 mins
 Take a moment to see what other people have done:
-- Viola
-- Shane
-- Yas
-- Sophy 
+- Textbook use of STAR technique to structure examples: [Sophy](https://github.com/soph-g/CV) 
+- A super original one: [Viola](https://github.com/ViolaCrellin/CV)
+- A good way to showcase loads of experience (15+ years) [Shane](https://github.com/shaneoston72/CV)
+- Very wordy but good use of informal voice: [Yuri](https://github.com/yurizhuravel/CV)
 
 #### Step 3 - 5 mins
 Answer these questions:
