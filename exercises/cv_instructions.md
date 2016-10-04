@@ -24,7 +24,7 @@ Take a moment to see what other people have done:
 Answer these questions:
 - What do you notice about these CVs? What is different about these CVs?
 - Write your own list of Do's and Don'ts for your CV. 
-- We've put one together here if you want a cheat sheet
+- We've put one together here if you want a [cheat sheet](https://github.com/makersacademy/pre_course/blob/master/exercises/cv_notes.md)
 
 #### Step 3 - 1-2 hours
 - Now write a first draft of your CV
