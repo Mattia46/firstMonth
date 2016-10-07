@@ -34,20 +34,21 @@ Time to get your hands dirty! But before you start, be aware of these sections:
 
 Below is a breakdown of the weekly work and challenges you need to complete in order to successfully finish the PreCourse.
 
-#### [Week 1: Command Line](command_line.md) & [Version Control](version_control.md)
+#### Week 1: [Command Line](command_line.md) & [Version Control](version_control.md)
   Challenge: [Command Line Mystery](https://github.com/makersacademy/clmystery)
 
-#### [Week 2: Ruby](ruby.md)
-  Challenge 1: Complete a Ruby tutorial
-  Challenge 2: Reach 30-40 points on Codewars
+#### Week 2: [Ruby](ruby.md)
+  **Challenge 1:** [Complete a Ruby tutorial](tutorial.md)   
+  **Challenge 2:** Reach 30-40 points on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
 #### [Week 3: More Ruby](ruby.md)
-  Challenge 1: [Student Directory](https://github.com/makersacademy/student-directory)
-  Challenge 2: Reach 70-80 points on Codewars
+  **Challenge 1:** [Student Directory](https://github.com/makersacademy/student-directory)   
+  **Challenge 2:** Reach 70-80 points on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
 #### [Week 4: Even More Ruby](ruby.md)
-  Challenge 1: [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)
-  Challenge 2: Reach 120 points on Codewars
+  **Challenge 1:** [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)   
+  **Challenge 2:** [Create your github CV](cv/cv_instructions.md)   
+  **Challenge 3:** Reach 120 points on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
 #### Extra work
 Want to stretch yourself? Why not start looking at Test Driven Development using RSpec? Only if you have time :)

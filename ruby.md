@@ -12,11 +12,13 @@ Ruby is a language of careful balance. Its creator, Yukihiro _"Matz"_ Matsumoto,
 
 So Ruby is an all purpose programming language, in short a language that lets you program anything you can imagine ( _you can even create iPhone and iPad applications with Ruby!_ ). On top of that it is a beautiful and simple language that lets you write elegant code.
 
-So you already know some Ruby because in preparation for your interview you completed [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/) up to chapter 8 and the [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby).  
+So you already know some Ruby because in preparation for your interview you completed [Chris Pine's Learn To Program book](https://pine.fm/LearnToProgram/) up to chapter 8 and the [Codecademy Ruby Track](http://www.codecademy.com/tracks/ruby).
 
-If it has been a long time since you read the Learn To Program book, or did the Codecademy Ruby Track then we recommend that you re-do them in order to ensure their contents are up to date in your mind. And when we say do, in the case of the Learn To Program, **it is absolutely critical that you not only read, but type out every code example out yourself** and run them via the command line, or using the [interactive ruby interpreter (IRB)](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell). You must actively type the code in order to learn at the most accelerated rate.
+*If it has been a long time since you had your interview, please do one of the basic tutorials listed below before moving on to the first Ruby challenge.*
 
-The next three weeks you will be working hard to understand as much Ruby as possible. Please refer to the [learning objectives](learning_objectives.md) for the base level you **must** achieve. You may also find the following resources helpful to get yourself ready:
+The next three weeks you will be working hard to understand as much Ruby as possible. Please refer to the [learning objectives](learning_objectives.md) for the base level you **must** achieve.
+
+You may also find the following resources helpful to get yourself ready:
 
 ## Pills
 Strings, Arrays and Hashes are the three data classes that you will be likely to use more than any other. These pills give a basic overview, but we recommend that you strive to learn every available method for all 3 classes.
@@ -32,9 +34,10 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 
 ## More in-depth tutorials
-- [RubyLearning.com](http://rubylearning.com/satishtalim/introduction.html) - Ruby Tutorial and Study Notes
 - [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects) - Excellent set of interactive tutorials that guide you on your way towards Ruby enlightenment.
+- [Why’s (Poignant) Guide To Ruby](http://poignant.guide/) - Probably the most bizarre and entertaining Ruby Tutorial out there.
 - [Ruby Koans](http://rubykoans.com) - A challenging and interesting Ruby tutorial, that also teaches you about error messages and TDD.
+- [RubyLearning.com](http://rubylearning.com/satishtalim/introduction.html) - Ruby Tutorial and Study Notes
 
 ## Reference
 - [Ruby Core Reference](http://www.ruby-doc.org/core-2.3.1/) - API documentation for Ruby 2.3.1
