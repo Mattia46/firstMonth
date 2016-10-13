@@ -29,7 +29,7 @@ Because we're constantly trying to improve and learn from you, we'll ask you to 
 
 ## Communication
 
-You should have received an invite to join our [student Slack](http://makersstudents.slack.com) - please make sure you're signed up to it. We will use this for the day-to-day communication.
+You should have received an invite to join our [student Slack](http://makersstudents.slack.com) - please make sure you're signed up to it. We will use this for day-to-day communication.
 
 Important reading:
 - [MA Slack Guide](https://slack-files.com/T028WMLPG-F0SHD0B4N-90b8dccc2f)

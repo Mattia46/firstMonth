@@ -17,7 +17,7 @@ We expect you to be transparent in:
 - submitting feedback
 - going the steps outlined in each project/challenge
 
-Part of being transparent meant that when you fall out of it (_for whichever reasons_) you will be responsible of getting back. Most of the time all it takes is acknowledging the situation and moving on.
+Part of being transparent meant that when you fall out of it (_for whichever reasons_) you will be responsible for getting back. Most of the time all it takes is acknowledging the situation and moving on.
 
 ## The Second Agreement: Effort
 
