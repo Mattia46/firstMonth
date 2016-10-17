@@ -6,7 +6,8 @@ The Makers Academy course is a very intense 12 week long immersion course. This 
 
 During this PreCourse phase you will be learning a few of these things as well as getting yourself used to guided self study. It might get confusing and frustrating at times, but that is all part of the process.
 
-### IMPORTANT: The PreCourse ensures that you get to the required basic level of competence when you enrol at Makers Academy. This means we'll be monitoring your progress closely to make sure you're getting there. *If by mid-week 3 you haven't completed weeks 1 and 2, you'll be asked to join a later cohort and you'll lose your deposit*.
+### IMPORTANT:
+**The PreCourse ensures that you get to the required basic level of competence when you enrol at Makers Academy. This means we'll be monitoring your progress closely to make sure you're getting there. *If by mid-week 3 you haven't completed weeks 1 and 2, you'll be asked to join a later cohort and you'll lose your deposit*.**
 
 
 ## Content
