@@ -1,13 +1,13 @@
-# TDD and pair programming: Fizzbuzz
+# TDD and pair programming over Fizzbuzz
 
 The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) and Pair Programming.
 
-***Please work through this walkthrough with a pair partner. Please take turns on the keyboard as the driver as described in the [pairing pill :pill:](../pills/pairing.md). Please swap driver/navigator roles following one of the protocols described in the pill ('change the message' is probably best), ensuring that the maximum time one person is driving is 15 minutes.***
+**1. Please work through this walkthrough with a pair partner. Please take turns on the keyboard as the driver as described in the [pairing pill :pill:](../pills/pairing.md). Please swap driver/navigator roles following one of the protocols described in the pill ('change the message' is probably best), ensuring that the maximum time one person is driving is 15 minutes.**
 
-***Finally, please note, as with all Makers Academy materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
+**2. Make sure that in the end of this tutorial, both you and your partner have a `fizzbuzz` repo on your Github accounts.**
 
 ## What is Fizzbuzz?
-Fizzbuzz is a simple coding challenge, often described as a [code kata](http://codekata.com/).  The objective of Fizzbuzz is to create a program with the following specification:
+Fizzbuzz is a simple coding challenge, often described as a [code kata](http://codekata.com/). The objective of Fizzbuzz is to create a program with the following specification:
 
 * The program can be passed a number.
 * When passed a number that is a multiple of 3, the program returns the message 'Fizz'.
@@ -122,7 +122,8 @@ Finally, run RSpec and ensure 'everything is green'.
 ## Writing the first test
 Switch roles again :twisted_rightwards_arrows:.  In your favourite editor, type the following code in `./spec/fizzbuzz_spec.rb`:
 
-***You must type all code in these walkthroughs by hand.  DO NOT copy and paste.  Speed is not the objective and you will learn more effectively by manually typing code.***
+***You must type all code in these walkthroughs by hand. DO NOT copy and paste. Speed is not the objective and you will learn more effectively by manually typing code.***
+
 ```ruby
 describe 'fizzbuzz' do
   it 'returns "fizz" when passed 3' do
@@ -215,7 +216,7 @@ Use `irb` to run further manual tests.  Are there any edge cases that you have m
 Try running Fizzbuzz for all numbers from 1 to 100 in `irb`.  Discuss with your pair partner different ways to do this.  Can you use Ruby to do this in one line of code (N.B. it must be elegant and readable)?
 
 ## Further exercises :running_shirt_with_sash:
-Once you have completed Fizzbuzz, please delete your `fizzbuzz` directory and start over from scratch with opposite roles.  (You read that correctly - please delete the entire directory and start again.)  Do as much of it as you can from memory.  Practicing repeatedly this way will accelerate your learning.
+Once you have completed Fizzbuzz, please delete your `fizzbuzz` directory and start over from scratch with opposite roles. (You read that correctly - please delete the entire directory and start again.) Do as much of it as you can from memory. Practicing repeatedly this way will accelerate your learning.
 
 To make it more interesting, try to solve the Fizzbuzz problem in different ways.  For example, here's an alternate version of the first test:
 ```ruby
