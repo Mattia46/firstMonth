@@ -18,11 +18,11 @@ You will be learning basic **Dev Tools** - mostly [Command Line](command_line.md
 
 The PreCourse structure is identical to the one you're going to encounter on the 12 weeks of the course, where you'll be working on a new challenge every week.
 
-You can expect 2 emails from us each week:
+You can expect 3 emails from us each week:
 
 **Monday** (around 10.30am) - The "official" kickoff of that week's work/challenge. Try to complete it by the following Monday.
 
-**Friday** (morning) -  We'll send you some useful information and it will work as check-in point
+**Thursday** (afternoon) - We'll send you some useful information and it will work as check-in point
 
 ## Feedback
 
