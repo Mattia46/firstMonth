@@ -4,7 +4,7 @@ We ask you to complete draft 1 of your CV on the PreCourse so that you start thi
 
 Many of you will have some form of CV but at Makers Academy we use github CVs. We do this so that it's quick and easy for us to send your CV to our hiring partners (which happens week 12 onwards) and also so that they can flick through your commit history, your final projects and your side projects all in one place.
 
-Hint: this is why it's really important to [clean up your READMEs](https://github.com/makersacademy/jobhunters/blob/master/clean_your_github.md) as you go. Don't leave it until the end of the course.
+Hint: this is why it's really important to [clean up your READMEs](https://github.com/makersacademy/pre_course/blob/master/cv/clean_your_github.md) as you go. Don't leave it until the end of the course.
 
 ### Creating your github CV
 Feel free to do this on your own, or pair up. Total time to complete this is 2-3 hours.
@@ -24,7 +24,7 @@ Take a moment to see what other people have done:
 Answer these questions:
 - What do you notice about these CVs? What is different about these CVs?
 - Write your own list of Do's and Don'ts for your CV.
-- We've put one together here if you want a [cheat sheet](https://github.com/makersacademy/pre_course/blob/master/exercises/cv_notes.md)
+- We've put one together here if you want a [cheat sheet](https://github.com/makersacademy/pre_course/blob/master/cv/cv_notes.md)
 
 #### Step 3 - 1-2 hours
 - Now write a first draft of your CV
