@@ -49,8 +49,8 @@ Ask someone you know well to review it. Ask them:
 - Does it sound like me?
 - Have I missed anything out e.g. things I'm good at?
 
-#### Step 5 - Submit!
+#### Step 5 - You're done (for now)!
 
-Congratulations! You have completed your first draft! We will review these in week 6 and again in week 12.
+Congratulations! You have completed your first draft of your CV! We will review these in week 6.
 
 Any questions please feel free to get in touch with Zara on slack: @zara_pearson
