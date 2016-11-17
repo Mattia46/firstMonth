@@ -1,12 +1,13 @@
-# Survival Guide
+# Get through the PreCourse like boss
 
-Your journey to become a web developer is going to be a fun and exciting one but it's also going to be hard. We've put together a few tips that we hope will make your life a little easier during the PreCourse.
+Your journey to become a web developer is going to be a fun and exciting one but it's also going to be a challenging adventure. We've put together a few tips that we hope to make your life a little easier during the PreCourse.
 
 ### Focus on your own progress
- You're going to find yourself thinking that everyone else in your cohort is doing better than you. Stop it. It's detrimental to your learning. By comparing yourself to others you're not taking ownership of your progress. Instead of fretting about what you *think* others know better than you, you should ask yourself *"What do I know now that I didn't know a couple of days ago?"*. This is why we have... [LEARNING OBJECTIVES!](learning_objectives.md) Use them. Frequently check how confident you are with the concepts listed there and you'll be surprised how much you are actually learning.
+ You're going to find yourself thinking that everyone else in your cohort is doing better than you. Okay, it is normal that it will happen but it tends to be detrimental to your learning. By comparing yourself to others you're not taking ownership of your progress. Instead of fretting about what you *think* others know better than you, you should ask yourself *"What do I know now that I didn't know a couple of days ago?"*. This is why we have... [LEARNING OBJECTIVES!](learning_objectives.md) Use them. Frequently check how confident you are with the concepts listed there and you'll be surprised how much you are actually learning.
 
 ### Keep us in the loop
-*Lack of communication is the #1 reason people don't make it through the PreCourse.*
+
+**Lack of communication is the #1 reason people don't make it through the PreCourse.**
 
 So you didn't finish a challenge? Reach out and let us know what's happening. You feel like you're falling behind? Get in touch! Your cat got sick and you can't focus on the challenges? We might be able to help, somehow.
 
@@ -41,6 +42,7 @@ If you are still keen on meeting face to face, there are a bunch of great places
 - [Google Campus](https://www.campus.co/london/en)
 - [Trade](http://www.trade-made.co.uk/)
 - [Java U](http://www.java-u.co.uk/)
+- [Forge & Co.](http://forgeandco.co.uk/)
 
 ### Blogging
 
