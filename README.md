@@ -41,11 +41,11 @@ Below is a breakdown of the weekly work and challenges you need to complete in o
   **Challenge 1:** [Complete a Ruby tutorial](tutorial.md)   
   **Challenge 2:** Reach 30-40 points on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
-#### [Week 3: More Ruby](ruby.md)
+#### Week 3: [More Ruby](ruby.md)
   **Challenge 1:** [Student Directory](https://github.com/makersacademy/student-directory)   
   **Challenge 2:** Reach 70-80 points on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
-#### [Week 4: Even More Ruby](ruby.md)
+#### Week 4: [Even More Ruby](ruby.md)
   **Challenge 1:** [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)   
   **Challenge 2:** [Create your github CV](cv/cv_instructions.md)   
   **Challenge 3:** Reach 120 points on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
