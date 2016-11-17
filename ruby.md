@@ -34,7 +34,6 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 
 
 ## More in-depth tutorials
-- [Ruby Monk](https://rubymonk.com/learning/books/1-ruby-primer/chapters/6-objects/lessons/35-introduction-to-objects) - Excellent set of interactive tutorials that guide you on your way towards Ruby enlightenment.
 - [Why’s (Poignant) Guide To Ruby](http://poignant.guide/) - Probably the most bizarre and entertaining Ruby Tutorial out there.
 - [Ruby Koans](http://rubykoans.com) - A challenging and interesting Ruby tutorial, that also teaches you about error messages and TDD.
 - [RubyLearning.com](http://rubylearning.com/satishtalim/introduction.html) - Ruby Tutorial and Study Notes
