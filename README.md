@@ -34,7 +34,7 @@ Time to get your hands dirty! But before you start, be aware of these sections:
 Below is a breakdown of the weekly work and challenges you need to complete in order to successfully finish the PreCourse.
 
 #### Week 1: Dev Tools
-  **Pre-work:** [Command Line](command_line.md) & [Version Control](version_control.md)
+  **Pre-work:** [Command Line](command_line.md) & [Version Control](version_control.md)   
   **Challenge:** [Command Line Mystery](https://github.com/makersacademy/clmystery)
 
 #### Week 2: Ruby
