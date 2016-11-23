@@ -32,9 +32,9 @@ For example:
 age = 18
 name = "Joe Fox"
 first_line = "Makers Academy, "
-second_line = "25 City Rd., "
-postcode = "EC1Y 1AA"
+second_line = "50-52 Commercial St., "
+postcode = "E1 6LT"
 address = first_line + second_line + postcode
 ````
 
-The value of `address` will be "Makers Academy, 25 City Rd., EC1Y 1AA". So, you create new variables (and change them) by putting the variable name on the left and the value on the right of the assignment.
+The value of `address` will be "Makers Academy, 50-52 Commercial St., E1 6LT". So, you create new variables (and change them) by putting the variable name on the left and the value on the right of the assignment.
