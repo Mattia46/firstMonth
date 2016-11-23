@@ -2,7 +2,7 @@
 
 Ruby would be a rather limited language if the only thing it could do is evaluate various expressions. Fortunately, it's much more powerful than this.
 
-At some point, we'll want to start saving the results of evaluated expressions instead of just calculating them every time – that's where variables come in. For example, let's create a variable `people` with the value "Makers". Instead of providing screenshots, from now on we'll be just showing you what to type in irb (:pill: [Introducing Irb](pills/irb.md)).
+At some point, we'll want to start saving the results of evaluated expressions instead of just calculating them every time – that's where variables come in. For example, let's create a variable `people` with the value "Makers". Instead of providing screenshots, from now on we'll be just showing you what to type in irb (:pill: [Introducing Irb](irb.md)).
 
 ````ruby
 people = "Makers"
