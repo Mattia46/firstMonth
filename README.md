@@ -38,7 +38,7 @@ Below is a breakdown of the weekly work and challenges you need to complete in o
   **Challenge:** [Command Line Mystery](https://github.com/makersacademy/clmystery)
 
 #### Week 2: Ruby
-  **Pre-work:** [Ruby](ruby.md)
+  **Pre-work:** [Ruby](ruby.md)   
   **Challenge 1:** [Complete a Ruby tutorial](tutorial.md)   
   **Challenge 2:** Rank to 7 kyu on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
