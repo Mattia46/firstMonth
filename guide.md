@@ -50,4 +50,4 @@ Lots of you have come across blogs from several Makers alumni. The reason there 
 
 And if these reasons weren't enough to get you excited, what if we told you that **there's a prize for the best blog on each cohort**? Yeah, we're cool like that.
 
-Go on, set your blog up! There are several cool platforms out there to choose from: [Medium](https://medium.com/), [Ghost](https://ghost.org/), [GitHub Pages](https://pages.github.com/) or any other you might know and fancy. If you decide to write on Medium, you can contribute to the Makers Academy blog as a Guest Writer to increase your own online presence.
+Go on, set your blog up! There are several cool platforms out there to choose from: [Medium](https://medium.com/), [Ghost](https://ghost.org/), [GitHub Pages](https://pages.github.com/) or any other you might know and fancy. If you decide to write on Medium, you can [contribute to the Makers Academy blog](https://blog.makersacademy.com/how-you-can-contribute-to-the-makers-academy-blog-4d83b03c609e#.isj9cq7g5) as a Guest Writer to increase your own online presence. 
