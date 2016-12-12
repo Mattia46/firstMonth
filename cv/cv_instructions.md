@@ -6,6 +6,29 @@ Many of you will have some form of CV but at Makers Academy we use github CVs. W
 
 Hint: this is why it's really important to [clean up your READMEs](https://github.com/makersacademy/pre_course/blob/master/cv/clean_your_github.md) as you go. Don't leave it until the end of the course.
 
+Some people also create a personal portfolio. Some examples below:
+
+www.joesweeny.me  
+
+www.jamieallen.co.uk  
+
+http://ngreen.co
+
+
+#### What some of our Hiring Partners say about CVs:
+
+Talking about [this](https://github.com/lsewilson/CV/) CV 
+>Love that she runs her own blog. Very strong logical / analytical background. Clearly a leader and organiser, I have confidence that she can deliver technically and also bring a huge amount intellectually to the team. Very excited.  
+
+
+Talking about [this](https://github.com/sus111/CV) CV
+>Lots of commits on Github, seems engaged and interested in her work. Blogs about her experiences. Something different and interesting about her background, a real self starter – I got the sense she was in control of this career change and is smart enough to pick and choose what she wants to do in her life.  
+
+
+Talking about [this](https://github.com/lukecartledge/CV) CV
+>CTO was very impressed by the range and depth of his GitHub. Again someone who has clearly achieved in his personal life and chosen to move on his own steam. In particular his use of OAuth demonstrates that he’s willing to engage and understand real world technical challenges by integrating with other systems, not self contained projects.  
+
+
 ### Creating your github CV
 Feel free to do this on your own, or pair up. Total time to complete this is 2-3 hours.
 
@@ -14,11 +37,11 @@ Feel free to do this on your own, or pair up. Total time to complete this is 2-3
 Take a moment to remind yourself what the point of a CV is e.g. to provide evidence about why you'd be suitable for a particular job.
 
 #### Step 2 - 10 mins
-Take a moment to see what other people have done:
+Take a moment to see what other people have done. See above CVs and below:
 - Textbook use of STAR technique to structure examples: [Sophie](https://github.com/soph-g/CV)
 - A super original one: [Viola](https://github.com/ViolaCrellin/CV)
 - A good way to showcase loads of experience (15+ years) [Shane](https://github.com/shaneoston72/CV)
-- Very wordy but good use of informal voice: [Yuri](https://github.com/yurizhuravel/CV)
+
 
 #### Step 3 - 5 mins
 Answer these questions:
