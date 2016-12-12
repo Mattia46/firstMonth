@@ -32,9 +32,11 @@ Answer these questions:
 - Here is the template: https://github.com/makersacademy/cv
 - Fork it
 - Please don't rename the repo - leave it as /cv
+- Even if you don't use our template it's really important to [use this checklist](https://docs.google.com/document/d/192fl6RVeOpEEoQzAmjmuh-y-RC7euy0_Ef3nHiwN0kk/edit) to make sure you're including everything necessary
 
 #### Extra notes
-- At this stage don't worry too much about the technical skills section - you can add this later when we review in week 6 and 12
+- There is big CV checklist here
+- At this stage don't worry too much about the technical skills section - you can add this later when you've got some stuff to showcase!
 - The purpose of your Github is to show your approach, not your technical skill. Most employers recruiting at your level are less interested in your actual technical skill today, and much more interested in how you approach writing and designing code (and how you solve problems).
 - For your READMES: on the (two or three) repos you’re super proud of, use the README to explain (briefly) what makes you special: different from other devs (or other Makers):
 * your motivations;
