@@ -1,6 +1,6 @@
 # How to write your github CV
 
-We ask you to complete draft 1 of your CV on the PreCourse so that you start thinking about skills you're keen to develop on the course, projects you're keen to showcase and so that you start thinking about what kind of job you want to do as early as possible. We will review and update your CVs in week 6.
+We ask you to complete draft 1 of your CV on the PreCourse so that you start thinking about skills you're keen to develop on the course, projects you're keen to showcase and so that you start thinking about what kind of job you want to do as early as possible. You'll be asked to review and update your CV later in the course as well. 
 
 Many of you will have some form of CV but at Makers Academy we use github CVs. We do this so that it's quick and easy for us to send your CV to our hiring partners (which happens week 12 onwards) and also so that they can flick through your commit history, your final projects and your side projects all in one place.
 
