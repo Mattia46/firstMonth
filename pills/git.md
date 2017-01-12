@@ -19,6 +19,7 @@
   - [When and how to commit](#when-and-how-to-commit)
   - [File organisation](#file-organisation)
   - [Cloning repositories from Github](#cloning-repositories-from-github)
+ - [Using Git to collaborate with others](#using-git-to-collaborate-with-others)
 
 # Introduction
 
@@ -646,3 +647,7 @@ cd ..
 Nothing new here. We just created a new local repo, added a remote and pulled the changes. No magic.
 
 A common mistake is to forget that `git clone` created a folder for you. You need to run `git clone` in your projects folder, not the folder you want the repo files to be in.
+
+## Using Git to collaborate with others
+
+See the [GitHub collaboration](./github_collaboration.md) :pill:
