@@ -9,7 +9,6 @@ During this PreCourse phase you will be learning a few of these things as well a
 ### IMPORTANT:
 **The PreCourse ensures that you get to the required basic level of competence when you enrol at Makers Academy. This means we'll be monitoring your progress closely to make sure you're getting there. *If by mid-week 3 you haven't completed weeks 1 and 2, you'll be asked to join a later cohort and you'll lose your deposit*.**
 
-
 ## Content
 
 You will be learning basic **Dev Tools** - mostly [Command Line](command_line.md) and [Version Control](version_control.md) with Git - and basic [**Ruby**](ruby.md) so none of that gets in the way when you start the course. It's also the best way to ensure that you and your peers start the course at similar levels.
@@ -18,11 +17,9 @@ You will be learning basic **Dev Tools** - mostly [Command Line](command_line.md
 
 The PreCourse structure is identical to the one you're going to encounter on the 12 weeks of the course, where you'll be working on a new challenge every week.
 
-You can expect 2 emails from us each week:
+We'll send a message to your cohort slack channel every **Monday** around 10.30. It will be the "official" kickoff of that week's work/challenge. You should try to complete it by the following Monday.
 
-**Monday** (around 10.30am) - The "official" kickoff of that week's work/challenge. Try to complete it by the following Monday.
-
-**Friday** (morning) - It will contain you some useful information and it will work as check-in point
+Although nothing prevents you from moving to a new weekly challenge before the week ends, we recommend that you follow the suggested structure and spend as much time as possible on that week's topic.
 
 ## Feedback
 
@@ -30,7 +27,7 @@ Because we're constantly trying to improve and learn from you, we'll ask you to 
 
 ## Communication
 
-You should have received an invite to join our [student Slack](http://makersstudents.slack.com) - please make sure you're signed up to it. We will use this for day-to-day communication.
+You should have received an invite to join our [student Slack](http://makersstudents.slack.com) - please make sure you're signed up to it. Use it to communicate with us, it's so much better than email! We'll be sending resources, reminders and announcements throughout the next 4 weeks on your cohort slack channel so we recommend that you download the desktop app - https://slack.com/downloads/ - and keep it open so that it's easily available.
 
 Important reading:
 - [MA Slack Guide](https://slack-files.com/T028WMLPG-F0SHD0B4N-90b8dccc2f)

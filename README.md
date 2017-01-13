@@ -21,14 +21,14 @@ Understand MA's take on [Mentoring](mentoring.md)
 
 #### Step 3:
 Make sure you read our [guide to get through the PreCourse like a boss](guide.md).
+
 #### Step 4:
 Understand what to do when you're stuck by getting familiar with our [problem solving process](problem_solving.md).
 
 #### Step 5:
 Time to get your hands dirty! But before you start, be aware of these sections:
 
-- [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks, to use
- when necessary.
+- [Knowledge Pills](pills.md) - short and clear explanations of concepts you'll come across during the next 4 weeks, to use when necessary.
 - [Learning Objectives](learning_objectives.md) - the concepts you're supposed to be comfortable with by the end of the next 4 weeks.
 
 Below is a breakdown of the weekly work and challenges you need to complete in order to successfully finish the PreCourse.

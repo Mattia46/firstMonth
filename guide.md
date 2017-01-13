@@ -48,6 +48,4 @@ If you are still keen on meeting face to face, there are a bunch of great places
 
 Lots of you have come across blogs from several Makers alumni. The reason there are so many is because we highly recommend you get into blogging about your experience as early as possible. Writing is a great brain-dumping exercise, as it helps you clear the mind and articulate your thoughts and regular writing has shown a positive impact on [mental and physical wellbeing](http://psychcentral.com/lib/the-health-benefits-of-journaling/).
 
-And if these reasons weren't enough to get you excited, what if we told you that **there's a prize for the best blog on each cohort**? Yeah, we're cool like that.
-
-Go on, set your blog up! There are several cool platforms out there to choose from: [Medium](https://medium.com/), [Ghost](https://ghost.org/), [GitHub Pages](https://pages.github.com/) or any other you might know and fancy. If you decide to write on Medium, you can [contribute to the Makers Academy blog](https://blog.makersacademy.com/how-you-can-contribute-to-the-makers-academy-blog-4d83b03c609e#.isj9cq7g5) as a Guest Writer to increase your own online presence. 
+Check the [blogging pill](pills/blogging.md) out to get you started!
