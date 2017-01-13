@@ -18,7 +18,9 @@ Ok, this week's about completing a Ruby tutorial of your choice. To get started,
   - `lrthw`    
 <br>
 <br>
-3. Create a folder on your machine with the same name as your repo and then, every time you start a new chapter, create a folder for that chapter and a file for each exercise you might do. You'll end up with a directory tree similar to this:
+3. How to structure your work:
+
+  - For *Learn Ruby the Hard Way* and *Learn to Program*, create a folder on your machine with the same name as your repo and then, every time you start a new chapter, create a folder for that chapter and a file for each exercise and/or study notes you complete. You'll end up with a directory tree similar to this:
 ```shell
   lrthw   
   ├── chap01   
@@ -28,15 +30,16 @@ Ok, this week's about completing a Ruby tutorial of your choice. To get started,
       ├── ex1.rb  
       └── ex2.rb
 ```
+   - For Ruby Kickstart, fork the repo and follow Josh Cheek's instructions.
 <br>
 <br>
-4. Push your answers and exercise attempts to your newly created repo. Do it frequently, we recommend you do it every time you complete an exercise.
+4. Push your answers and exercise attempts to your own newly created/forked repo. Do it frequently, we recommend you do it every time you complete an exercise.
 
 ## Important:
 
 - Whichever tutorial you choose, **it is absolutely critical that you not only read, but type out every code example yourself** and run them via the command line, or using the [interactive ruby interpreter (IRB)](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell). You must actively type the code in order to learn at the most accelerated rate.
 
-- **DO  NOT COPY-PASTE!** Mr Zed A. Shaw explains why so perfectly in [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/intro.html), that we might as well just quote him:
+- **DO  NOT COPY-PASTE!** Mr Zed A. Shaw explanation on why in [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/intro.html) is so perfect, that we might as well just quote him:
 
     >*You must type each of these exercises in, manually. If you copy and paste, you might as well not even do them. The point of these exercises is to train your hands, your brain, and your mind in how to read, write, and see code. If you copy-paste, you are cheating yourself out of the effectiveness of the lessons.*
 

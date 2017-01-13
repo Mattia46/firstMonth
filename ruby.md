@@ -32,8 +32,8 @@ Strings, Arrays and Hashes are the three data classes that you will be likely to
 - [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) -  Learn the fundamental syntax you need to get started programming with Ruby
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - Small Ruby tutorial
 
-
 ## More in-depth tutorials
+- [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/) -  Very well-written and in-depth guide to Ruby for absolute beginners.
 - [Why’s (Poignant) Guide To Ruby](http://poignant.guide/) - Probably the most bizarre and entertaining Ruby Tutorial out there.
 - [Ruby Koans](http://rubykoans.com) - A challenging and interesting Ruby tutorial, that also teaches you about error messages and TDD.
 - [RubyLearning.com](http://rubylearning.com/satishtalim/introduction.html) - Ruby Tutorial and Study Notes
