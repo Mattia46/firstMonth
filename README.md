@@ -48,7 +48,7 @@ Below is a breakdown of the weekly work and challenges you need to complete in o
 
 #### Week 4: Intro to TDD
   **Challenge 1:** [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)   
-  **Challenge 2:** [Create your github CV](cv/cv_instructions.md)   
+  **Challenge 2:** [Create your github CV](cv/01_cv_instructions.md)   
   **Challenge 3:** Rank to 5 kyu on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
 #### Extra work
