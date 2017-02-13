@@ -39,7 +39,8 @@ Directories in the command line are just a different way to access the directori
 
 As we progress through this lesson, please type every command into the terminal for yourself. If you simply read without doing, you're highly unlikely to remember the commands. This is a universal rule when learning how to code: try everything.
 
-Don't forget that if you can access the history of your commands by pressing up and down arrows, so if you want to run the command you type a minute ago, just press the up arrow until you see it.
+Don't forget that you can access the history of your commands by pressing up and down arrows, so if you want to run the
+command you typed in a minute ago, just press the up arrow until you see it.
 
 Now that you have the Terminal open, if you are on a Mac, I recommend right clicking on the icon and selecting Options → Keep in Dock. We'll be using the terminal a lot so you want easy access to it.
 
