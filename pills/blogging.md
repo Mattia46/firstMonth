@@ -26,4 +26,4 @@ Written something you're super proud of? If you're blogging on Medium - you can 
  * [Medium](https://www.medium.com)
  * [Write for Makers' publication](http://bit.ly/mablogwriter)
  * [How to write a good Medium article](https://medium.freecodecamp.com/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8#.9wqs0cguw)
- * [Makers Students Blogs](http://bit.ly/mablogs)
+ * [Makers Students Blogs](https://docs.google.com/spreadsheets/d/1l94sEDt5tn4GTzNrdoIJJVfv-KqY1qmI9gtnIrPLRhE/edit?usp=sharing)
