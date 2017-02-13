@@ -231,7 +231,7 @@ You've just created a new environment variable called SEASON. You can read its v
 
 `echo $SEASON`
 
-What it we wanted to modify PATH? Let's add one more directory at the end of PATH:
+What if we wanted to modify PATH? Let's add one more directory at the end of PATH:
 
 `export PATH=$PATH:/Users/shadchnev`
 
