@@ -8,7 +8,7 @@ Every file on a unix-based system has three classes of permissions: "user", "gro
 
 "User" class determines the permissions that the owner of the file has. Every file on a Unix-like system has some user as an owner. A file can have at most one owner and not more.
 
-"Group" class determines the permissions that apply to a group of user. Any user can belong one or more groups of users (but doesn't have to). For example, if there are several users who access the computer only remotely, they may be organised into a special group that has limited privileges.
+"Group" class determines the permissions that apply to a group of users. Any user can belong one or more groups of users (but doesn't have to). For example, if there are several users who access the computer only remotely, they may be organised into a special group that has limited privileges.
 
 "Others" class applies to all users that don't fall into the other two classes.
 
