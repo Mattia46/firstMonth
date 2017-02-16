@@ -25,17 +25,17 @@
 
 Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realize* after the roof is built that there is a crack in the foundation.
 
-Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, wey can revert back to a previous version that we know is solid.
+Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, we can revert back to a previous version that we know is solid.
 
 Additionally, version control allows multiple versions to be built simultaneously and then brought together. It doesn't matter whether you're working in a team or writing code alone, version control is something you absolutely need to understand.
 
-## What would version control in real world look like
+## What version control would look like in the real world
 
-If our lives were version controlled, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again?
+If our lives were version controlled, we'd be able to travel back in time. Imagine going back to any given day being able to live through the life from that point onwards again.
 
-If you ever make a mistake that you later regret, you can "rollback" the time to before mistake and avoid making it this time.
+If you ever make a mistake that you later regret, you can "rollback" the time to before the mistake and avoid making it this time.
 
-If you want to see what life was like when you were 10 years old, you can go back in time and then return into present when you're done.
+If you want to see what life was like when you were 10 years old, you can go back in time and then return to the present when you're done.
 
 You could even live several lives in parallel! Imagine you decide to rob a bank (not that you should!). Maybe you'll get rich and retire in Monte Carlo. Maybe you'll get caught and spend the next 10 years in jail. In real life you have to make a choice and live through the consequences. With version control you can try both options at the same time and see which one works out best. You can then decide what version you like best (robbing the bank or not) and live it for the rest of your life!
 
@@ -399,9 +399,9 @@ The key feature of git is its ability to copy code between repositories. If you 
 ### Using Github
 
 
-First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys). 
+First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys).
 
-Note: 
+Note:
  - Please ignore Github's recommendation to download their GUI client. We want to learn how to use Git from the command line.
 
 Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). Call this repository 'playing-with-git'.
