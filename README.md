@@ -44,7 +44,7 @@ Below is a breakdown of the weekly work and challenges you need to complete in o
 
 #### Week 3: More Ruby
   **Challenge 1:** [Student Directory](https://github.com/makersacademy/student-directory)   
-  **Challenge 2:** Rank to 6 kuy on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
+  **Challenge 2:** Rank to 6 kyu on [Codewars](https://www.codewars.com/kata/search/ruby?beta=false)
 
 #### Week 4: Intro to TDD
   **Challenge 1:** [Pairing over FizzBuzz](https://github.com/makersacademy/pre_course/blob/master/exercises/fizzbuzz.md)   
