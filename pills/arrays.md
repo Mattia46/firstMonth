@@ -3,7 +3,7 @@
 An array, in programming, is an indexed collection of related items. Let's put all our capitals in an array
 
 ````ruby
-capitals = ['London', 'Paris', 'Berlin']
+capitals = ["London", "Paris", "Berlin"]
 ````
 
 In Ruby, an array is denoted by square brackets. The elements are separated by commas. We mentioned above that an array is an indexed collection. This means two things. First, all elements are ordered: Paris comes after London but before Berlin in our array. Second, we can access any element by specifying its index.
