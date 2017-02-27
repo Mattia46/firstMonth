@@ -38,7 +38,7 @@ The first letter shows the type of the file. In case of "subDirectory" we know i
 
 Then come three groups of three characters: "r", "w", "x" or "-". The first group determines the permissions of the "user" class. For example, in case of "subDirectory" in the screenshot above, its permissions ("drwxr-xr-x") mean that the owner of the file (in this case "shadchnev") has read, write and execute permissions ("drwxr-xr-x").
 
-The second group are the permissions for the "group" class, that is, a group of users (in this case "staff"). For "subDirectory" the group only has the read and execute permissions ("drwxr-xr-x"). The hyphen where "w" could be indicated the lack of "write" permission.
+The second group are the permissions for the "group" class, that is, a group of users (in this case "staff"). For "subDirectory" the group only has the read and execute permissions ("drwxr-xr-x"). The lack of "write" permission is indicated by there being a hyphen instead of the "w".
 
 Finally, the last three characters are permissions for the "other" class of users.
 
@@ -72,7 +72,7 @@ For example, you may be already familiar with irb (pronounced eye-are-bee), the 
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381140613000_Screen%20Shot%202013-10-07%20at%2011.10.05.png "irb")
 
-How can we run our little program just like irb by typing its name in the terminal without explicitely invoking ruby? We'll need to do two things: fix the permissions and add a shebang. Let's try running the file first.
+How can we run our little program just like irb by typing its name in the terminal without explicitly invoking ruby? We'll need to do two things: fix the permissions and add a shebang. Let's try running the file first.
 
 Make sure you quit irb if you launched it.
 
@@ -221,7 +221,7 @@ rvm updates the PATH variable to include the folders relevant to the ruby versio
 
 If you have installed some software but you can't run it (command not found error), double check that the PATH variable is set correctly.
 
-Setting environment variables
+#### Setting environment variables
 
 So far we've seen how to read environment variables. We can also set them. Try
 
