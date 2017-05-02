@@ -77,4 +77,4 @@ Ask someone you know well to review it. Ask them:
 
 Congratulations! You have completed your first draft of your CV! We will review these in week 6.
 
-Any questions please feel free to get in touch with Zara on slack: @zara_pearson
+Any questions please feel free to get in touch with Becks Hookham, our careers coach, on slack: @becks
