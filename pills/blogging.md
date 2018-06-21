@@ -16,7 +16,7 @@ Simple!
 
 Start your blog today. We recommend using Medium.com. Use some of the resources below to get ideas on what people blog about.
 
-Once you've set your blog up enter your details at the top [here](http://bit.ly/mablogs).
+Once you've set your blog up enter your details [here](https://makersacademy.typeform.com/to/lh6Veq).
 
 ## Bonus
 Written something you're super proud of? If you're blogging on Medium - you can submit this to the Makers Academy [publication](https://blog.makersacademy.com) and get your story featured by us. We'll do the marketing and promote your article around the internet with the aim to bring you fame in the tech community.
